@@ -1,5 +1,155 @@
 [
   {
+    "id": "tiefe-2026-03-31",
+    "date": "2026-03-31",
+    "titel": "Heilignuechterne Wasser",
+    "leitgedanke": "In vierzehn Zeilen stellt Hoelderlin die Fuelle des Sommers und die Stummheit des Winters nebeneinander -- und laesst den Leser im Abstand zwischen den Strophen stehen.",
+    "themen": [
+      "Natur",
+      "Schwelle",
+      "Sprachlosigkeit"
+    ],
+    "quelle_url": "https://de.wikisource.org/wiki/H%C3%A4lfte_des_Lebens",
+    "autor": "Friedrich Hölderlin",
+    "werk": "Hälfte des Lebens (1805)",
+    "autor_kontext": "Friedrich Hölderlin (1770–1843) studied theology in Tübingen alongside Hegel and Schelling, but turned from a clerical career toward poetry. His mature work fuses Greek lyric forms with a Romanticism entirely his own. In 1806 he suffered a complete mental collapse and spent the remaining 36 years of his life in a carpenter's tower by the Neckar river in Tübingen, cared for by the family of a carpenter named Zimmer, writing spare and formally strange poems under invented names. 'Hälfte des Lebens' appeared one year before the breakdown, in the literary almanac 'Taschenbuch für das Jahr 1805.'",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Das Gedicht hat vierzehn Zeilen und zwei Strophen. Die erste ist erfuellt: Birnen, Rosen, Schwäne, Küsse. Die zweite ist leer: Mauern, Wind, klirrende Fahnen. Zwischen beiden steht kein Bindewort, kein Gegensatz -- nur der weisse Abstand der Strophenluecke."
+        },
+        {
+          "typ": "zitat",
+          "text": "Mit gelben Birnen [[hänget|hänget -- hangs. Archaic 3rd-person singular of hängen; modern German: hängt. The -et ending, standard in Early New High German verse, gives the opening line a drawn-out, suspended cadence.]]\nUnd voll mit wilden Rosen\nDas Land in den See,\nIhr [[holden|holden -- gracious, lovely, dear. Archaic inflected form of hold (tender, beloved, gracious). Heard today mainly in folksong and formal verse; here in direct address to the swans.]] Schwäne,\nUnd [[trunken|trunken -- intoxicated, seized. Archaic poetic form of betrunken, used predicatively. In poetic usage, trunken implies being overtaken by a force: von Küssen, von Licht, von Freude.]] von Küssen\n[[Tunkt|tunkt -- dips, dunks. 3rd-person singular of tunken: to briefly submerge something in liquid. A concrete household verb elevated here into a gesture both sensual and ritual.]] ihr das Haupt\nIns [[heilignüchterne|heilignüchterne -- sacred-sober. Hölderlin's coined compound: heilig (holy) + nüchtern (sober, clear, unintoxicated). The water is ecstatic and pellucid at once -- the oxymoron is his own invention.]] Wasser.",
+          "quelle": "Friedrich Hölderlin, Hälfte des Lebens, 1805"
+        },
+        {
+          "typ": "zitat",
+          "text": "Weh mir, wo nehm ich, wenn\nEs Winter ist, die Blumen, und wo\nDen [[Sonnenschein|der Sonnenschein -- sunshine. Used here not as backdrop but as a tangible thing to be found and held -- its winter absence registers as loss, not merely as change.]], \nUnd [[Schatten|der Schatten -- shadow, shade. From Old High German scato. Here: the cool protective shade of summer trees, something missed in winter -- shade as a positive, sought thing.]] der Erde?\nDie Mauern [[stehn|stehn -- stand. Contracted form of stehen, common in verse to preserve the metre. The verb is absolute here: the walls stand without purpose or direction.]]\n[[Sprachlos|sprachlos -- speechless, without language. Sprache (language) + -los (without). The walls do not merely stand silently; they are deprived of language itself -- a stronger claim than silence.]] und kalt, im Winde\n[[Klirren|klirren -- to clatter, to jangle. The sharp metallic sound of hard objects struck or rattled by wind. Onomatopoeic: the sound is in the syllables.]] die [[Fahnen|die Fahnen -- flags, banners. Plural of Fahne (from Old High German fano: cloth). In winter, the world's color and warmth are gone; what remains rattles rather than waves.]].",
+          "quelle": "Friedrich Hölderlin, Hälfte des Lebens, 1805"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "The poem has fourteen lines and two strophes. The first is full: pears, roses, swans, kisses. The second is empty: walls, wind, clattering flags. Between the two there is no connective, no 'but,' no 'whereas' -- only the white space of the strophe break."
+        },
+        {
+          "typ": "zitat",
+          "text": "With yellow pears the land hangs\nAnd full of wild roses\nInto the lake,\nYou gracious swans,\nAnd drunk from kisses\nYou dip your heads\nInto the sacred-sober water.",
+          "quelle": "Friedrich Hölderlin, Hälfte des Lebens (Halfway Through Life), 1805"
+        },
+        {
+          "typ": "zitat",
+          "text": "Woe to me, where shall I find, when\nIt is winter, the flowers, and where\nThe sunshine,\nAnd the shadows of the earth?\nThe walls stand\nSpeechless and cold, in the wind\nThe flags clatter.",
+          "quelle": "Friedrich Hölderlin, Hälfte des Lebens (Halfway Through Life), 1805"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Walter Benjamin beschrieb die Schwelle als eigenstaendige Erfahrungskategorie, einen Raum, der keinem der beiden Bereiche angehoert, die er verbindet. Hoelderlins Gedicht bewohnt genau diesen Raum. Die erste Strophe ist satt; die zweite ist leer; die Strophenluecke zwischen ihnen ist das Gedicht selbst: der Moment, in dem die Fuelle noch sichtbar ist, waehrend die Leere bereits eingetreten ist.",
+        "en": "Walter Benjamin described the threshold as its own experiential category, a space belonging to neither of the two realms it connects. Hölderlin's poem inhabits exactly that space. The first strophe is full; the second is empty; the strophe gap between them is the poem itself: the moment in which fullness is still visible while emptiness has already arrived."
+      },
+      {
+        "de": "Nietzsche schrieb 1872 in der 'Geburt der Tragoedie', die groesste griechische Kunst entstehe aus der Spannung zwischen apollinischer Form und dionysischer Aufloesung. Hoelderlin hatte diesen Widerspruch bereits in ein einziges Wort gefasst: 'heilignuechterne'. Das Wasser der Schwäne ist berauscht und klar zugleich. Hoelderlin schrieb das Gedicht ein Jahr vor seinem Zusammenbruch -- es ist das Werk eines Mannes, der beide Zustaende noch gleichzeitig halten konnte.",
+        "en": "Nietzsche wrote in 1872 in 'Die Geburt der Tragödie' that the greatest Greek art arose from the tension between Apollonian form and Dionysian dissolution. Hölderlin had already compressed that opposition into a single word: 'heilignüchterne.' The swans' water is intoxicated and clear at once. Hölderlin wrote the poem one year before his breakdown -- it is the work of a man who could still hold both states simultaneously."
+      },
+      {
+        "de": "Die zweite Strophe endet mit klirrenden Fahnen. Kein Vogel, kein Wasser, kein organisches Geraeusch, nur Metall gegen Metall. Der Architekt Louis Kahn schrieb, ein Bauwerk beginne dort, wo der Raum schweigt. Hoelderlins Mauern schweigen auf ihre eigene Art: Sie haben die Sprache verloren. Das Klirren der Fahnen ist das Geraeusch, das uebrigbleibt, wenn Sprache wegfaellt.",
+        "en": "The second strophe ends with clattering flags. No bird, no water, no organic sound, only metal against metal. The architect Louis Kahn wrote that a building begins where the space falls silent. Hölderlin's walls are silent in their own way: they have lost language. The clattering of the flags is the sound that remains when language falls away."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "hänget",
+        "definition": "hangs -- archaic 3rd-person singular of hängen; the -et ending was standard in Early New High German and survives in poetic usage as a register marker",
+        "beispiel": "Das Obst haenget schwer an den alten Aesten.",
+        "etymologie": "From Old High German hangan (to hang, to be suspended). Modern German hängt drops the final syllable. The archaic form gives Hölderlin's opening line its slow, suspended cadence."
+      },
+      {
+        "wort": "hold",
+        "definition": "gracious, dear, lovely -- archaic adjective expressing gentle affection or grace; rare in modern spoken German outside set phrases and folksong",
+        "beispiel": "Die holde Stille des Morgens lag ueber dem See.",
+        "etymologie": "From Old High German hold (gracious, loyal, well-disposed). The inflected form holden appears in direct address (vocative). Related to huldigen (to pay homage, to show devotion) and Huld (grace, favour)."
+      },
+      {
+        "wort": "trunken",
+        "definition": "intoxicated, seized -- archaic/poetic predicate adjective from trinken; implies being overtaken by a force rather than merely having consumed alcohol",
+        "beispiel": "Trunken vor Muedigkeit liessen sie sich ins Gras fallen.",
+        "etymologie": "Past participle of trinken (to drink), from Old High German trinkan. Modern German uses betrunken for ordinary drunkenness; trunken survives in elevated compounds: trunken vor Freude (overcome with joy), liebestrunken (drunk with love)."
+      },
+      {
+        "wort": "tunken",
+        "definition": "to dip, to dunk -- to briefly submerge something in liquid; a concrete everyday verb that Hölderlin deploys for a gesture both sensual and ceremonial",
+        "beispiel": "Er tunkte das Brot in das Olivenoel.",
+        "etymologie": "From Middle High German tunken, related to Old High German dunkōn. Cognate with English 'dunk' (via Dutch). The verb spans registers: homely enough for bread-dipping, elevated here into ritual."
+      },
+      {
+        "wort": "heilignüchtern",
+        "definition": "sacred-sober -- Hölderlin's coined compound: holy and sober at once. The water is ritually pure precisely because it is clear, even as the swans arrive drunk from kisses",
+        "beispiel": "Ein heilignuechterneres Bewusstsein verlangt Tiefe und Klarheit zugleich.",
+        "etymologie": "Heilig (holy, from Old High German heilag: whole, intact, blessed) + nüchtern (sober, clear-headed; from Old High German nuohturn, the early morning state before eating or drinking). First noted as a characteristic Hölderlin coinage by the editor Norbert von Hellingrath in his landmark critical edition of 1913."
+      },
+      {
+        "wort": "sprachlos",
+        "definition": "speechless, without language -- not merely silent but deprived of the capacity for speech; applicable to people, walls, and entire winter landscapes",
+        "beispiel": "Er stand sprachlos vor dem Ausmass der Zerstoerung.",
+        "etymologie": "Sprache (language, speech, from Old High German sprāhha) + -los (without, free of, from Old High German lōs). The suffix -los negates a capacity: herzlos (heartless), hoffnungslos (hopeless). Sprachlos denies language itself, which is a stronger condition than silence."
+      },
+      {
+        "wort": "klirren",
+        "definition": "to clatter, to jangle, to clink -- the sharp percussive sound of hard objects struck or rattled by wind",
+        "beispiel": "Die Schluessel klirrten in seiner Tasche.",
+        "etymologie": "Onomatopoeic: the word reproduces the sound it names. From Middle High German klirren (to rattle, to clash). Compare Klirren des Glases (clink of glass), Klirren der Ketten (rattling of chains). The second strophe announces winter through sound rather than image."
+      },
+      {
+        "wort": "die Fahne",
+        "definition": "flag, banner -- a cloth on a pole; plural Fahnen. Here: an object that rattles in cold wind, carrying no symbolic weight",
+        "beispiel": "Im Sturm peitschten die Fahnen gegen die Stangen.",
+        "etymologie": "From Old High German fano (cloth, banner), cognate with Latin pannus (cloth). Related to English 'vane' (a weathervane turns in wind as these flags clatter in it). The compound Wetterfahne (weathervane) names a thing that turns with whatever wind blows."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Nachgestelltes Subjekt (Hyperbaton): Verb geht dem Subjekt durch Adverbialphrasen voraus",
+        "beispiel": "Mit gelben Birnen hänget / Und voll mit wilden Rosen / Das Land in den See",
+        "erklaerung": "Der Satz beginnt mit zwei Adverbialphrasen ('Mit gelben Birnen', 'voll mit wilden Rosen'), das Verb folgt ('hänget'), und erst in der dritten Zeile erscheint das grammatische Subjekt 'Das Land'. Diese Nachstellung erzeugt syntaktische Spannung: Was haengt? Die Antwort kommt drei Zeilen spaeter. Hoelderlin nutzt die Satzstellung als Leseerfahrung -- die Fuelle des Bildes geht ihrem Traeger voraus.",
+        "erklaerung_en": "The sentence begins with two adverbial phrases ('Mit gelben Birnen,' 'voll mit wilden Rosen'), the verb follows ('hänget'), and only in the third line does the grammatical subject 'Das Land' appear. This displacement creates syntactic suspense: what is hanging? The answer comes three lines later. Hölderlin uses sentence structure as a reading experience -- the fullness of the image precedes its bearer.",
+        "weitere_beispiele": [
+          "Weit ueber den Daechern der Stadt, hoch und still, schwebt ein Adler.",
+          "Mit ruhiger Hand und sicherem Blick zeichnete er die Umrisse des Gesichts."
+        ]
+      },
+      {
+        "struktur": "Ausruf-Dativ (Dativus ethicus): 'Weh mir'",
+        "beispiel": "Weh mir, wo nehm ich, wenn / Es Winter ist, die Blumen",
+        "erklaerung": "'Weh' ist ein Ausruf des Schmerzes; 'mir' ist der Dativ des Personalpronomens der ersten Person Singular. Diese Konstruktion heisst Dativus ethicus: Der Dativ zeigt nicht den Empfaenger einer Handlung an, sondern die emotionale Betroffenheit des Sprechers. Im modernen Deutsch wuerde man eher sagen 'Wie soll ich nur...' oder 'Ach, ich Armer!' Die Formel 'Weh mir' klingt 1805 bereits archaisch -- eine Anlehnung an mittelhochdeutsche Klageliteratur.",
+        "erklaerung_en": "'Weh' is an exclamation of pain; 'mir' is the first-person singular dative. This construction is the Dativus ethicus: the dative signals the speaker's emotional involvement rather than denoting the recipient of an action. In modern German one would say 'Wie soll ich nur...' or 'Ach, ich Armer!' The formula 'Weh mir' sounds deliberately archaic in 1805 -- an echo of Middle High German lament poetry.",
+        "weitere_beispiele": [
+          "Weh mir! Warum habe ich das nicht frueher gewusst! (archaische Klage)",
+          "Mir ist kalt. / Mir ist angst. (Moderner Rest: Dativ des betroffenen Selbst, kein Nominativsubjekt.)"
+        ]
+      },
+      {
+        "struktur": "Sperrung (Tmesis): Akkusativobjekt durch eingeschobenen Konditionalsatz vom Verb getrennt",
+        "beispiel": "wo nehm ich, wenn / Es Winter ist, die Blumen",
+        "erklaerung": "Das direkte Objekt 'die Blumen' gehoert grammatisch zu 'nehm ich', ist aber durch den eingeschobenen Konditionalsatz 'wenn es Winter ist' vom Verb getrennt. Diese Konstruktion heisst Sperrung oder Tmesis. Das Ergebnis ist eine Schwebe: Der Leser muss warten -- erst die grosse Bedingung, dann erst das Gesuchte. Die Unterbrechung spiegelt inhaltlich das Suchen selbst.",
+        "erklaerung_en": "The direct object 'die Blumen' belongs grammatically to 'nehm ich,' but is separated from its verb by the interpolated conditional clause 'wenn es Winter ist.' This construction is called Sperrung or tmesis. The result is suspension: the reader must wait -- first the great condition, then finally the thing sought. The interruption mirrors the search itself.",
+        "weitere_beispiele": [
+          "Wo finde ich, wenn das Vertrauen erst gebrochen ist, die Worte zurueck?",
+          "Ich werde, sobald der Fruehling kommt, den Garten neu bepflanzen."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "zwischen den Jahren",
+      "uebersetzung": "between the years",
+      "anmerkung": "The days between Christmas (December 25) and New Year (January 1), regarded in German-speaking regions as a liminal stretch outside ordinary time. In folk belief, these were boundary-crossing days when the normal rules of time were briefly suspended. Used today for the quiet period when offices close and life pauses. Hölderlin's poem belongs to this same register: suspended between the fullness of late summer and the bareness of January, it is itself a moment 'zwischen den Jahren.'"
+    }
+  },
+  {
     "id": "tiefe-2026-03-30",
     "date": "2026-03-30",
     "titel": "Sternbestickter Mantel",
