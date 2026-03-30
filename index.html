@@ -54,6 +54,19 @@
   --accent:  #c47a4a;
   --sans:    'Geist', sans-serif;
   --mono:    'Geist Mono', monospace;
+  --popup-shadow: 0 8px 40px rgba(0,0,0,0.6);
+}
+
+html.light {
+  --bg:      #f5f0e8;
+  --surface: #ebe5da;
+  --border:  #d4cbbf;
+  --cream:   #1c1815;
+  --text:    #3d3830;
+  --muted:   #6e6860;
+  --faint:   #a8a098;
+  --accent:  #b8693c;
+  --popup-shadow: 0 8px 40px rgba(0,0,0,0.12);
 }
 
 html { font-size: 16px; }
@@ -100,6 +113,27 @@ header {
   color: var(--muted);
   font-weight: 400;
 }
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.mode-toggle {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--faint);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  font-weight: 400;
+  transition: color 0.15s;
+}
+
+.mode-toggle:hover { color: var(--muted); }
 
 /* ── ENTRY HEADER ── */
 .entry-header { margin-bottom: 36px; }
@@ -518,7 +552,7 @@ header {
   padding: 14px 18px;
   width: calc(100% - 48px);
   max-width: 480px;
-  box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  box-shadow: var(--popup-shadow);
   z-index: 100;
   opacity: 0;
   transition: opacity 0.18s, transform 0.18s;
@@ -559,7 +593,10 @@ header {
 <div class="page">
   <header>
     <span class="wordmark">Tiefe</span>
-    <span class="date-display" id="dateDisplay"></span>
+    <div class="header-right">
+      <button class="mode-toggle" id="modeToggle" onclick="toggleMode()">hell</button>
+      <span class="date-display" id="dateDisplay"></span>
+    </div>
   </header>
   <main id="main"></main>
 </div>
@@ -573,6 +610,21 @@ header {
 
 let entries = [];
 let showAllEN = false;
+
+// -- Light/dark mode --
+
+function toggleMode() {
+  var isLight = document.documentElement.classList.toggle('light');
+  document.getElementById('modeToggle').textContent = isLight ? 'dunkel' : 'hell';
+  localStorage.setItem('tiefe-mode', isLight ? 'light' : 'dark');
+}
+
+(function initMode() {
+  if (localStorage.getItem('tiefe-mode') === 'light') {
+    document.documentElement.classList.add('light');
+    document.getElementById('modeToggle').textContent = 'dunkel';
+  }
+})();
 
 // -- Date formatting --
 
@@ -598,11 +650,20 @@ function estimateReadingTime(entry) {
   return Math.max(5, Math.ceil(words / 80));
 }
 
+// -- Umlaut conversion: ae/oe/ue → ä/ö/ü for my-writing fields --
+
+function du(text) {
+  if (!text) return text;
+  return text
+    .replace(/Ae/g, 'Ä').replace(/Oe/g, 'Ö').replace(/Ue/g, 'Ü')
+    .replace(/ae/g, 'ä').replace(/oe/g, 'ö').replace(/ue/g, 'ü');
+}
+
 // -- Parse [[word|def]] annotations --
 
 function parseAnnotations(text) {
   return text.replace(/\[\[([^\|]+)\|([^\]]+)\]\]/g, function(_, word, def) {
-    var safeDef = def.replace(/"/g, '&quot;');
+    var safeDef = du(def).replace(/"/g, '&quot;');
     return '<span class="w" data-word="' + word + '" data-def="' + safeDef + '">' + word + '</span>';
   });
 }
@@ -620,12 +681,12 @@ function renderEntry(entry) {
     var autorLine = [entry.autor, entry.werk].filter(Boolean).join(' · ');
     html += '<div class="entry-autor-line">' + autorLine + '</div>';
   }
-  html += '<h1 class="entry-titel">' + entry.titel + '</h1>';
-  html += '<p class="entry-leitgedanke">' + entry.leitgedanke + '</p>';
+  html += '<h1 class="entry-titel">' + du(entry.titel) + '</h1>';
+  html += '<p class="entry-leitgedanke">' + du(entry.leitgedanke) + '</p>';
   if (entry.themen && entry.themen.length) {
     html += '<div class="entry-themen">';
     entry.themen.forEach(function(t) {
-      html += '<span class="thema-tag">' + t + '</span>';
+      html += '<span class="thema-tag">' + du(t) + '</span>';
     });
     html += '</div>';
   }
@@ -652,7 +713,7 @@ function renderEntry(entry) {
       var enBlock = (entry.haupttext.en && entry.haupttext.en[i]) || null;
 
       html += '<div class="block' + (isZitat ? ' block-zitat' : '') + '">';
-      html += '<div class="block-de">' + parseAnnotations(block.text) + '</div>';
+      html += '<div class="block-de">' + parseAnnotations(isZitat ? block.text : du(block.text)) + '</div>';
 
       if (isZitat && block.quelle) {
         html += '<div class="block-quelle">' + block.quelle + '</div>';
@@ -678,7 +739,7 @@ function renderEntry(entry) {
     html += '<p class="section-label">Verbindungen</p>';
     entry.verbindungen.forEach(function(v, i) {
       html += '<div class="verbindung">';
-      html += '<div class="verbindung-de">' + v.de + '</div>';
+      html += '<div class="verbindung-de">' + du(v.de) + '</div>';
       html += '<div class="verbindung-en" id="verb-en-' + i + '">' + v.en + '</div>';
       html += '</div>';
     });
@@ -692,9 +753,9 @@ function renderEntry(entry) {
     entry.wortschatz.forEach(function(v) {
       html += '<div class="vocab-item">';
       html += '<div class="vocab-word">' + v.wort + '</div>';
-      html += '<div class="vocab-def">' + v.definition + '</div>';
-      if (v.beispiel)    html += '<div class="vocab-example">' + v.beispiel + '</div>';
-      if (v.etymologie)  html += '<div class="vocab-etymology">' + v.etymologie + '</div>';
+      html += '<div class="vocab-def">' + du(v.definition) + '</div>';
+      if (v.beispiel)    html += '<div class="vocab-example">' + du(v.beispiel) + '</div>';
+      if (v.etymologie)  html += '<div class="vocab-etymology">' + du(v.etymologie) + '</div>';
       html += '</div>';
     });
     html += '</div>';
@@ -707,16 +768,16 @@ function renderEntry(entry) {
     html += '<div class="grammar-list">';
     entry.grammatik.forEach(function(g, i) {
       html += '<div class="grammar-item">';
-      html += '<div class="grammar-struktur">' + g.struktur + '</div>';
+      html += '<div class="grammar-struktur">' + du(g.struktur) + '</div>';
       html += '<div class="grammar-beispiel">' + g.beispiel + '</div>';
-      html += '<div class="grammar-erklaerung">' + g.erklaerung + '</div>';
+      html += '<div class="grammar-erklaerung">' + du(g.erklaerung) + '</div>';
       if (g.erklaerung_en) {
         html += '<div class="grammar-erklaerung-en" id="gram-en-' + i + '">' + g.erklaerung_en + '</div>';
       }
       if (g.weitere_beispiele && g.weitere_beispiele.length) {
         html += '<div class="grammar-weitere">';
         g.weitere_beispiele.forEach(function(ex) {
-          html += '<span>' + ex + '</span>';
+          html += '<span>' + du(ex) + '</span>';
         });
         html += '</div>';
       }
@@ -733,7 +794,7 @@ function renderEntry(entry) {
     html += '<div class="saying-text">\u201E' + entry.redewendung.text + '\u201C</div>';
     html += '<div class="saying-translation">' + entry.redewendung.uebersetzung + '</div>';
     if (entry.redewendung.anmerkung) {
-      html += '<div class="saying-note">' + entry.redewendung.anmerkung + '</div>';
+      html += '<div class="saying-note">' + du(entry.redewendung.anmerkung) + '</div>';
     }
     html += '</div>';
   }
