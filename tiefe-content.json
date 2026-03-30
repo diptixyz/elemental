@@ -17,11 +17,11 @@
       "de": [
         {
           "typ": "absatz",
-          "text": "Das Gedicht hat vierzehn Zeilen und zwei Strophen. Die erste ist erfuellt: Birnen, Rosen, Schwäne, Küsse. Die zweite ist leer: Mauern, Wind, klirrende Fahnen. Zwischen beiden steht kein Bindewort, kein Gegensatz -- nur der weisse Abstand der Strophenluecke."
+          "text": "Das Gedicht hat vierzehn Zeilen und zwei Strophen. Die erste ist erfuellt: Birnen, Rosen, Schwaene, Kuesse. Die zweite ist leer: Mauern, Wind, klirrende Fahnen. Zwischen beiden steht kein Bindewort, kein Gegensatz -- nur der weisse Abstand der Strophenluecke."
         },
         {
           "typ": "zitat",
-          "text": "Mit gelben Birnen [[hänget|hänget -- hangs. Archaic 3rd-person singular of hängen; modern German: hängt. The -et ending, standard in Early New High German verse, gives the opening line a drawn-out, suspended cadence.]]\nUnd voll mit wilden Rosen\nDas Land in den See,\nIhr [[holden|holden -- gracious, lovely, dear. Archaic inflected form of hold (tender, beloved, gracious). Heard today mainly in folksong and formal verse; here in direct address to the swans.]] Schwäne,\nUnd [[trunken|trunken -- intoxicated, seized. Archaic poetic form of betrunken, used predicatively. In poetic usage, trunken implies being overtaken by a force: von Küssen, von Licht, von Freude.]] von Küssen\n[[Tunkt|tunkt -- dips, dunks. 3rd-person singular of tunken: to briefly submerge something in liquid. A concrete household verb elevated here into a gesture both sensual and ritual.]] ihr das Haupt\nIns [[heilignüchterne|heilignüchterne -- sacred-sober. Hölderlin's coined compound: heilig (holy) + nüchtern (sober, clear, unintoxicated). The water is ecstatic and pellucid at once -- the oxymoron is his own invention.]] Wasser.",
+          "text": "Mit gelben Birnen [[hänget|haenget -- hangs. Archaic 3rd-person singular of haengen; modern German: haengt. The -et ending, standard in Early New High German verse, gives the opening line a drawn-out, suspended cadence.]]\nUnd voll mit wilden Rosen\nDas Land in den See,\nIhr [[holden|holden -- gracious, lovely, dear. Archaic inflected form of hold (tender, beloved, gracious). Heard today mainly in folksong and formal verse; here in direct address to the swans.]] Schwäne,\nUnd [[trunken|trunken -- intoxicated, seized. Archaic poetic form of betrunken, used predicatively. In poetic usage, trunken implies being overtaken by a force: von Kuessen, von Licht, von Freude.]] von Küssen\n[[Tunkt|tunkt -- dips, dunks. 3rd-person singular of tunken: to briefly submerge something in liquid. A concrete household verb elevated here into a gesture both sensual and ritual.]] ihr das Haupt\nIns [[heilignüchterne|heilignuechterne -- sacred-sober. Hoelderlin's coined compound: heilig (holy) + nuechtern (sober, clear, unintoxicated). The water is ecstatic and pellucid at once -- the oxymoron is his own invention.]] Wasser.",
           "quelle": "Friedrich Hölderlin, Hälfte des Lebens, 1805"
         },
         {
@@ -53,7 +53,7 @@
         "en": "Walter Benjamin described the threshold as its own experiential category, a space belonging to neither of the two realms it connects. Hölderlin's poem inhabits exactly that space. The first strophe is full; the second is empty; the strophe gap between them is the poem itself: the moment in which fullness is still visible while emptiness has already arrived."
       },
       {
-        "de": "Nietzsche schrieb 1872 in der 'Geburt der Tragoedie', die groesste griechische Kunst entstehe aus der Spannung zwischen apollinischer Form und dionysischer Aufloesung. Hoelderlin hatte diesen Widerspruch bereits in ein einziges Wort gefasst: 'heilignuechterne'. Das Wasser der Schwäne ist berauscht und klar zugleich. Hoelderlin schrieb das Gedicht ein Jahr vor seinem Zusammenbruch -- es ist das Werk eines Mannes, der beide Zustaende noch gleichzeitig halten konnte.",
+        "de": "Nietzsche schrieb 1872 in der 'Geburt der Tragoedie', die groesste griechische Kunst entstehe aus der Spannung zwischen apollinischer Form und dionysischer Aufloesung. Hoelderlin hatte diesen Widerspruch bereits in ein einziges Wort gefasst: 'heilignuechterne'. Das Wasser der Schwaene ist berauscht und klar zugleich. Hoelderlin schrieb das Gedicht ein Jahr vor seinem Zusammenbruch -- es ist das Werk eines Mannes, der beide Zustaende noch gleichzeitig halten konnte.",
         "en": "Nietzsche wrote in 1872 in 'Die Geburt der Tragödie' that the greatest Greek art arose from the tension between Apollonian form and Dionysian dissolution. Hölderlin had already compressed that opposition into a single word: 'heilignüchterne.' The swans' water is intoxicated and clear at once. Hölderlin wrote the poem one year before his breakdown -- it is the work of a man who could still hold both states simultaneously."
       },
       {
@@ -64,9 +64,9 @@
     "wortschatz": [
       {
         "wort": "hänget",
-        "definition": "hangs -- archaic 3rd-person singular of hängen; the -et ending was standard in Early New High German and survives in poetic usage as a register marker",
+        "definition": "hangs -- archaic 3rd-person singular of haengen; the -et ending was standard in Early New High German and survives in poetic usage as a register marker",
         "beispiel": "Das Obst haenget schwer an den alten Aesten.",
-        "etymologie": "From Old High German hangan (to hang, to be suspended). Modern German hängt drops the final syllable. The archaic form gives Hölderlin's opening line its slow, suspended cadence."
+        "etymologie": "From Old High German hangan (to hang, to be suspended). Modern German haengt drops the final syllable. The archaic form gives Hoelderlin's opening line its slow, suspended cadence."
       },
       {
         "wort": "hold",
@@ -82,15 +82,15 @@
       },
       {
         "wort": "tunken",
-        "definition": "to dip, to dunk -- to briefly submerge something in liquid; a concrete everyday verb that Hölderlin deploys for a gesture both sensual and ceremonial",
+        "definition": "to dip, to dunk -- to briefly submerge something in liquid; a concrete everyday verb that Hoelderlin deploys for a gesture both sensual and ceremonial",
         "beispiel": "Er tunkte das Brot in das Olivenoel.",
         "etymologie": "From Middle High German tunken, related to Old High German dunkōn. Cognate with English 'dunk' (via Dutch). The verb spans registers: homely enough for bread-dipping, elevated here into ritual."
       },
       {
         "wort": "heilignüchtern",
-        "definition": "sacred-sober -- Hölderlin's coined compound: holy and sober at once. The water is ritually pure precisely because it is clear, even as the swans arrive drunk from kisses",
+        "definition": "sacred-sober -- Hoelderlin's coined compound: holy and sober at once. The water is ritually pure precisely because it is clear, even as the swans arrive drunk from kisses",
         "beispiel": "Ein heilignuechterneres Bewusstsein verlangt Tiefe und Klarheit zugleich.",
-        "etymologie": "Heilig (holy, from Old High German heilag: whole, intact, blessed) + nüchtern (sober, clear-headed; from Old High German nuohturn, the early morning state before eating or drinking). First noted as a characteristic Hölderlin coinage by the editor Norbert von Hellingrath in his landmark critical edition of 1913."
+        "etymologie": "Heilig (holy, from Old High German heilag: whole, intact, blessed) + nuechtern (sober, clear-headed; from Old High German nuohturn, the early morning state before eating or drinking). First noted as a characteristic Hoelderlin coinage by the editor Norbert von Hellingrath in his landmark critical edition of 1913."
       },
       {
         "wort": "sprachlos",
@@ -115,7 +115,7 @@
       {
         "struktur": "Nachgestelltes Subjekt (Hyperbaton): Verb geht dem Subjekt durch Adverbialphrasen voraus",
         "beispiel": "Mit gelben Birnen hänget / Und voll mit wilden Rosen / Das Land in den See",
-        "erklaerung": "Der Satz beginnt mit zwei Adverbialphrasen ('Mit gelben Birnen', 'voll mit wilden Rosen'), das Verb folgt ('hänget'), und erst in der dritten Zeile erscheint das grammatische Subjekt 'Das Land'. Diese Nachstellung erzeugt syntaktische Spannung: Was haengt? Die Antwort kommt drei Zeilen spaeter. Hoelderlin nutzt die Satzstellung als Leseerfahrung -- die Fuelle des Bildes geht ihrem Traeger voraus.",
+        "erklaerung": "Der Satz beginnt mit zwei Adverbialphrasen ('Mit gelben Birnen', 'voll mit wilden Rosen'), das Verb folgt ('haenget'), und erst in der dritten Zeile erscheint das grammatische Subjekt 'Das Land'. Diese Nachstellung erzeugt syntaktische Spannung: Was haengt? Die Antwort kommt drei Zeilen spaeter. Hoelderlin nutzt die Satzstellung als Leseerfahrung -- die Fuelle des Bildes geht ihrem Traeger voraus.",
         "erklaerung_en": "The sentence begins with two adverbial phrases ('Mit gelben Birnen,' 'voll mit wilden Rosen'), the verb follows ('hänget'), and only in the third line does the grammatical subject 'Das Land' appear. This displacement creates syntactic suspense: what is hanging? The answer comes three lines later. Hölderlin uses sentence structure as a reading experience -- the fullness of the image precedes its bearer.",
         "weitere_beispiele": [
           "Weit ueber den Daechern der Stadt, hoch und still, schwebt ein Adler.",
@@ -146,7 +146,7 @@
     "redewendung": {
       "text": "zwischen den Jahren",
       "uebersetzung": "between the years",
-      "anmerkung": "The days between Christmas (December 25) and New Year (January 1), regarded in German-speaking regions as a liminal stretch outside ordinary time. In folk belief, these were boundary-crossing days when the normal rules of time were briefly suspended. Used today for the quiet period when offices close and life pauses. Hölderlin's poem belongs to this same register: suspended between the fullness of late summer and the bareness of January, it is itself a moment 'zwischen den Jahren.'"
+      "anmerkung": "The days between Christmas (December 25) and New Year (January 1), regarded in German-speaking regions as a liminal stretch outside ordinary time. In folk belief, these were boundary-crossing days when the normal rules of time were briefly suspended. Used today for the quiet period when offices close and life pauses. Hoelderlin's poem belongs to this same register: suspended between the fullness of late summer and the bareness of January, it is itself a moment 'zwischen den Jahren.'"
     }
   },
   {
