@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tiefe</title>
+<style>
+
+/* ── FONTS ── */
+@font-face {
+  font-family: 'Geist';
+  src: url('Fonts/geist-latin-ext.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Geist';
+  src: url('Fonts/geist-latin.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Geist Mono';
+  src: url('Fonts/geist-mono-latin-ext.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Geist Mono';
+  src: url('Fonts/geist-mono-latin.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ── RESET ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:      #1e1e1e;
+  --surface: #252525;
+  --border:  #2e2e2e;
+  --cream:   #e5dfd3;
+  --text:    #b0a99a;
+  --muted:   #7a7468;
+  --faint:   #3a3632;
+  --accent:  #c47a4a;
+  --sans:    'Geist', sans-serif;
+  --mono:    'Geist Mono', monospace;
+}
+
+html { font-size: 16px; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-weight: 400;
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 64px 32px 120px;
+}
+
+/* ── HEADER ── */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 56px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.wordmark {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: var(--cream);
+  font-weight: 400;
+}
+
+.date-display {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  font-weight: 400;
+}
+
+/* ── ENTRY HEADER ── */
+.entry-header { margin-bottom: 36px; }
+
+.entry-autor-line {
+  font-family: var(--mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 14px;
+  font-weight: 400;
+}
+
+.entry-titel {
+  font-size: clamp(22px, 4vw, 30px);
+  font-weight: 500;
+  line-height: 1.25;
+  color: var(--cream);
+  letter-spacing: -0.02em;
+  margin-bottom: 12px;
+}
+
+.entry-leitgedanke {
+  font-size: 15px;
+  color: var(--muted);
+  line-height: 1.65;
+  font-style: italic;
+  margin-bottom: 16px;
+}
+
+.entry-themen {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.thema-tag {
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  padding: 3px 8px;
+  font-weight: 400;
+}
+
+.lesezeit {
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.08em;
+  color: var(--faint);
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+/* ── AUTHOR CONTEXT ── */
+.autor-kontext {
+  padding: 20px 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  margin: 28px 0 36px;
+}
+
+.autor-kontext-label {
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--faint);
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.autor-kontext-text {
+  font-size: 0.88rem;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+/* ── GLOBAL TOGGLE ── */
+.global-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 36px;
+}
+
+.global-toggle-btn {
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--border);
+  padding: 5px 12px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+  font-weight: 400;
+}
+
+.global-toggle-btn:hover { color: var(--cream); border-color: var(--text); }
+.global-toggle-btn.active { color: var(--accent); border-color: var(--accent); }
+
+/* ── ENTRY ANIMATION ── */
+.entry { animation: fadeIn 0.35s ease; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── TEXT BLOCKS ── */
+.block { position: relative; margin-bottom: 24px; }
+
+.block-de {
+  font-size: 18px;
+  line-height: 1.82;
+  color: var(--cream);
+  font-weight: 400;
+}
+
+.block-zitat {
+  border-left: 2px solid var(--accent);
+  padding-left: 24px;
+  margin: 32px 0;
+}
+
+.block-zitat .block-de {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.block-quelle {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.03em;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+/* ── PER-PARAGRAPH EN TOGGLE ── */
+.block-toggle {
+  position: absolute;
+  top: 2px;
+  right: -36px;
+  font-family: var(--mono);
+  font-size: 9px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--faint);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px 4px;
+  transition: color 0.15s;
+  font-weight: 400;
+}
+
+.block-toggle:hover { color: var(--muted); }
+.block-toggle.active { color: var(--accent); }
+
+.block-en {
+  font-size: 14px;
+  line-height: 1.72;
+  color: var(--muted);
+  font-style: italic;
+  padding-left: 16px;
+  border-left: 1px solid var(--border);
+  margin-top: 12px;
+  display: none;
+}
+
+.block-en.visible { display: block; }
+
+/* ── TAPPABLE WORDS ── */
+.w {
+  border-bottom: 1px solid var(--accent);
+  cursor: pointer;
+  color: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* ── SECTION DIVIDERS ── */
+.section-divider {
+  width: 100%;
+  height: 1px;
+  background: var(--border);
+  margin: 44px 0;
+}
+
+.section-label {
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 24px;
+  font-weight: 400;
+}
+
+/* ── VERBINDUNGEN ── */
+.verbindung {
+  margin-bottom: 24px;
+  padding-left: 16px;
+  border-left: 1px solid var(--border);
+}
+
+.verbindung-de {
+  font-size: 15px;
+  line-height: 1.78;
+  color: var(--text);
+}
+
+.verbindung-en {
+  font-size: 13px;
+  line-height: 1.68;
+  color: var(--muted);
+  font-style: italic;
+  display: none;
+  margin-top: 8px;
+}
+
+.verbindung-en.visible { display: block; }
+
+/* ── VOCABULARY ── */
+.vocab-list { display: flex; flex-direction: column; gap: 24px; }
+
+.vocab-word {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--cream);
+  margin-bottom: 4px;
+}
+
+.vocab-def {
+  font-size: 14px;
+  color: var(--text);
+  line-height: 1.55;
+  margin-bottom: 4px;
+}
+
+.vocab-example {
+  font-size: 13px;
+  font-style: italic;
+  color: var(--muted);
+  line-height: 1.5;
+  margin-bottom: 3px;
+}
+
+.vocab-etymology {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+}
+
+/* ── REDEWENDUNG ── */
+.saying {
+  background: var(--surface);
+  border-left: 2px solid var(--accent);
+  padding: 20px 24px;
+}
+
+.saying-text {
+  font-size: 18px;
+  font-style: italic;
+  color: var(--cream);
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.saying-translation {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.saying-note {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+/* ── GRAMMAR ── */
+.grammar-list { display: flex; flex-direction: column; gap: 32px; }
+
+.grammar-item {
+  padding-left: 16px;
+  border-left: 2px solid var(--border);
+}
+
+.grammar-struktur {
+  font-family: var(--mono);
+  font-size: 0.56rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--cream);
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+
+.grammar-beispiel {
+  font-size: 16px;
+  font-style: italic;
+  color: var(--text);
+  margin-bottom: 10px;
+  line-height: 1.55;
+}
+
+.grammar-erklaerung {
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.68;
+  margin-bottom: 6px;
+}
+
+.grammar-erklaerung-en {
+  font-size: 13px;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.62;
+  margin-bottom: 8px;
+  display: none;
+}
+
+.grammar-erklaerung-en.visible { display: block; }
+
+.grammar-weitere {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--faint);
+  line-height: 1.65;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+}
+
+.grammar-weitere span { display: block; margin-bottom: 4px; }
+
+/* ── ARCHIVE ── */
+.archive { margin-top: 64px; }
+
+.archive-item {
+  display: block;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.15s;
+}
+
+.archive-item:first-child { border-top: 1px solid var(--border); }
+.archive-item:hover { opacity: 0.65; }
+.archive-item.current { opacity: 0.28; pointer-events: none; }
+
+.archive-date {
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--faint);
+  margin-bottom: 4px;
+  font-weight: 400;
+}
+
+.archive-autor {
+  font-family: var(--mono);
+  font-size: 0.53rem;
+  letter-spacing: 0.08em;
+  color: var(--faint);
+  margin-bottom: 4px;
+  font-weight: 400;
+}
+
+.archive-titel {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--cream);
+  margin-bottom: 3px;
+  letter-spacing: -0.01em;
+}
+
+.archive-leitgedanke {
+  font-size: 13px;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.5;
+}
+
+/* ── EMPTY STATE ── */
+.empty {
+  font-size: 15px;
+  color: var(--muted);
+  padding: 48px 0;
+}
+
+/* ── POPUP ── */
+.popup {
+  position: fixed;
+  bottom: 28px;
+  left: 50%;
+  transform: translateX(-50%) translateY(12px);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 14px 18px;
+  width: calc(100% - 48px);
+  max-width: 480px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+  z-index: 100;
+  opacity: 0;
+  transition: opacity 0.18s, transform 0.18s;
+  pointer-events: none;
+}
+
+.popup.visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
+}
+
+.popup-word {
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--cream);
+  margin-bottom: 6px;
+}
+
+.popup-def {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.58;
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 560px) {
+  .page { padding: 40px 20px 80px; }
+  .entry-titel { font-size: 21px; }
+  .block-de { font-size: 17px; }
+  .block-zitat .block-de { font-size: 17px; }
+  .block-toggle { position: static; display: inline-block; margin-top: 6px; }
+}
+
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <span class="wordmark">Tiefe</span>
+    <span class="date-display" id="dateDisplay"></span>
+  </header>
+  <main id="main"></main>
+</div>
+
+<div class="popup" id="popup">
+  <div class="popup-word" id="popup-word"></div>
+  <div class="popup-def"  id="popup-def"></div>
+</div>
+
+<script>
+
+let entries = [];
+let showAllEN = false;
+
+// -- Date formatting --
+
+function todayStr() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function formatDateDE(str) {
+  const months = ["Januar","Februar","Maerz","April","Mai","Juni",
+                  "Juli","August","September","Oktober","November","Dezember"];
+  const d = new Date(str + "T12:00:00");
+  return d.getDate() + ". " + months[d.getMonth()] + " " + d.getFullYear();
+}
+
+function estimateReadingTime(entry) {
+  let words = 0;
+  if (entry.haupttext && entry.haupttext.de) {
+    entry.haupttext.de.forEach(b => { words += b.text.split(/\s+/).length; });
+  }
+  if (entry.verbindungen) {
+    entry.verbindungen.forEach(v => { words += v.de.split(/\s+/).length; });
+  }
+  return Math.max(5, Math.ceil(words / 80));
+}
+
+// -- Parse [[word|def]] annotations --
+
+function parseAnnotations(text) {
+  return text.replace(/\[\[([^\|]+)\|([^\]]+)\]\]/g, function(_, word, def) {
+    var safeDef = def.replace(/"/g, '&quot;');
+    return '<span class="w" data-word="' + word + '" data-def="' + safeDef + '">' + word + '</span>';
+  });
+}
+
+// -- Render entry --
+
+function renderEntry(entry) {
+  if (!entry) return '<p class="empty">Kein Eintrag verfuegbar.</p>';
+
+  var html = '<div class="entry">';
+
+  // Header
+  html += '<div class="entry-header">';
+  if (entry.autor || entry.werk) {
+    var autorLine = [entry.autor, entry.werk].filter(Boolean).join(' · ');
+    html += '<div class="entry-autor-line">' + autorLine + '</div>';
+  }
+  html += '<h1 class="entry-titel">' + entry.titel + '</h1>';
+  html += '<p class="entry-leitgedanke">' + entry.leitgedanke + '</p>';
+  if (entry.themen && entry.themen.length) {
+    html += '<div class="entry-themen">';
+    entry.themen.forEach(function(t) {
+      html += '<span class="thema-tag">' + t + '</span>';
+    });
+    html += '</div>';
+  }
+  html += '<p class="lesezeit">~' + estimateReadingTime(entry) + ' Min.</p>';
+  html += '</div>';
+
+  // Author context
+  if (entry.autor_kontext) {
+    html += '<div class="autor-kontext">';
+    html += '<div class="autor-kontext-label">Autor</div>';
+    html += '<div class="autor-kontext-text">' + entry.autor_kontext + '</div>';
+    html += '</div>';
+  }
+
+  // Global toggle
+  html += '<div class="global-toggle">';
+  html += '<button class="global-toggle-btn" id="globalToggle" onclick="toggleAllEN()">Englisch einblenden</button>';
+  html += '</div>';
+
+  // Haupttext
+  if (entry.haupttext && entry.haupttext.de) {
+    entry.haupttext.de.forEach(function(block, i) {
+      var isZitat = block.typ === 'zitat';
+      var enBlock = (entry.haupttext.en && entry.haupttext.en[i]) || null;
+
+      html += '<div class="block' + (isZitat ? ' block-zitat' : '') + '">';
+      html += '<div class="block-de">' + parseAnnotations(block.text) + '</div>';
+
+      if (isZitat && block.quelle) {
+        html += '<div class="block-quelle">' + block.quelle + '</div>';
+      }
+
+      if (enBlock) {
+        html += '<button class="block-toggle" data-idx="' + i + '" onclick="toggleEN(this, ' + i + ')">en</button>';
+        html += '<div class="block-en" id="en-' + i + '">';
+        html += enBlock.text;
+        if (isZitat && enBlock.quelle) {
+          html += '<div class="block-quelle" style="margin-top:8px;">' + enBlock.quelle + '</div>';
+        }
+        html += '</div>';
+      }
+
+      html += '</div>';
+    });
+  }
+
+  // Verbindungen
+  if (entry.verbindungen && entry.verbindungen.length) {
+    html += '<div class="section-divider"></div>';
+    html += '<p class="section-label">Verbindungen</p>';
+    entry.verbindungen.forEach(function(v, i) {
+      html += '<div class="verbindung">';
+      html += '<div class="verbindung-de">' + v.de + '</div>';
+      html += '<div class="verbindung-en" id="verb-en-' + i + '">' + v.en + '</div>';
+      html += '</div>';
+    });
+  }
+
+  // Wortschatz
+  if (entry.wortschatz && entry.wortschatz.length) {
+    html += '<div class="section-divider"></div>';
+    html += '<p class="section-label">Wortschatz</p>';
+    html += '<div class="vocab-list">';
+    entry.wortschatz.forEach(function(v) {
+      html += '<div class="vocab-item">';
+      html += '<div class="vocab-word">' + v.wort + '</div>';
+      html += '<div class="vocab-def">' + v.definition + '</div>';
+      if (v.beispiel)    html += '<div class="vocab-example">' + v.beispiel + '</div>';
+      if (v.etymologie)  html += '<div class="vocab-etymology">' + v.etymologie + '</div>';
+      html += '</div>';
+    });
+    html += '</div>';
+  }
+
+  // Grammatik
+  if (entry.grammatik && entry.grammatik.length) {
+    html += '<div class="section-divider"></div>';
+    html += '<p class="section-label">Grammatik</p>';
+    html += '<div class="grammar-list">';
+    entry.grammatik.forEach(function(g, i) {
+      html += '<div class="grammar-item">';
+      html += '<div class="grammar-struktur">' + g.struktur + '</div>';
+      html += '<div class="grammar-beispiel">' + g.beispiel + '</div>';
+      html += '<div class="grammar-erklaerung">' + g.erklaerung + '</div>';
+      if (g.erklaerung_en) {
+        html += '<div class="grammar-erklaerung-en" id="gram-en-' + i + '">' + g.erklaerung_en + '</div>';
+      }
+      if (g.weitere_beispiele && g.weitere_beispiele.length) {
+        html += '<div class="grammar-weitere">';
+        g.weitere_beispiele.forEach(function(ex) {
+          html += '<span>' + ex + '</span>';
+        });
+        html += '</div>';
+      }
+      html += '</div>';
+    });
+    html += '</div>';
+  }
+
+  // Redewendung
+  if (entry.redewendung) {
+    html += '<div class="section-divider"></div>';
+    html += '<p class="section-label">Redewendung</p>';
+    html += '<div class="saying">';
+    html += '<div class="saying-text">\u201E' + entry.redewendung.text + '\u201C</div>';
+    html += '<div class="saying-translation">' + entry.redewendung.uebersetzung + '</div>';
+    if (entry.redewendung.anmerkung) {
+      html += '<div class="saying-note">' + entry.redewendung.anmerkung + '</div>';
+    }
+    html += '</div>';
+  }
+
+  html += '</div>';
+  return html;
+}
+
+// -- Archive --
+
+function renderArchive(currentId) {
+  if (entries.length <= 1) return '';
+
+  var html = '<div class="archive">';
+  html += '<div class="section-divider"></div>';
+  html += '<p class="section-label">Archiv</p>';
+
+  entries.forEach(function(e) {
+    var isCurrent = e.id === currentId;
+    html += '<a class="archive-item' + (isCurrent ? ' current' : '') + '" href="#' + e.id + '">';
+    html += '<div class="archive-date">' + formatDateDE(e.date) + '</div>';
+    if (e.autor) html += '<div class="archive-autor">' + e.autor + '</div>';
+    html += '<div class="archive-titel">' + e.titel + '</div>';
+    html += '<div class="archive-leitgedanke">' + e.leitgedanke + '</div>';
+    html += '</a>';
+  });
+
+  html += '</div>';
+  return html;
+}
+
+// -- Translation toggles --
+
+function toggleEN(btn, idx) {
+  var el = document.getElementById('en-' + idx);
+  if (!el) return;
+  var visible = el.classList.toggle('visible');
+  btn.classList.toggle('active', visible);
+}
+
+function toggleAllEN() {
+  showAllEN = !showAllEN;
+  var btn = document.getElementById('globalToggle');
+  btn.classList.toggle('active', showAllEN);
+  btn.textContent = showAllEN ? 'Englisch ausblenden' : 'Englisch einblenden';
+
+  document.querySelectorAll('.block-en').forEach(function(el) {
+    el.classList.toggle('visible', showAllEN);
+  });
+  document.querySelectorAll('.block-toggle').forEach(function(b) {
+    b.classList.toggle('active', showAllEN);
+  });
+  document.querySelectorAll('.verbindung-en').forEach(function(el) {
+    el.classList.toggle('visible', showAllEN);
+  });
+  document.querySelectorAll('.grammar-erklaerung-en').forEach(function(el) {
+    el.classList.toggle('visible', showAllEN);
+  });
+}
+
+// -- Popup --
+
+var popup  = document.getElementById('popup');
+var popWord = document.getElementById('popup-word');
+var popDef  = document.getElementById('popup-def');
+var popupOpen = false;
+
+document.addEventListener('click', function(e) {
+  var t = e.target.closest('.w');
+  if (t) {
+    popWord.textContent = t.dataset.word;
+    popDef.textContent  = t.dataset.def;
+    popup.classList.add('visible');
+    popupOpen = true;
+    e.stopPropagation();
+  } else if (popupOpen && !e.target.closest('.popup')) {
+    popup.classList.remove('visible');
+    popupOpen = false;
+  }
+});
+
+// -- Navigation --
+
+function findEntry(id) {
+  return entries.find(function(e) { return e.id === id; }) || null;
+}
+
+function getMostRecent() {
+  var today = todayStr();
+  return entries.find(function(e) { return e.date <= today; }) || entries[0] || null;
+}
+
+function navigateTo(entry) {
+  if (!entry) return;
+  showAllEN = false;
+  var main = document.getElementById('main');
+  main.innerHTML = renderEntry(entry) + renderArchive(entry.id);
+  window.scrollTo(0, 0);
+  document.getElementById('dateDisplay').textContent = formatDateDE(entry.date);
+}
+
+function handleHash() {
+  var hash = location.hash.slice(1);
+  if (hash) {
+    var entry = findEntry(hash);
+    if (entry) { navigateTo(entry); return; }
+  }
+  navigateTo(getMostRecent());
+}
+
+window.addEventListener('hashchange', handleHash);
+
+// -- Init --
+
+fetch('./tiefe-content.json')
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    entries = data;
+    handleHash();
+  })
+  .catch(function() {
+    document.getElementById('main').innerHTML = '<p class="empty">Inhalt konnte nicht geladen werden.</p>';
+  });
+
+document.getElementById('dateDisplay').textContent = formatDateDE(todayStr());
+
+</script>
+</body>
+</html>
