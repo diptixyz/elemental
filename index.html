@@ -633,7 +633,7 @@ function todayStr() {
 }
 
 function formatDateDE(str) {
-  const months = ["Januar","Februar","Maerz","April","Mai","Juni",
+  const months = ["Januar","Februar","März","April","Mai","Juni",
                   "Juli","August","September","Oktober","November","Dezember"];
   const d = new Date(str + "T12:00:00");
   return d.getDate() + ". " + months[d.getMonth()] + " " + d.getFullYear();
@@ -654,9 +654,13 @@ function estimateReadingTime(entry) {
 
 function du(text) {
   if (!text) return text;
+  // ae → ä, oe → ö everywhere (false positives rare in this German context)
+  // ue → ü only when NOT preceded by a or e (avoids Breslauer→Breslaür, Feuer→Feür)
   return text
-    .replace(/Ae/g, 'Ä').replace(/Oe/g, 'Ö').replace(/Ue/g, 'Ü')
-    .replace(/ae/g, 'ä').replace(/oe/g, 'ö').replace(/ue/g, 'ü');
+    .replace(/Ae/g, 'Ä').replace(/Oe/g, 'Ö')
+    .replace(/ae/g, 'ä').replace(/oe/g, 'ö')
+    .replace(/(?<![ae])Ue/g, 'Ü')
+    .replace(/(?<![ae])ue/g, 'ü');
 }
 
 // -- Parse [[word|def]] annotations --
@@ -671,7 +675,7 @@ function parseAnnotations(text) {
 // -- Render entry --
 
 function renderEntry(entry) {
-  if (!entry) return '<p class="empty">Kein Eintrag verfuegbar.</p>';
+  if (!entry) return '<p class="empty">Kein Eintrag verfügbar.</p>';
 
   var html = '<div class="entry">';
 
@@ -817,8 +821,8 @@ function renderArchive(currentId) {
     html += '<a class="archive-item' + (isCurrent ? ' current' : '') + '" href="#' + e.id + '">';
     html += '<div class="archive-date">' + formatDateDE(e.date) + '</div>';
     if (e.autor) html += '<div class="archive-autor">' + e.autor + '</div>';
-    html += '<div class="archive-titel">' + e.titel + '</div>';
-    html += '<div class="archive-leitgedanke">' + e.leitgedanke + '</div>';
+    html += '<div class="archive-titel">' + du(e.titel) + '</div>';
+    html += '<div class="archive-leitgedanke">' + du(e.leitgedanke) + '</div>';
     html += '</a>';
   });
 
