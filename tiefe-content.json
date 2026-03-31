@@ -1,5 +1,209 @@
 [
   {
+    "id": "tiefe-2026-04-01",
+    "date": "2026-04-01",
+    "titel": "Das V-Wort",
+    "leitgedanke": "Ulrike Herrmann benennt den Kapitalismus als Kernproblem der Klimakrise und stellt die Frage, die kein Politiker gern beantwortet: Wie schrumpft eine Wirtschaft, ohne zu kollabieren?",
+    "themen": [
+      "Wirtschaft",
+      "Klimakrise",
+      "Verzicht"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/wachstum-2025/572533/wir-muessen-schrumpfen/",
+    "autor": "Ulrike Herrmann",
+    "werk": "Wir müssen schrumpfen. Wachstum als Irrweg (APuZ, 7. November 2025)",
+    "autor_kontext": "Ulrike Herrmann (born 1968) is the economics correspondent for the German daily taz and one of the most widely read critics of growth-based capitalism in the German-speaking world. Her 2022 book 'Das Ende des Kapitalismus' argued that the green energy transition requires not just new technology but a managed retreat from economic growth, modeled on Britain's wartime economy of 1939. She is a regular commentator on public radio and a frequent presence in German political debate. Her writing is marked by a refusal to separate economic argument from moral accountability.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "In der APuZ-Ausgabe zum Thema 'Wachstum' vom November 2025 argumentiert die Wirtschaftsjournalistin Ulrike Herrmann, dass die oekologische Wende keine technische Frage ist, sondern eine systemische: Wer den Kapitalismus behalten will, bekommt die Klimakrise nicht in den Griff. Das, was alle Politiker fuerchten auszusprechen, nennt Herrmann beim Namen."
+        },
+        {
+          "typ": "zitat",
+          "text": "Der Kapitalismus war ein [[Fortschritt|der Fortschritt -- progress, advance. Often carries normative weight in German: not just movement forward, but improvement. Herrmann uses it as a concession before her critique.]], hat aber leider eine fundamentale Schwäche: Er erzeugt nicht nur Wachstum, sondern benötigt es auch, um stabil zu sein. In einer endlichen Welt kann man aber nicht unendlich wachsen. Momentan tun die Westeuropäer so, als könnten sie drei Planeten verbrauchen. Bekanntlich gibt es aber nur eine Erde.\n\nDie Menschheit [[fackelt|abfackeln -- to incinerate, to burn down. Fackel (torch) + ab- (off, away). Herrmann chooses a blunt verb for an irreversible act: burning the house down.]] ihr Zuhause ab, weil Klimaschutz nur möglich ist, wenn wir den Kapitalismus abschaffen. Anders als Kapitalismuskritiker glauben, ist dies keine frohe Botschaft. Unsere Wirtschaftsordnung war außerordentlich [[segensreich|segensreich -- richly beneficial, of great boon. Segen (blessing) + reich (rich). An elevated register adjective; its formality grants the concession genuine weight.]]. Mit der Industrialisierung entstand das erste Sozialsystem in der Geschichte, das Wohlstand erzeugt hat. Vorher gab es kein nennenswertes Wachstum. Die Menschen betrieben eine eher [[kümmerliche|kuemmerlich -- meager, wretched, barely sufficient. From sich kuemmern (to tend to) in its diminished sense: something barely tended to, struggling to sustain itself.]] Landwirtschaft, litten oft unter Hungerkatastrophen und starben im Durchschnitt mit 35 Jahren. Heute werden wir mehr als doppelt so alt.\n\nDer Kapitalismus kann ohne Energie nicht funktionieren. Maschinen sind der Kern unseres Wirtschaftssystems und ermöglichen auch das Wachstum. Ohne Energie laufen die Maschinen aber nicht, und die ganze Technik wäre nur totes Kapital. Die zentrale Rolle der Energie führt uns vor Augen, dass die Klimakrise nicht entstanden ist, weil die Politik aus Versehen vergessen hätte, Umweltschutz zu betreiben. Die Klimakrise ist eine [[Systemkrise|die Systemkrise -- systemic crisis: a crisis arising from the inner logic of the system itself, not from error or mismanagement. Herrmann's key diagnostic term.]] des Kapitalismus; sie ist die andere Seite der Industrialisierung.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Wenn grüner Strom [[knapp|knapp -- scarce, in short supply; also: barely, narrowly. A versatile adjective spanning registers from everyday usage to political economy. Here it closes the 'green growth' escape route.]] und teuer bleibt, bleibt nur „grünes Schrumpfen“. Es ist kein neuer Gedanke, dass permanentes Wachstum keine Zukunft hat. Viele Klimaaktivisten sind längst überzeugt, dass die Natur nur überleben kann, wenn der Kapitalismus endet.\n\nEine ökologische [[Kreislaufwirtschaft|die Kreislaufwirtschaft -- circular economy. Kreislauf (cycle, circuit; literally: blood circulation) + Wirtschaft (economy). A system where the waste of one process is the input of another; the metabolic opposite of linear growth economics.]] wäre möglich. Doch wird diese Vision meist mit dem Weg verwechselt: Das Ziel soll zugleich der Übergang sein. Nur selten wird gefragt, wie man eigentlich aus einem wachsenden Kapitalismus aussteigen soll, ohne eine schwere Wirtschaftskrise auszulösen und Millionen Menschen in die Arbeitslosigkeit zu schicken. Es fehlt die Brücke aus der dynamischen Gegenwart in eine statische Zukunft.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Der [[Rückbau|der Rueckbau -- dismantling, managed retreat. Rueck- (back) + Bau (structure, building). Used in engineering for the controlled removal of infrastructure; here extended to an entire economic order.]] des Kapitalismus muss deshalb geordnet [[vonstattengehen|vonstattengehen -- to proceed, to take place. From 'von Statten gehen': to leave the appointed place. An administrative register phrase that implies procedural, step-by-step execution.]]. Es gibt bereits ein historisches Modell, das als Vorbild taugen könnte: die britische Kriegswirtschaft ab 1939. Damals standen die Briten vor einer monströsen Herausforderung. Es entstand eine Planwirtschaft, die bemerkenswert gut funktionierte. Die Fabriken blieben in privater Hand, aber der Staat steuerte die Produktion – und organisierte die Verteilung der knappen Güter.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Die reichen Länder haben die Klimakrise zu verantworten, nicht die armen. Die ungleichen Emissionen von Arm und Reich zeigen sich nicht nur global, sondern spiegeln sich auch in Deutschland wider. Wer viel verdient, zerstört das Klima. Das reichste Hundertstel der Bundesbürger ist pro Kopf und Jahr für den Ausstoß von enormen 117,8 Tonnen an Treibhausgasen verantwortlich.\n\nNoch fehlen die Mehrheiten, um echten Klimaschutz umzusetzen. Die deutsche Wirtschaftsleistung müsste deutlich schrumpfen, und damit steht das V-Wort im Raum, das kein Politiker gern ausspricht: [[Verzicht|der Verzicht -- renunciation, doing without. From verzichten: to waive, to give up a claim. Politically charged in German public discourse: the V-Wort. Naming Verzicht is itself a risk, because audiences hear deprivation rather than redistribution or sufficiency.]].",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Veränderungen machen immer Angst, [[zumal|zumal -- especially when, particularly since. A particle that introduces the most compelling reason last, amplifying what came before. Corresponds to 'erst recht wenn' or 'besonders wenn'.]], wenn sie mit Verzicht einhergehen sollen. Trotzdem darf man sich die Zukunft nicht trübe vorstellen. Eine ökologische Kreislaufwirtschaft kann schön sein. Sie würde alles bieten, was ein gelungenes Leben ausmacht: Anregung, Abwechslung, Erkenntnis, Austausch, Freundschaft, Liebe, Anerkennung, Spaß, Genuss, Entspannung, Spiel und Sport. Aber auch Sicherheit, Mobilität, Pflege, Arbeit und Erfüllung.\n\nEin Rückblick auf die britische Kriegswirtschaft ab 1939 zeigt, wie es gehen könnte: Die Betriebe bleiben privat, aber der Staat legt fest, was noch hergestellt wird, und verteilt die knappen Güter. Allerdings wären wir nicht so arm wie die Briten 1939. Stattdessen könnten wir immer noch so reich sein wie die Westdeutschen 1978. Das ist doch [[tröstlich|troestlich -- comforting, consoling. From Trost (comfort, solace, trust) + -lich. The sentence is deliberately, drily modest for a thesis about civilizational transformation.]].",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "In the APuZ issue on 'Growth' from November 2025, economics journalist Ulrike Herrmann argues that the ecological transition is not a technical question but a systemic one: whoever wants to keep capitalism cannot get the climate crisis under control. What all politicians fear saying out loud, Herrmann names directly."
+        },
+        {
+          "typ": "zitat",
+          "text": "Capitalism was a step forward, but unfortunately has a fundamental weakness: it does not merely generate growth, it also requires it in order to remain stable. In a finite world, however, one cannot grow infinitely. At the moment, West Europeans act as though they could consume three planets. There is, of course, only one earth.\n\nHumanity is burning down its home, because climate protection is only possible if we abolish capitalism. Unlike what critics of capitalism believe, this is not good news. Our economic order has been extraordinarily beneficial. With industrialisation, the first social system in history arose that actually produced prosperity. Before it, there was no meaningful growth. People practiced a rather meager agriculture, often suffered through famines, and died on average at 35. Today we live more than twice as long.\n\nCapitalism cannot function without energy. Machines are the core of our economic system and are what enable growth. Without energy the machines do not run, and all the technology would be only dead capital. The central role of energy makes clear that the climate crisis did not arise because politics accidentally forgot to pursue environmental protection. The climate crisis is a systemic crisis of capitalism; it is the other side of industrialisation.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg (We Must Shrink. Growth as the Wrong Path), APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "If green electricity remains scarce and expensive, only 'green shrinkage' remains. It is not a new idea that permanent growth has no future. Many climate activists have long since been convinced that nature can only survive if capitalism ends.\n\nAn ecological circular economy would be possible. But this vision is usually confused with the path to reach it: the goal is supposed to be the transition at the same time. One seldom asks how one is actually supposed to exit a growing capitalism without triggering a severe economic crisis and sending millions of people into unemployment. What is missing is the bridge from the dynamic present to a static future.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg (We Must Shrink. Growth as the Wrong Path), APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "The dismantling of capitalism must therefore proceed in an orderly manner. There is already a historical model that could serve as a template: the British wartime economy from 1939. At that time, the British faced a colossal challenge. A planned economy came into being that functioned remarkably well. The factories remained in private hands, but the state directed production and organised the distribution of scarce goods.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg (We Must Shrink. Growth as the Wrong Path), APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "The rich countries are responsible for the climate crisis, not the poor ones. The unequal emissions from poor and rich are visible not only globally but are mirrored within Germany as well. Whoever earns a lot destroys the climate. The wealthiest one percent of German citizens is responsible per person per year for the emission of an enormous 117.8 tonnes of greenhouse gases.\n\nThe majorities needed to implement genuine climate protection are still lacking. German economic output would have to shrink considerably, and with that, the V-word enters the room, which no politician likes to say out loud: renunciation.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg (We Must Shrink. Growth as the Wrong Path), APuZ 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Changes always cause anxiety, especially when they are supposed to come with sacrifice. Even so, one need not imagine the future as bleak. An ecological circular economy can be beautiful. It would offer everything that constitutes a good life: stimulation, variety, knowledge, exchange, friendship, love, recognition, pleasure, enjoyment, relaxation, play, and sport. But also security, mobility, care, work, and fulfilment.\n\nA look back at the British wartime economy from 1939 shows how it could work: enterprises remain private, but the state determines what is still to be produced and distributes the scarce goods. We would not, however, be as poor as the British were in 1939. We could instead still be as prosperous as West Germans in 1978. That is, after all, consoling.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg (We Must Shrink. Growth as the Wrong Path), APuZ 2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Hannah Arendt unterschied 1958 in 'Vita Activa' zwischen Arbeit, Herstellen und Handeln. Die Konsumwirtschaft, die Herrmann angreift, entspricht Arendts 'Arbeit': zyklisch, zweckgebunden, auf den Stoffwechsel des Lebens gerichtet. Was Herrmann am Ende der Kreislaufwirtschaft verspricht (Freundschaft, Anregung, Spiel, Anerkennung) klingt eher nach Arendts 'Handeln': jener Form menschlicher Taetigkeit, bei der das Zusammensein selbst der Zweck ist.",
+        "en": "Hannah Arendt distinguished in 1958's 'Vita Activa' between labour, fabrication, and action. The consumer economy Herrmann attacks corresponds to Arendt's 'labour': cyclical, purpose-bound, directed toward the metabolism of life. What Herrmann promises at the end of the circular economy (friendship, stimulation, play, recognition) sounds closer to Arendt's 'action': that form of human activity in which being-together itself is the purpose."
+      },
+      {
+        "de": "John Maynard Keynes schrieb 1930 in 'Economic Possibilities for Our Grandchildren', der technische Fortschritt werde bis 2030 die wirtschaftliche Grundfrage geloest haben und zur Freizeit fuehren. Herrmanns Essay ist die Gegenantwort: Der technische Fortschritt hat das Grundproblem vertieft, statt es zu loesen. Das Wachstum, das Keynes als Mittel zum Zweck sah, ist laengst der Zweck selbst geworden.",
+        "en": "John Maynard Keynes wrote in 1930 in 'Economic Possibilities for Our Grandchildren' that technological progress would by 2030 have solved the basic economic question and led to leisure. Herrmann's essay is the answer back: technological progress has deepened the underlying problem rather than solving it. The growth that Keynes saw as a means to an end has long since become the end itself."
+      },
+      {
+        "de": "E.F. Schumacher formulierte 1973 in 'Small Is Beautiful' das Schlagwort, das Herrmann nun in neue Dringlichkeit setzt. Schumacher sah Wachstumsdenken als Kategorienfehler: Es beantwortet die Frage nach dem 'Wieviel', waehrend die Frage nach dem 'Wozu' unangetastet bleibt. Herrmanns Bild vom wohlhabenden Westdeutschland von 1978 als Zielpunkt ist ein Versuch, diese Luecke zu fuellen: Wohlstand ohne mehr.",
+        "en": "E.F. Schumacher formulated in 1973's 'Small Is Beautiful' the insight Herrmann now invests with new urgency. Schumacher saw growth thinking as a category error: it answers the question of 'how much,' while the question of 'for what purpose' remains untouched. Herrmann's image of prosperous West Germany of 1978 as a target is an attempt to fill that gap: prosperity without more."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "der Fortschritt",
+        "definition": "Fortschritt -- progress, advance. Carries normative weight in German intellectual use: not just movement forward, but movement for the better. Herrmann grants capitalism this before dismantling it.",
+        "beispiel": "Die Industrialisierung galt als Fortschritt; erst spaeter erkannte man ihre langfristigen Kosten.",
+        "etymologie": "From Old High German fort (forward, away) + Schritt (step, from schreiten: to stride). Entered wider intellectual use during the German Enlightenment as a term for moral and social progress, not merely technical change."
+      },
+      {
+        "wort": "abfackeln",
+        "definition": "abfackeln -- to incinerate, to burn down. Fackel (torch) + ab- (off, away). A blunt verb for fire as irreversible destruction. In the energy industry it also names the controlled burning of excess gas at drilling sites, an inadvertent irony in Herrmann's usage.",
+        "beispiel": "In trockenen Sommern fackeln Waldbraende ganze Landstriche ab.",
+        "etymologie": "From Fackel (torch, from Latin facula, diminutive of fax: torch) + ab- (away, off). The compound is common enough to feel journalistic but vivid enough to carry weight as metaphor."
+      },
+      {
+        "wort": "segensreich",
+        "definition": "segensreich -- richly beneficial, of great boon. Segen (blessing) + reich (rich). An elevated register adjective, rarely heard in everyday speech; its formality signals that the speaker is granting something genuine credit.",
+        "beispiel": "Die Gruendung der gesetzlichen Krankenversicherung war eine der segensreichsten Reformen des neunzehnten Jahrhunderts.",
+        "etymologie": "Segen from Old High German segan (sign of the cross, blessing, via Latin signum: sign) + reich (rich). Contrast segenlos (without blessing) and its antonym verflucht (cursed)."
+      },
+      {
+        "wort": "kümmerlich",
+        "definition": "kuemmerlich -- meager, wretched, barely sufficient. Applies to quantity, quality, and vitality at once: a kuemmerliche Ernte (meager harvest) is insufficient; a kuemmerliches Dasein barely sustains itself.",
+        "beispiel": "Nach Wochen der Duerre war die Ernte kuemmerlich: kaum genug, um die Familie zu versorgen.",
+        "etymologie": "From Middle High German kuemmerlich (wretched, full of distress), related to Kummer (sorrow, grief). The adjective has drifted from emotional suffering toward physical insufficiency over five centuries."
+      },
+      {
+        "wort": "die Systemkrise",
+        "definition": "Systemkrise -- systemic crisis. A crisis arising from the inner logic of the system itself, not from error or mismanagement. Herrmann's key diagnostic term: the climate crisis is capitalism doing what capitalism does.",
+        "beispiel": "Die Finanzkrise von 2008 legte bloss, dass es sich um eine Systemkrise handelte und nicht um Einzelversagen.",
+        "etymologie": "System (from Greek systema: a whole composed of parts, from syn-histanai: to stand together) + Krise (from Greek krisis: decision, turning point, from krinein: to separate, to judge). The compound locates the crisis in the whole, not its parts."
+      },
+      {
+        "wort": "knapp",
+        "definition": "knapp -- scarce, in short supply; also: barely, narrowly. A versatile adjective spanning registers from the kitchen table (knapp bei Kasse: short of cash) to political economy (knappe Ressourcen: scarce resources).",
+        "beispiel": "Sauberes Trinkwasser wird in vielen Regionen zunehmend knapp.",
+        "etymologie": "From Middle Low German knapp (tight, close, compact), related to English 'nap' (the close-cut surface of cloth). In German, knapp covers both material scarcity and temporal nearness: 'knapp verpassen' means to narrowly miss something."
+      },
+      {
+        "wort": "die Kreislaufwirtschaft",
+        "definition": "Kreislaufwirtschaft -- circular economy. Kreislauf (cycle, circuit; literally: the circulation of blood) + Wirtschaft (economy). A system where the waste of one process is the input of another; the metabolic opposite of the linear growth model.",
+        "beispiel": "Eine konsequente Kreislaufwirtschaft wuerde den Rohstoffbedarf erheblich senken.",
+        "etymologie": "Kreislauf: Kreis (circle, from Old High German kreis) + Lauf (course, flow, from laufen: to run). The image is borrowed from physiology: the body's Kreislauf keeps it alive by circulating rather than depleting."
+      },
+      {
+        "wort": "der Rückbau",
+        "definition": "Rueckbau -- dismantling, managed retreat. Rueck- (back, away) + Bau (structure, building). Used in engineering for the controlled removal of infrastructure; here extended to an entire economic system. The compound implies intention: planned reduction.",
+        "beispiel": "Der Rueckbau des alten Kohlekraftwerks sollte mehrere Jahre dauern.",
+        "etymologie": "Bau from Old High German bu (dwelling, structure), cognate with English 'bower.' The prefix rueck- creates the antonym of Aufbau (construction, buildup). Both words appear in postwar German history: Aufbau for reconstruction, Rueckbau for what comes after."
+      },
+      {
+        "wort": "vonstattengehen",
+        "definition": "vonstattengehen -- to proceed, to take place. An administrative register phrase that implies procedural, step-by-step execution. Unlike 'passieren' (to happen), it suggests the happening is organized.",
+        "beispiel": "Der Systemwechsel muss geordnet vonstatten gehen, damit keine wirtschaftliche Panik entsteht.",
+        "etymologie": "Statten is the dative plural of Statt (place, stead, from Old High German stat). Cognate with English 'stead' as in 'instead.' Vonstatten is now fossilized as an adverb in this single idiom: von Statten gehen."
+      },
+      {
+        "wort": "der Verzicht",
+        "definition": "Verzicht -- renunciation, doing without. From verzichten: to waive, to give up a claim. Politically charged in German public discourse: the V-Wort. Naming Verzicht is itself a political risk, because audiences hear deprivation rather than redistribution or sufficiency.",
+        "beispiel": "Klimaschutz ohne Verzicht ist eine Wunschvorstellung.",
+        "etymologie": "From Middle High German verzichten, from ver- (away, completely) + zichten (to accuse, to point at). The etymology passes through legal renunciation of a claim: a deliberate act of giving something up, not a loss inflicted from outside."
+      },
+      {
+        "wort": "zumal",
+        "definition": "zumal -- especially when, particularly since. A particle that introduces the strongest reason or condition last, amplifying a preceding claim. Corresponds to 'erst recht wenn' or 'besonders da'.",
+        "beispiel": "Ein langer Fussweg ist beschwerlich, zumal im Regen.",
+        "etymologie": "From Middle High German 'ze male' (at that very time). Over centuries the word shifted from temporal to intensifying-causal function. A related archaic usage, 'alle zumal' (all at once), still appears in older poetry."
+      },
+      {
+        "wort": "tröstlich",
+        "definition": "troestlich -- comforting, consoling. From Trost (comfort, solace) + -lich (adjectival suffix). Herrmann's closing sentence is deliberately understated for a thesis about civilizational transformation.",
+        "beispiel": "Es ist troestlich zu wissen, dass andere sich in aehnlichen Situationen befunden haben.",
+        "etymologie": "Trost from Old High German trost (trust, confidence, reliance), cognate with English 'trust.' The semantic shift from 'reliance' to 'consolation' reflects how trust and comfort are psychologically linked: to be consoled is to have something to rely on."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Finale Infinitivkonstruktion (um...zu)",
+        "beispiel": "Er erzeugt nicht nur Wachstum, sondern benötigt es auch, um stabil zu sein. / Noch fehlen die Mehrheiten, um echten Klimaschutz umzusetzen.",
+        "erklaerung": "Die Konstruktion 'um...zu + Infinitiv' drueckt den Zweck oder das Ziel einer Handlung aus. Sie entspricht einer Finalsatzkonstruktion ('damit' + Nebensatz) und ist im Deutschen sehr haeufig. Das einleitende 'um' steht am Anfang der Infinitivphrase; das Verb erscheint als reiner Infinitiv am Ende. Wichtig: Das Subjekt des Hauptsatzes und das der Infinitivkonstruktion muessen identisch sein. Wenn die Subjekte verschieden sind, muss ein Finalsatz mit 'damit' verwendet werden.",
+        "erklaerung_en": "The construction 'um...zu + infinitive' expresses the purpose or goal of an action. It is equivalent to a full final clause ('damit' + subordinate clause) and is extremely common in German. The opening 'um' appears at the start of the infinitive phrase; the verb appears as a bare infinitive at the end. Important: the subject of the main clause and of the infinitive phrase must be identical. If the subjects differ, a 'damit' clause is required instead.",
+        "weitere_beispiele": [
+          "Der Staat muss die Produktion steuern, um die knappen Ressourcen gerecht zu verteilen.",
+          "Er sparte jahrelang, um endlich schuldenfrei zu sein."
+        ]
+      },
+      {
+        "struktur": "Negative Begleitinfinitivkonstruktion (ohne...zu)",
+        "beispiel": "wie man eigentlich aus einem wachsenden Kapitalismus aussteigen soll, ohne eine schwere Wirtschaftskrise auszulösen und Millionen Menschen in die Arbeitslosigkeit zu schicken",
+        "erklaerung": "Die Konstruktion 'ohne...zu + Infinitiv' beschreibt eine Handlung, die ohne eine bestimmte Begleiterscheinung stattfindet. Sie ist das modale Gegenstueck zur finalen 'um...zu'-Konstruktion: Waehrend 'um...zu' das angestrebte Ziel nennt, nennt 'ohne...zu' das, was ausgeschlossen sein soll. Im Beispiel werden zwei ausgeschlossene Folgen durch 'und' verbunden und teilen das 'ohne...zu'. Beide Infinitive stehen am Ende.",
+        "erklaerung_en": "The construction 'ohne...zu + infinitive' describes an action that takes place without a particular accompanying consequence. It is the modal counterpart of the final 'um...zu' construction: while 'um...zu' names the intended goal, 'ohne...zu' names what is to be excluded. In the example, two excluded consequences are joined by 'und' and share the single 'ohne...zu.' Both infinitives appear at the end.",
+        "weitere_beispiele": [
+          "Man kann den Klimawandel nicht bekaempfen, ohne den Energieverbrauch zu reduzieren.",
+          "Sie verliess den Raum, ohne ein Wort zu sagen."
+        ]
+      },
+      {
+        "struktur": "Zumal als konzessiv-kausaler Verstaerker",
+        "beispiel": "Veränderungen machen immer Angst, zumal, wenn sie mit Verzicht einhergehen sollen.",
+        "erklaerung": "'Zumal' kann als Partikel oder Konjunktion auftreten. Als Partikel (gefolgt von einem Wenn-Satz) fuehrt 'zumal' den staerksten Grund oder die staerkste Bedingung ein, die das Vorhergesagte verstaerkt. Es entspricht 'besonders wenn' oder 'erst recht wenn'. Im Beispiel gilt: Veraenderungen machen ohnehin Angst; wenn dann noch Verzicht dazukommt, ist diese Angst erst recht verstaendlich. 'Zumal' situiert das Gewichtigste ans Ende.",
+        "erklaerung_en": "'Zumal' can function as a particle or conjunction. As a particle followed by a 'wenn' clause, it introduces the strongest reason or condition that amplifies what was said before. It corresponds to 'especially when,' 'even more so when,' or 'particularly since.' In the example: changes cause anxiety in any case; when sacrifice is added, that anxiety becomes even more understandable. 'Zumal' places the most compelling case last.",
+        "weitere_beispiele": [
+          "Das Projekt war von Anfang an schwierig, zumal die Finanzierung ungeklaert blieb.",
+          "Abwarten ist in dieser Situation gefaehrlich, zumal wir kaum Zeit haben."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Den Gürtel enger schnallen",
+      "uebersetzung": "To tighten one's belt",
+      "anmerkung": "A universal idiom for reducing spending or consumption during hard times. In Herrmann's context it acquires a different weight: she is describing not a temporary austerity measure but a permanent recalibration of what an economy should produce. The idiom domesticates what she calls Verzicht, making it sound like a household adjustment rather than a civilizational one."
+    }
+  },
+  {
     "id": "tiefe-2026-03-31",
     "date": "2026-03-31",
     "titel": "Heilignuechterne Wasser",
