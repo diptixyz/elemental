@@ -1,5 +1,177 @@
 [
   {
+    "id": "tiefe-2026-04-02",
+    "date": "2026-04-02",
+    "titel": "Das demokratiegefaehrdende Gefuehl",
+    "leitgedanke": "Claudia Neu und Berthold Vogel zeigen, dass Einsamkeit keine Privatsache ist: Wo Menschen sich abgehaengt fuehlen, wird das Vertrauen in Demokratie zur knappen Ressource.",
+    "themen": [
+      "Einsamkeit",
+      "Demokratie",
+      "Gesellschaft"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/einsamkeit-2024/557849/einsamkeit-als-soziale-frage/",
+    "autor": "Claudia Neu und Berthold Vogel",
+    "werk": "Einsamkeit als soziale Frage (APuZ 52/2024, Dezember 2024)",
+    "autor_kontext": "Claudia Neu is a professor of rural sociology at the universities of Goettingen and Kassel, with research focused on spatial inequality, Daseinsvorsorge, and the social fabric of peripheral regions. Berthold Vogel is professor of sociology and managing director of the Soziologisches Forschungsinstitut Goettingen (SOFI), known for his work on class, labour, and social cohesion. This essay appeared in the December 2024 issue of 'Aus Politik und Zeitgeschichte' (APuZ), the flagship journal of the Bundeszentrale fuer politische Bildung -- freely accessible and aimed at the educated general public. Together, Neu and Vogel argue that loneliness belongs not only in clinical or therapeutic discourse but in political analysis.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Im Dezember 2024 erschien in der APuZ ein Essay der Soziologen Claudia Neu und Berthold Vogel: Einsamkeit, so ihre These, ist keine Privatsache, sondern eine politische Gefahr. Der folgende Auszug fuehrt von der Grundthese ueber die demokratischen Kosten der Vereinzelung zur Frage, was Gesellschaft dagegen tun kann."
+        },
+        {
+          "typ": "zitat",
+          "text": "Einsamkeit ist mehr als ein individuelles Gefühl und eine persönliche Empfindung. Einsamkeit ist eine soziale Frage, denn Einsamkeit steht stets in einer Beziehung zu gesellschaftlichen Strukturen und sozialen Veränderungen. Einsamkeit kann zu einem vollständigen Rückzug aus sozialen Beziehungen führen sowie zu physischen und psychischen Erkrankungen. Einsamkeit wirkt sich zudem negativ auf [[das gesellschaftliche Miteinander|das Miteinander -- being-together, co-existence. Mit (with) + einander (each other), nominalized. Names the basic social condition of living among others as something that can be lost.]] aus. Denn einsame Menschen beteiligen sich im Vergleich zu nichteinsamen Menschen weniger am gesellschaftlichen und politischen Leben. Sie fühlen sich oft nicht (mehr) als Teil der Gesellschaft. Sie beginnen, ihre Mitmenschen und ihre Umwelt negativ und als feindlich wahrzunehmen. Deshalb verlieren sie auch das Interesse, Gesellschaft mitzugestalten.\n\nDie Schwäche und die Krise demokratischer Strukturen und Institutionen ist nicht die Schuld der Einsamen, aber die institutionelle Erosion, die wir zurzeit erleben, ist auch nicht ohne weit verbreitete Gefühle und Erfahrungen der Einsamkeit zu erklären. Vor diesem Hintergrund plädieren wir dafür, Einsamkeit als eine soziale, politische und institutionelle Herausforderung zu verstehen, die an den [[Grundfesten|die Grundfeste -- foundation stone, bedrock. 'An den Grundfesten ruehren' means to shake something at its very base, to destabilize what seemed permanent.]] demokratischer Gesellschaften rührt. Demokratien sterben langsam, Einsamkeit ist dabei ein stiller, aber keineswegs folgenloser Prozess, dessen Wirkung nicht abrupt und [[äjäh|jaeh -- sudden, abrupt, with a quality of harshness or shock. An older literary adjective; its presence in analytical prose lends a sentence an elevated, almost elegiac tone.]] einsetzt, der aber soziale Bindungen und Verpflichtungen erodieren lässt. Einsamkeit bedeutet [[Bindungsverlust|der Bindungsverlust -- loss of attachment. Bindung (bond; in psychology: attachment; in law: obligation) + Verlust (loss). A compound that carries weight from multiple registers at once.]], und sie erschwert es, den eigenen Ort in der sozialen Welt zu finden.",
+          "quelle": "Claudia Neu und Berthold Vogel, Einsamkeit als soziale Frage, APuZ 52/2024"
+        },
+        {
+          "typ": "zitat",
+          "text": "Einsame gehen seltener zur Wahl, [[partizipieren|partizipieren -- to participate, to take part. From Latin participare: pars (part) + capere (to take). In civic contexts, refers specifically to active engagement in democratic life beyond merely voting.]] auch ansonsten politisch weniger, neigen häufiger zur Unterstützung populistischer Kandidaten und verlieren eher das Vertrauen in demokratische Institutionen als Nichteinsame.\n\nEinsame Jugendliche hängen häufiger Verschwörungserzählungen an, die sich „gegen die Eliten“, aber auch gegen „die Anderen“ richten, tendieren eher zum [[Autoritarismus|der Autoritarismus -- authoritarianism. The systematic preference for hierarchical obedience over democratic deliberation; in political psychology, a cluster of attitudes valuing order and in-group conformity over individual rights.]] und billigen häufiger politische Gewalt.\n\nDas öffentlich sichtbare [[Ressentiment|das Ressentiment -- resentment; borrowed from French. In Nietzsche's sense (Zur Genealogie der Moral, 1887): the reactive emotion by which the powerless compensate by devaluing others. German intellectual usage retains this Nietzschean charge.]], das autoritäre politische Bewegungen und Parteien propagieren, wird von der Haltung getragen, dass „die da oben“ nicht mehr wissen, was „dort unten“ passiert; und es wird [[befeuert|befeuern -- to fuel, to stoke. Feuer (fire) + be-. When used of political emotions, it implies an external agent stoking existing heat for their own ends.]] von dem Gefühl, in der Gesellschaft mit seinen Problemen alleine zu stehen, also kollektiv einsam zu sein.",
+          "quelle": "Claudia Neu und Berthold Vogel, Einsamkeit als soziale Frage, APuZ 52/2024"
+        },
+        {
+          "typ": "zitat",
+          "text": "Grundvoraussetzung für Verbundenheit sind Zugänge zu öffentlichen Gütern und Dienstleistungen wie Gesundheit, Mobilität, aber auch zu Freizeitangeboten, die Teilhabe ermöglichen. Es braucht neue [[Gelegenheitsstrukturen|die Gelegenheitsstruktur -- opportunity structure. Gelegenheit (occasion, opportunity; literally: a lying-in-place) + Struktur. A sociological term for the institutional and spatial conditions that make social encounter possible.]] für Begegnung; dazu gehören sichere und attraktive öffentliche Plätze und soziale Orte, die sowohl eher flüchtige Kommunikation wie auch demokratische Mitwirkung ermöglichen. Der schön gestaltete Stadtpark, die Bibliothek, die zugleich auch Café und Begegnungsort ist, die Mehrgenerationenhäuser, die betreutes Wohnen und Kindergarten zusammenbringen, sind gute Beispiele hierfür. Einsamkeit als soziale Frage anzuerkennen und eben nicht ausschließlich als persönliches Problem zu behandeln, bedeutet auch, den Fragen von [[Gemeinwohl|das Gemeinwohl -- common good, public welfare. Gemein (common, shared) + Wohl (wellbeing). One of the most contested terms in political philosophy: what benefits everyone rather than any one group. Its echo in 'gemein' (also: base, vulgar) has always shadowed the concept.]] und Gleichwertigkeit, von Kooperation und Kommunikation wieder größeren Raum in den gesellschaftlichen Debatten zu geben.",
+          "quelle": "Claudia Neu und Berthold Vogel, Einsamkeit als soziale Frage, APuZ 52/2024"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "In December 2024, APuZ published an essay by sociologists Claudia Neu and Berthold Vogel arguing that loneliness is a political matter. The following excerpt moves from their core thesis through the democratic costs of social isolation to the question of what society might do in response."
+        },
+        {
+          "typ": "zitat",
+          "text": "Loneliness is more than an individual feeling and a personal sensation. Loneliness is a social question, because loneliness always stands in a relationship to societal structures and social changes. Loneliness can lead to a complete withdrawal from social relationships and to physical and psychological illnesses. Loneliness also has a negative effect on communal life. For lonely people participate less in social and political life compared to non-lonely people. They often no longer feel themselves to be part of society. They begin to perceive their fellow human beings and their environment negatively, as hostile. For this reason they also lose interest in shaping society.\n\nThe weakness and the crisis of democratic structures and institutions is not the fault of the lonely, but the institutional erosion we are currently experiencing cannot be explained without the widespread feelings and experiences of loneliness either. Against this backdrop, we advocate understanding loneliness as a social, political, and institutional challenge that reaches into the foundations of democratic societies. Democracies die slowly; loneliness is a quiet but by no means inconsequential process, whose effects do not set in abruptly and suddenly, but which allows social bonds and obligations to erode. Loneliness means a loss of attachment, and it makes it harder to find one's own place in the social world.",
+          "quelle": "Claudia Neu und Berthold Vogel, Einsamkeit als soziale Frage (Loneliness as a Social Question), APuZ 52/2024"
+        },
+        {
+          "typ": "zitat",
+          "text": "Lonely people vote less often, participate less politically in general, are more likely to support populist candidates, and tend to lose trust in democratic institutions more than non-lonely people.\n\nLonely young people more often subscribe to conspiracy narratives directed 'against the elites' as well as 'the others,' tend more toward authoritarianism, and more frequently condone political violence.\n\nThe publicly visible resentment that authoritarian political movements and parties propagate is sustained by the conviction that 'those up there' no longer know what is happening 'down below'; and it is fueled by the feeling of standing alone in society with one's problems -- of being collectively lonely.",
+          "quelle": "Claudia Neu und Berthold Vogel, Einsamkeit als soziale Frage (Loneliness as a Social Question), APuZ 52/2024"
+        },
+        {
+          "typ": "zitat",
+          "text": "A precondition for connectedness is access to public goods and services such as health, mobility, but also to leisure activities that enable participation. New opportunity structures for encounter are needed; these include safe and attractive public places and social spaces that allow for both fleeting communication and democratic participation. The beautifully designed city park, the library that is also a cafe and meeting place, the multi-generational houses that bring assisted living and kindergartens together -- these are good examples. Recognizing loneliness as a social question and not treating it exclusively as a personal problem also means giving greater space in social debates to the questions of common good and equal worth, of cooperation and communication.",
+          "quelle": "Claudia Neu und Berthold Vogel, Einsamkeit als soziale Frage (Loneliness as a Social Question), APuZ 52/2024"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Hannah Arendt beschrieb 1958 den oeffentlichen Raum als den Ort, an dem Menschen durch Sprache und Handeln fuereinander sichtbar werden. Neu und Vogels Einsamkeitsbegriff laesst sich von hier aus lesen: Einsamkeit ist das Verschwinden aus eben jenem Raum. Die Stadtpark-Bibliothek am Ende des Essays ist dann keine bloss technische Sozialpolitik; sie ist Arendts Polis in zeitgemaesser Form, ein Versprechen, dass oeffentliches Erscheinen moeglich bleibt.",
+        "en": "Hannah Arendt described in 1958 the public realm as the space where people become visible to one another through speech and action. Neu and Vogel's concept of loneliness can be read from this vantage: loneliness is the withdrawal from the very space that makes one visible. The park-library at the essay's end is then not merely technical social policy; it is Arendt's polis in contemporary form, a promise that public appearance remains possible."
+      },
+      {
+        "de": "Robert Putnam zaehlte 2000 in 'Bowling Alone' amerikanische Bowlingligen und Kirchenchoere, um den Rueckgang sozialen Kapitals zu messen. Neu und Vogel betreiben verwandte Wissenschaft, aber mit schaerferer politischer These: Wo Putnam vor allem den Verlust von Vertrauen beschrieb, benennen sie den Gewinn von Ressentiment -- und dessen Auswirkung auf Wahlurnen und Parlamentsvertrauen. Beide sehen dieselbe Erosion; die Frage nach den politischen Kosten stellen sie unterschiedlich.",
+        "en": "Robert Putnam counted bowling leagues and church choirs in 'Bowling Alone' (2000) to measure the decline of social capital. Neu and Vogel pursue related inquiry with a sharper political thesis: where Putnam mainly described a loss of trust, they identify the gain of resentment -- and its consequences for voter turnout and institutional confidence. Both observe the same erosion; they frame its political costs differently."
+      },
+      {
+        "de": "Jane Jacobs beschrieb 1961 in 'The Death and Life of Great American Cities' die Strasse als soziale Infrastruktur: Gemischte Nutzung, niedrige Bebauung, kurze Strassenabschnitte schaffen die Bedingungen, unter denen Menschen einander zufaellig begegnen. Wenn Neu und Vogel sichere und attraktive oeffentliche Plaetze fordern, formalisieren sie Jacobs' Intuition soziologisch. Einsamkeit beginnt oft mit Stadtplanung.",
+        "en": "Jane Jacobs described in 1961's 'The Death and Life of Great American Cities' the street as social infrastructure: mixed use, low buildings, short blocks create the conditions under which people meet by chance. When Neu and Vogel call for safe and attractive public places, they formalize Jacobs' intuition sociologically. Loneliness often begins with urban planning."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "das Miteinander",
+        "definition": "das Miteinander -- being-together, co-existence. A nominalized preposition: mit (with) + einander (each other). Names the basic social condition of living among others as something that can be diminished or lost.",
+        "beispiel": "Das ruhige Miteinander im Quartier haengt oft von kleinen gemeinsamen Orten ab.",
+        "etymologie": "Formed by nominalizing the reciprocal pronoun 'miteinander' (with one another). The construction is distinctly German; it turns a preposition into a noun, suggesting that togetherness is itself a countable, losable thing."
+      },
+      {
+        "wort": "die Grundfeste",
+        "definition": "die Grundfeste -- foundation stone, structural bedrock. 'An den Grundfesten ruehren' means to shake something at its very base, to destabilize what was assumed to be permanent.",
+        "beispiel": "Die Enthuellung erschuetterte die Grundfesten des oeffentlichen Vertrauens.",
+        "etymologie": "Grund (ground, basis, reason) + fest (firm, solid). The compound is old; its architectural metaphor survives most strongly in the phrase 'an den Grundfesten ruehren.'"
+      },
+      {
+        "wort": "jäh",
+        "definition": "jaeh -- sudden, abrupt, with a quality of harshness or shock. An older literary adjective rarely heard in everyday speech; its presence in analytical prose lends a sentence an elevated, almost elegiac tone.",
+        "beispiel": "Der jaehe Wandel der Stimmung im Saal war fuer alle spuerbar.",
+        "etymologie": "From Old High German 'gahi' (quick, sudden, impetuous). In classical German literature it often connotes violence or fate; its rarity in modern usage makes it feel charged when it appears."
+      },
+      {
+        "wort": "der Bindungsverlust",
+        "definition": "der Bindungsverlust -- loss of attachment. Bindung (bond; in psychology: attachment; in law: obligation) + Verlust (loss). A compound that carries weight from multiple registers at once.",
+        "beispiel": "Soziologen beobachten einen zunehmenden Bindungsverlust gegenueber Parteien, Kirchen und Vereinen.",
+        "etymologie": "Bindung from 'binden' (to bind, tie). In German attachment theory (Bindungstheorie), it specifically names the emotional bond between caregiver and child. Verlust from Old High German 'farliosan' (to lose completely)."
+      },
+      {
+        "wort": "partizipieren",
+        "definition": "partizipieren -- to participate, to take part. Used especially in civic and political contexts: 'politisch partizipieren' means to take an active role in democratic life, not merely to vote.",
+        "beispiel": "Wer keine Stimme in der Gemeinschaft zu haben glaubt, partizipiert seltener an demokratischen Prozessen.",
+        "etymologie": "From Latin 'participare': pars (part) + capere (to take). Entered German in the 16th century through scholarly Latin. The noun 'Partizipation' is now common in educational and social-work discourse."
+      },
+      {
+        "wort": "der Autoritarismus",
+        "definition": "der Autoritarismus -- authoritarianism. The systematic preference for hierarchical obedience over democratic deliberation; in political psychology, an orientation that values order and in-group conformity over individual rights.",
+        "beispiel": "Studien zeigen, dass soziale Ausgegrenztheit die Anziehungskraft des Autoritarismus verstaerken kann.",
+        "etymologie": "From Latin 'auctoritas': weight, credibility, the power to originate. The -ismus suffix turns a quality into a doctrine. The term gained analytical precision through Theodor Adorno's 1950 study 'The Authoritarian Personality.'"
+      },
+      {
+        "wort": "das Ressentiment",
+        "definition": "das Ressentiment -- resentment; a reactive emotional state directed at those perceived as more powerful or privileged. In the sense Nietzsche theorized in 'Zur Genealogie der Moral' (1887): the moral inversion by which the powerless compensate by devaluing those above them.",
+        "beispiel": "Das politische Ressentiment naehrt sich weniger aus klaren Interessen als aus dem Gefuehl, nicht gehoert zu werden.",
+        "etymologie": "Borrowed from French 'ressentiment' (resentment), from 're-' (again) + 'sentir' (to feel). Nietzsche gave it a technical meaning in his analysis of slave morality, making it a key term in German intellectual discourse."
+      },
+      {
+        "wort": "befeuern",
+        "definition": "befeuern -- to fuel, to stoke, to fire up. Feuer (fire) + be- (applied intensively). When used of political emotions, it implies an external agent stoking existing heat for their own ends.",
+        "beispiel": "Soziale Medien befeuern oft bestehende Spaltungen, anstatt neue Debatten zu eroeffnen.",
+        "etymologie": "Literal meaning: to fire a furnace or engine. The metaphorical extension to politics and emotion is common in modern German journalism. Compare English 'to fuel.'"
+      },
+      {
+        "wort": "die Gelegenheitsstruktur",
+        "definition": "die Gelegenheitsstruktur -- opportunity structure. Gelegenheit (occasion, opportunity; literally: a lying-in-place, from gelegen: situated, convenient) + Struktur. A sociological term for the institutional and spatial conditions that make social encounter possible or impossible.",
+        "beispiel": "Bibliotheken und Parks gehoeren zu den wichtigsten Gelegenheitsstrukturen fuer zufaellige Begegnungen in der Stadt.",
+        "etymologie": "Gelegenheit from 'gelegen' (situated, at hand), from 'liegen' (to lie). The concept of opportunity as a spatial and temporal condition is embedded in the word itself."
+      },
+      {
+        "wort": "das Gemeinwohl",
+        "definition": "das Gemeinwohl -- common good, public welfare. Gemein (common, shared) + Wohl (wellbeing, weal). One of the most contested terms in political philosophy: what benefits everyone rather than any one person or group. Its echo in 'gemein' (also: base, vulgar) has always shadowed the concept.",
+        "beispiel": "Wer vom Gemeinwohl spricht, muss erklaeren, wessen Wohl eigentlich gemeint ist.",
+        "etymologie": "Gemein from Old High German 'gimeini' (common, general). Wohl from Old High German 'wola' (well, good). The compound appears in German political writing since the medieval period and was central to natural law theory."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Negierte Modalstruktur: 'nicht ohne ... zu + Infinitiv'",
+        "beispiel": "die institutionelle Erosion, die wir zurzeit erleben, ist auch nicht ohne weit verbreitete Gefühle und Erfahrungen der Einsamkeit zu erklären",
+        "erklaerung": "Diese Konstruktion verbindet zwei Verneinungen zu einer bedingten Notwendigkeit: 'nicht ohne X zu tun' bedeutet, dass X unverzichtbar ist. Im Unterschied zu einer direkten Kausalbehauptung raeumt die Formulierung die Ursache ein, ohne sie explizit zu behaupten. Sie eignet sich daher besonders fuer vorsichtige wissenschaftliche Aussagen.",
+        "erklaerung_en": "This construction combines two negations into a conditional necessity: 'not without X' implies that X is required. The structure is more guarded than a direct causal claim; it says 'X cannot be absent' rather than 'X is the cause.' It suits cautious academic argument well.",
+        "weitere_beispiele": [
+          "Das Ergebnis ist nicht ohne grosse Anstrengung zu erklaeren.",
+          "Der Erfolg ist nicht ohne den Einsatz des ganzen Teams zu verstehen."
+        ]
+      },
+      {
+        "struktur": "Infinitivgruppe als Satzsubjekt",
+        "beispiel": "Einsamkeit als soziale Frage anzuerkennen und eben nicht ausschließlich als persönliches Problem zu behandeln, bedeutet auch, den Fragen von Gemeinwohl und Gleichwertigkeit [...] wieder größeren Raum [...] zu geben.",
+        "erklaerung": "Eine Infinitivgruppe aus zwei koordinierten Infinitiven ('anzuerkennen' und 'zu behandeln') tritt als grammatisches Subjekt von 'bedeutet' auf. Diese Konstruktion ist im Deutschen haeufiger als im Englischen und erlaubt es, eine komplexe Haltung als Einheit zu benennen, bevor die eigentliche Aussage folgt.",
+        "erklaerung_en": "An infinitive phrase with two coordinated infinitives ('anzuerkennen' and 'zu behandeln') functions as the grammatical subject of 'bedeutet' (means). German readily allows this fronted infinitive clause; English often converts it to a gerund ('Recognizing... means...') or a 'that' clause.",
+        "weitere_beispiele": [
+          "Jeden Morgen frueh aufzustehen und Sport zu treiben, verbessert nachweislich die Konzentration.",
+          "Den anderen zuhoeren und ihre Perspektive ernst zu nehmen, ist der Kern guter Kommunikation."
+        ]
+      },
+      {
+        "struktur": "Gerundivum: 'zu' + Partizip I als Attribut",
+        "beispiel": "die zu beobachtende institutionelle Erosion",
+        "erklaerung": "Das Gerundivum entsteht aus 'zu' + Partizip I und drueckt Moeglichkeit oder Notwendigkeit aus: 'die zu beobachtende Erosion' entspricht 'die Erosion, die beobachtet werden kann / muss'. Diese komprimierte Passivkonstruktion ist im geschriebenen Deutsch sehr gebraeuchlich, besonders in wissenschaftlicher und journalistischer Prosa.",
+        "erklaerung_en": "The 'zu + present participle' attributive (the German gerundive) expresses possibility or necessity: 'die zu beobachtende Erosion' = 'the erosion that can be / must be observed.' It is a compressed passive relative clause, common in written German, especially academic and journalistic registers.",
+        "weitere_beispiele": [
+          "das zu loesende Problem (= das Problem, das geloest werden muss)",
+          "die zu erwartenden Kosten (= die Kosten, die zu erwarten sind)"
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Geteiltes Leid ist halbes Leid.",
+      "uebersetzung": "A sorrow shared is a sorrow halved.",
+      "anmerkung": "Ein altes deutsches Sprichwort, das in Neu und Vogels Argument eine paradoxe Wendung erhaelt. Waehrend der Satz normalerweise Trost spendet, beschreibt ihr Essay eine andere Moeglichkeit: Die Pandemie hat Einsamkeit zwar kollektiv gemacht, aber damit nicht geheilt. Geteiltes Leid kann auch geteiltes Ressentiment erzeugen."
+    }
+  },
+  {
     "id": "tiefe-2026-04-01",
     "date": "2026-04-01",
     "titel": "Das V-Wort",
