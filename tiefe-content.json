@@ -1,5 +1,187 @@
 [
   {
+    "id": "tiefe-2026-04-15",
+    "date": "2026-04-15",
+    "titel": "Wer waescht seine Haende?",
+    "leitgedanke": "Jana Heinz liest die pauschale Kritik an digitaler Bildung als Rueckzugssymptom: als Zeichen, dass Erwachsene Verantwortung delegieren, bevor sie ernsthaft fragen, wie Gestaltung aussehen koennte.",
+    "themen": [
+      "Erziehung",
+      "Digitalisierung",
+      "Verantwortung"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/erziehung-2025/573911/digitale-bildung-als-dystopie/",
+    "autor": "Jana Heinz",
+    "werk": "Digitale Bildung als Dystopie (APuZ Erziehung 52/2025, Dezember 2025)",
+    "autor_kontext": "Jana Heinz is a professor of empirical social research at Munich University of Applied Sciences (Hochschule München) and a researcher at the German Youth Institute (Deutsches Jugendinstitut) in Munich. Her work spans the sociology of education, learning in digital societies, and inclusive schooling. She led the BMBF-funded project Digitale Chancengerechtigkeit, which studied how children from different social backgrounds engage with digital and analogue reading tools. This essay appeared in APuZ's December 2025 special issue on Erziehung, where she argues that fear-saturated rhetoric about digital technology is itself a political symptom — one that names a problem while evacuating the responsibility to address it.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Jana Heinz eroeffnet ihren Essay mit einer Umkehrung: Die Dystopie-Rhetorik rund um digitale Bildung ist selbst ein Symptom. Wer Technologie zum Bedrohungsszenario erklaert, entlastet sich von der Frage, wer eigentlich die Verantwortung traegt, und wer sie gerade abgibt. Der folgende Auszug stammt aus dem Dezember 2025 erschienenen APuZ-Heft zur Erziehung."
+        },
+        {
+          "typ": "zitat",
+          "text": "Dystopien [[strukturieren|strukturieren -- to organize, to impose a frame on perception. From Struktur (structure, from Latin structura: a fitting together). Used actively: dystopias do not passively reflect fear, they organize how we perceive technology before analysis begins.]] gesellschaftliche Wahrnehmungen digitaler Technologien, indem sie komplexe Entwicklungen zu narrativen Szenarien verdichten, die Machtasymmetrien, Überwachung und algorithmische Steuerung sichtbar machen. Durch [[Verfremdungseffekte|Verfremdungseffekte -- defamiliarization effects. Verfremdung (making-strange, from verfremden: to alienate, to estrange) + Effekte. Coined by Bertolt Brecht for a theatrical technique that disrupts habitual emotional response so audiences can think rather than simply feel. Applied here to dystopian literature's capacity to make the familiar look strange enough to critique.]] legen sie Strukturen der Gegenwart offen und eröffnen Räume für Kritik. Sie mobilisieren Affekte wie Angst und Empörung und erzeugen so Aufmerksamkeit für Risiken, die sonst unsichtbar blieben. Damit fungieren sie als Medium soziologischer Imagination. Sie verdeutlichen, wie individuell erlebte Erfahrungen mit strukturellen Machtverhältnissen [[verwoben|verwoben -- interwoven, entangled. Past participle of verweben (to weave together, from weben: to weave). The image is textile: individual threads cannot be pulled free of the fabric they form; individual experience cannot be extracted from social structure.]] sind.",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie, APuZ 52/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Diese Funktionen sind ambivalent. Viele zeitgenössische Dystopien entlarven autoritäre Tendenzen und soziale Ungleichheit, riskieren aber zugleich, durch ihre Totalität politische [[Handlungsfähigkeit|Handlungsfaehigkeit -- capacity for action, ability to act and intervene. Handlung (action, from handeln: to act) + Faehigkeit (ability, from faehig: capable). When catastrophe appears total, the capacity to intervene seems to dissolve along with it.]] zu [[delegitimieren|delegitimieren -- to delegitimize, to strip of legitimacy. From Latin de- (undoing) + legitimus (lawful). The target here is political action itself: dystopia teaches that intervention is futile.]] Denn was als totaler Kontrollverlust erscheint, lässt sich nicht mehr gestalten, sondern nur noch beklagen. Gestaltung wird dann ins Private verlagert und mündet nicht selten in Kontroll- und Reinheitsforderungen, in deren Umsetzung Eltern versuchen, ihre Kinder vor digitalen Technologien zu schützen. Diese [[Bewahrmotive|Bewahrmotive -- protective impulses, shielding motives. Bewahren (to preserve, to protect, from wahren: to keep, to guard) + Motiv (motive). The motives driving parents to shield children from screens rather than demanding political regulation.]] verweisen auf ein Bedürfnis nach Sicherheit und moralischer Ordnung in einer als überkomplex empfundenen Welt. Sie sind Ausdruck einer Pädagogik der Abgrenzung, die nicht auf Gestaltung, sondern auf Abschirmung setzt und damit letztlich die politische Dimension von Erziehung [[unterläuft|unterlaeuft -- subverts, undermines. Third person singular of unterlaufen (to run beneath). Something passes below the surface, eroding a foundation through withdrawal rather than confrontation.]]",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie, APuZ 52/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Hannah Arendt beschrieb in ihrem Essay „The Crisis in Education“ bereits in den 1950er Jahren eine ähnliche Dynamik. [...] Erziehung, so Arendt, sei eine [[Vermittlungsleistung|Vermittlungsleistung -- an act of mediation, a bridging service. Vermittlung (mediation, from vermitteln: to mediate, from Mitte: middle) + Leistung (achievement, service, from leisten: to perform). Arendt sees education as placing a child between past and future: the adult is the bridge between what has been and what is possible.]] zwischen Vergangenheit und Zukunft, getragen von der Verantwortung der Erwachsenen, Kinder in eine bestehende, aber veränderbare Welt einzuführen, die durch verweigernde Haltungen unterlaufen wird. Ihr Befund ist bis heute bemerkenswert aktuell: „Deutlicher auf der anderen Seite konnten moderne Menschen ihre Unzufriedenheit mit der Welt, ihr Unbehagen in dem Bestehenden gar nicht [[kundgeben|kundgeben -- to make known, to express, to publicly manifest. From kund (known, apparent, from Old High German kund: known, related to koennen) + geben (to give). Slightly formal register: giving something inward out to be known by others.]] als durch die Weigerung, ihren Kindern gegenüber die Verantwortung für all das zu übernehmen. Es ist, als ob sie ihnen täglich sagten: In dieser Welt sind auch wir nicht sehr verläßlich zu Hause, und wie man sich in ihr bewegen soll, was man dazu wissen und können muß, ist auch uns nicht bekannt. Ihr müßt sehen, wie ihr durchkommt; uns jedenfalls sollt ihr nicht zur Verantwortung ziehen können. Wir waschen unsere Hände in Unschuld.“",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie, APuZ 52/2025 (mit Arendt-Zitat aus: Hannah Arendt, The Crisis in Education, 1958)"
+        },
+        {
+          "typ": "zitat",
+          "text": "C. Wright Mills' Konzept der „Sociological Imagination“ ergänzt Arendts Perspektive um eine [[gesellschaftsdiagnostische|gesellschaftsdiagnostisch -- societally diagnostic. Gesellschaft (society) + Diagnose (diagnosis, from Greek dia: through + gnosis: knowing). Scholarship that reads individual symptoms as evidence of social structure.]] Dimension. Individuelle Überforderung, so Mills, ist selten rein persönlich, sondern vielmehr ein Indikator struktureller Probleme. Wenn heute Lehrkräfte und Eltern ihre Erschöpfung angesichts digitaler Transformation artikulieren, verweist dies auf Defizite in Infrastruktur, Ressourcenausstattung und politischer Regulierung. Public issues werden demnach fälschlicherweise als private troubles [[individualisiert|individualisiert -- individualized, privatized as personal problems. Past participle of individualisieren (to individualize, from Individuum: individual, from Latin in-: not + dividere: to divide). Turning structural failures into personal failings.]] Damit liefert Mills einen entscheidenden Anschluss an Arendt. Beide betonen die Notwendigkeit, Verantwortung nicht zu privatisieren, sondern als gemeinsame politische und pädagogische Aufgabe zu begreifen.",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie, APuZ 52/2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Jana Heinz opens her essay with a reversal: the dystopian rhetoric surrounding digital education is itself a symptom. Whoever frames technology as a threat scenario relieves themselves of the question of who actually bears responsibility — and who is currently relinquishing it. The following excerpt is from the December 2025 APuZ special issue on education."
+        },
+        {
+          "typ": "zitat",
+          "text": "Dystopias structure social perceptions of digital technologies by condensing complex developments into narrative scenarios that make power asymmetries, surveillance, and algorithmic control visible. Through defamiliarization effects, they lay bare the structures of the present and open spaces for critique. They mobilize affects like fear and indignation, thereby generating attention for risks that would otherwise remain invisible. In this way they function as a medium of sociological imagination. They make clear how individually experienced experiences are interwoven with structural power relations.",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie (Digital Education as Dystopia), APuZ 52/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "These functions are ambivalent. Many contemporary dystopias expose authoritarian tendencies and social inequality, but simultaneously risk, through their totality, delegitimizing political capacity for action. For what appears as total loss of control can no longer be shaped, only lamented. Design is then displaced into the private sphere and not infrequently culminates in demands for control and purity, in the implementation of which parents try to shield their children from digital technologies. These protective impulses point to a need for security and moral order in a world experienced as excessively complex. They are the expression of a pedagogy of demarcation that aims at shielding rather than shaping, and thereby ultimately subverts the political dimension of education.",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie (Digital Education as Dystopia), APuZ 52/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Hannah Arendt described a similar dynamic in her essay 'The Crisis in Education' as early as the 1950s. [...] Education, Arendt holds, is an act of mediation between past and future, carried by the responsibility of adults to introduce children into an existing but changeable world — a responsibility that is undermined by attitudes of refusal. Her finding remains remarkably pertinent today: 'Modern people could not have expressed their discontent with the world, their dissatisfaction with the existing state of things, more clearly than by refusing to assume responsibility for the world toward their children. It is as though they said daily: In this world even we are not very reliably at home, and how one is to move about in it, what one has to know and be able to do for that, is unknown even to us. You must try to manage as well as you can; in any case you are not entitled to call us to account. We wash our hands in innocence.'",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie (Digital Education as Dystopia), APuZ 52/2025 (with Arendt quotation from: Hannah Arendt, The Crisis in Education, 1958)"
+        },
+        {
+          "typ": "zitat",
+          "text": "C. Wright Mills' concept of the 'Sociological Imagination' supplements Arendt's perspective with a societally diagnostic dimension. Individual overwhelm, Mills holds, is seldom purely personal but rather an indicator of structural problems. When teachers and parents today articulate their exhaustion in the face of digital transformation, this points to deficits in infrastructure, resourcing, and political regulation. Public issues are thus mistakenly individualized as private troubles. Mills thereby provides a decisive connection to Arendt. Both emphasize the necessity of grasping responsibility as a shared political and pedagogical task, rather than privatizing it.",
+          "quelle": "Jana Heinz, Digitale Bildung als Dystopie (Digital Education as Dystopia), APuZ 52/2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Guenther Anders diagnostizierte 1956 in 'Die Antiquiertheit des Menschen', dass der Mensch seiner eigenen Technik nicht mehr gewachsen sei -- ein 'prometheisches Gefaelle' zwischen dem, was wir herstellen, und dem, was wir begreifen koennen. Heinz kennt diese Diagnose, dreht aber ihre Konsequenz um. Wo Anders Resignation als nahezu unvermeidlich akzeptierte, fordert Heinz, das Unverhaeltnis als politisches Problem zu behandeln, das gestaltbar bleibt.",
+        "en": "Günther Anders diagnosed in 1956's 'The Obsolescence of Man' that the human being is no longer equal to its own technology — a 'Promethean gap' between what we produce and what we can comprehend. Heinz knows this diagnosis but inverts its consequence. Where Anders accepted resignation as near-inevitable, Heinz insists on treating the disproportion as a political problem that remains open to design."
+      },
+      {
+        "de": "Neil Postmans 'Amusing Ourselves to Death' (1985) ist der Stammvater der Medien-Dystopie. Postman sah im Fernsehen das Ende des oeffentlichen Diskurses, eine apokalyptische These, die heute mit dem Stichwort Algorithmus wiederholt wird. Heinz liest dieses Muster als Zeichen paedagogischer Entpolitisierung: Die grossen Bilder mobilisieren Empoerung, aber das Mobilisierungsziel bleibt privat. Strukturelle Regulierung taucht als Moeglichkeit gar nicht erst auf.",
+        "en": "Neil Postman's 'Amusing Ourselves to Death' (1985) is the progenitor of the media dystopia. Postman saw in television the end of public discourse, an apocalyptic claim now repeated under the keyword algorithm. Heinz reads this pattern as a sign of pedagogical depoliticization: the grand images mobilize indignation, but the target of mobilization remains private. Structural regulation does not even appear as a possibility."
+      },
+      {
+        "de": "John Deweys 'Democracy and Education' (1916) bestand darauf, dass Erziehung ein gemeinsamer Prozess ist, in dem eine Gesellschaft sich ueber ihre Werte verstaendigt. Heinz' Rueckgriff auf Arendt setzt genau hier an: Verantwortung entsteht im geteilten Handeln, in Institutionen, die Gestaltungsspielraeume sichern. Wo politische Rahmensetzung fehlt, wird aus gesellschaftlicher Aufgabe eine private Last.",
+        "en": "John Dewey's 'Democracy and Education' (1916) insisted that education is a shared process through which a society comes to understand its own values. Heinz's turn to Arendt picks up exactly here: responsibility arises in shared action, in institutions that secure room for design. Where political framing is absent, what was a social task becomes a private burden."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "strukturieren",
+        "definition": "strukturieren -- to organize, to impose a frame on how something is perceived. Whoever structures perception holds power before argument begins.",
+        "beispiel": "Die Berichterstattung strukturiert, was als Problem wahrgenommen wird und was unsichtbar bleibt.",
+        "etymologie": "From Struktur (structure), from Latin structura (a fitting together, from struere: to pile up, to build). Related to konstruieren, Infrastruktur, destruktiv."
+      },
+      {
+        "wort": "der Verfremdungseffekt",
+        "definition": "Verfremdungseffekt -- defamiliarization effect. From Brecht's theater: making the familiar strange so the audience thinks rather than simply feels along.",
+        "beispiel": "Der Regisseur nutzte direkte Publikumsansprache als Verfremdungseffekt.",
+        "etymologie": "Verfremdung from verfremden (to make strange, to alienate) -- ver- (intensifying prefix, often reversing) + fremd (foreign, strange, from Old High German fremidi). Brecht developed the theatrical term in the 1930s."
+      },
+      {
+        "wort": "verwoben",
+        "definition": "verwoben -- interwoven, entangled. The image is textile: individual threads cannot be pulled free of the fabric they constitute.",
+        "beispiel": "Persoenliche Erfahrung und gesellschaftliche Struktur sind untrennbar miteinander verwoben.",
+        "etymologie": "Past participle of verweben (to weave together) -- ver- (thoroughly, together) + weben (to weave, from Old High German weban). Related to Gewebe (tissue, fabric), Spinnwebe (cobweb)."
+      },
+      {
+        "wort": "die Handlungsfaehigkeit",
+        "definition": "Handlungsfaehigkeit -- capacity for action, ability to act and intervene. When catastrophe appears total, Handlungsfaehigkeit is what dissolves first.",
+        "beispiel": "Politische Erschoepfung bedroht die Handlungsfaehigkeit der Zivilgesellschaft.",
+        "etymologie": "Handlung (action, from handeln: to act, to deal, from Hand: hand) + Faehigkeit (capability, from faehig: capable, of Germanic origin). The compound ties doing to the bodily fact of the hand."
+      },
+      {
+        "wort": "delegitimieren",
+        "definition": "delegitimieren -- to delegitimize, to strip of lawful standing. Applied here to political action itself: dystopian totality teaches that intervention is futile.",
+        "beispiel": "Korruptionsskandale koennen das Vertrauen in staatliche Institutionen dauerhaft delegitimieren.",
+        "etymologie": "From Latin de- (undoing, removal) + legitimus (lawful, from lex, legis: law). The de- prefix enacts a reversal: what was legitimate is unmade. Compare Legitimation, illegitim."
+      },
+      {
+        "wort": "die Bewahrmotive",
+        "definition": "Bewahrmotive -- protective impulses, shielding motives. The motives driving parents to remove children from digital spaces rather than demanding structural political regulation.",
+        "beispiel": "Bewahrmotive sind verstaendlich, reichen aber als politische Antwort auf Plattformmacht nicht aus.",
+        "etymologie": "From bewahren (to preserve, to guard, from wahren: to keep, to protect -- related to wahr: true, genuine) + Motiv (motive, from Latin motivus: moving). The word images protection as maintaining integrity."
+      },
+      {
+        "wort": "unterlaufen",
+        "definition": "unterlaufen -- to subvert, to undermine. Something passes beneath the surface, eroding a foundation through withdrawal rather than open confrontation.",
+        "beispiel": "Buerokratische Einzelfallentscheidungen koennen das Prinzip des Gesetzes unterlaufen.",
+        "etymologie": "unter- (under, below) + laufen (to run). Compare unterwandern (to infiltrate from below), untergraben (to dig under). The image: bypassing without confronting."
+      },
+      {
+        "wort": "die Vermittlungsleistung",
+        "definition": "Vermittlungsleistung -- an act of mediation, a bridging achievement. Arendt sees education as placing a child between past and future: the adult is the bridge.",
+        "beispiel": "Eine gute Uebersetzung erbringt eine Vermittlungsleistung, die weit ueber das Sprachliche hinausgeht.",
+        "etymologie": "Vermittlung (mediation, from vermitteln: to mediate, from Mitte: middle, center) + Leistung (achievement, service, from leisten: to perform). The compound names mediation as active accomplishment."
+      },
+      {
+        "wort": "kundgeben",
+        "definition": "kundgeben -- to make known, to express, to publicly manifest. Slightly formal register: giving something inward out to be known by others.",
+        "beispiel": "Die Bevoelkerung gab durch Proteste ihre Unzufriedenheit kund.",
+        "etymologie": "From kund (known, apparent, from Old High German kund: known, related to koennen: to be able to know) + geben (to give). Compare bekanntgeben (to announce), kundtun (to proclaim)."
+      },
+      {
+        "wort": "individualisieren",
+        "definition": "individualisieren -- to individualize, to reframe as a personal problem. Mills' key critique: structural failures get treated as individual shortcomings.",
+        "beispiel": "Armut wird in manchen Diskursen individualisiert: als persoenliches Versagen statt als systemische Frage dargestellt.",
+        "etymologie": "From Individuum (individual, from Latin individuum: the indivisible, from in-: not + dividere: to divide) + -isieren (verbal suffix). The verb names the process of treating something collective as singular."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Indem-Konstruktion als modale Subordination",
+        "beispiel": "indem sie komplexe Entwicklungen zu narrativen Szenarien verdichten",
+        "erklaerung": "Die Konjunktion 'indem' leitet einen modalen Nebensatz ein, der antwortet, wie oder wodurch etwas geschieht. Das Muster: [Hauptsatz] + indem + [Nebensatz mit Verb am Ende]. Der Nebensatz nennt das Mittel oder die Art und Weise, nicht den Grund. Hier: Dystopien strukturieren Wahrnehmung, indem sie Komplexes zu Szenarien verdichten -- das Indem-Subjekt ist dasselbe wie im Hauptsatz. Im Unterschied zu 'weil' (Ursache) oder 'damit' (Ziel) benennt 'indem' den Prozess, durch den etwas zustande kommt.",
+        "erklaerung_en": "The conjunction 'indem' introduces a modal subordinate clause answering how or by what means something happens. Pattern: [main clause] + indem + [subordinate clause with verb final]. The subordinate clause names the means, not the cause. Here: dystopias structure perception by condensing complexity into scenarios — the indem-subject is the same as the main clause subject. Unlike 'weil' (because) or 'damit' (so that), 'indem' names the process through which something comes about.",
+        "weitere_beispiele": [
+          "Sie lernte die Sprache, indem sie taeglich Zeitungen auf Deutsch las.",
+          "Das Gesetz wirkt, indem es Anreize verschiebt, statt Verhalten direkt zu verbieten."
+        ]
+      },
+      {
+        "struktur": "Passiversatzform: laesst sich + Infinitiv",
+        "beispiel": "lässt sich nicht mehr gestalten",
+        "erklaerung": "Die Konstruktion 'laesst sich + Infinitiv' ist eine Passiversatzform, die 'kann + Partizip II + werden' ersetzt. 'Was als totaler Kontrollverlust erscheint, laesst sich nicht mehr gestalten' bedeutet: 'kann nicht mehr gestaltet werden'. Der Unterschied: Das Subjekt erscheint aktiv (es laesst das Tun zu oder nicht), ohne dass ein Handelnder genannt wird. Diese Konstruktion betont eine Eigenschaft des Subjekts naemlich seine Gestaltbarkeit. Haeufig bei Aussagen ueber Moeglichkeit oder Unmoeglickeit.",
+        "erklaerung_en": "The construction 'lässt sich + infinitive' is a passive substitute, replacing 'kann + past participle + werden'. The difference: the subject appears active (it allows or prevents the doing), without naming an agent. This construction emphasizes a property of the subject — its designability or lack thereof. Common in statements about possibility or impossibility.",
+        "weitere_beispiele": [
+          "Die Frage laesst sich nicht einfach beantworten.",
+          "Das Fenster laesst sich nicht oeffnen -- die Scharniere sind festgerostet."
+        ]
+      },
+      {
+        "struktur": "Vielmehr als korrektives Adverb",
+        "beispiel": "selten rein persönlich, sondern vielmehr ein Indikator struktureller Probleme",
+        "erklaerung": "Das Adverb 'vielmehr' verstaerkt und korrigiert: Es folgt meist auf eine verneinte oder eingeschraenkte Aussage und fuehrt die gewichtigere Alternative ein. Im Unterschied zu 'sondern' (das schlicht eine Alternative nennt) unterstreicht 'vielmehr' den Grad: Die Alternative ist bedeutsamer als die abgelehnte Moeglichkeit. Register: gehoben, typisch in argumentativer Prosa.",
+        "erklaerung_en": "The adverb 'vielmehr' intensifies and corrects: it usually follows a negated or qualified statement and introduces the weightier alternative. Unlike 'sondern' (which simply names an alternative), 'vielmehr' underscores magnitude: the alternative is more significant than the rejected possibility. Register: elevated, typical in argumentative prose.",
+        "weitere_beispiele": [
+          "Technologischer Wandel ist vielmehr eine Frage politischen Willens als eine des technischen Koennnens.",
+          "Konzentration laesst sich vielmehr kultivieren als verordnen."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Die Haende in Unschuld waschen",
+      "uebersetzung": "To wash one's hands in innocence",
+      "anmerkung": "Ein biblisches Bild (Matthaeus 27,24: Pilatus waescht sich die Haende vor der Menge) fuer die oeffentliche Geste moralischer Distanzierung. Arendt verwendet es in ihrem Erziehungsessay, um Erwachsene zu beschreiben, die die Welt, die sie den Kindern hinterlassen, nicht mehr mitgestalten wollen. Im Deutschen traegt die Wendung meist einen Beigeschmack von Feigheit: Man weiss, was getan werden muesste, und tut es trotzdem nicht."
+    }
+  },
+  {
     "id": "tiefe-2026-04-10",
     "date": "2026-04-10",
     "titel": "Angst ist eng",
