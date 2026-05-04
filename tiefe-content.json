@@ -1,5 +1,203 @@
 [
   {
+    "id": "tiefe-2026-05-04",
+    "date": "2026-05-04",
+    "titel": "Eine Sprache der stummen Dinge",
+    "leitgedanke": "Hofmannsthals Brief von 1902 fragt, was bleibt, wenn die abstrakten Worte im Munde zerfallen, und schickt seinen Lord Chandos auf eine andere Spur: zu den stummen Dingen, die zuweilen zu uns sprechen.",
+    "themen": [
+      "Sprachkrise",
+      "Wahrnehmung",
+      "Schweigen"
+    ],
+    "quelle_url": "https://eclass.uoa.gr/modules/document/file.php/GS102/01%20Texte%20(prim%C3%A4r)/03%20Sprachkrise/Hofmannsthal_kurz.pdf",
+    "autor": "Hugo von Hofmannsthal",
+    "werk": "Ein Brief (Brief des Lord Chandos an Francis Bacon), 1902",
+    "autor_kontext": "Hugo von Hofmannsthal (1874-1929) was an Austrian poet, dramatist, and librettist born into Vienna's haute bourgeoisie. He was a literary prodigy who published precocious lyric poetry under the pen-name Loris in his teens; by his twenties he had largely stopped writing poems, troubled by the very mistrust of language that 'Ein Brief' would dramatize. He went on to write the libretti for Richard Strauss's most famous operas, including 'Der Rosenkavalier' and 'Elektra,' and to co-found the Salzburg Festival in 1920. He died of a stroke in 1929, two days after his elder son's suicide.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Hugo von Hofmannsthals 1902 erschienener fiktiver Brief des erfundenen Lord Chandos an Francis Bacon, datiert auf den Sommer 1603, gilt als ein Gruendungstext der modernen Sprachkrise. Ein junger englischer Adeliger erklaert seinem aelteren Mentor, warum er nicht mehr schreiben kann: Die abstrakten Worte sind ihm im Munde zerfallen. Was bleibt, sind kurze Augenblicke, in denen ein gewoehnlicher Gegenstand aufleuchtet wie ein Schluessel zu einer Sprache, die jenseits der Sprache liegt."
+        },
+        {
+          "typ": "zitat",
+          "text": "Mein Innres aber muß ich Ihnen darlegen, eine Sonderbarkeit, eine Unart, wenn Sie wollen eine Krankheit meines Geistes, wenn Sie begreifen sollen, daß mich ein ebensolcher [[brückenloser|brueckenlos -- ohne Bruecke; ein Abgrund, der nicht ueberbrueckt werden kann]] Abgrund von den scheinbar vor mir liegenden literarischen Arbeiten trennt, als von denen, die hinter mir sind und die ich, so fremd sprechen sie mich an, mein Eigentum zu nennen zögere. […] Mein Fall ist, in Kürze, dieser: Es ist mir völlig die Fähigkeit [[abhanden|abhanden -- aus mhd. ab hant: aus der Hand entglitten, verloren]] gekommen, über irgend etwas zusammenhängend zu denken oder zu sprechen.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief (Brief des Lord Chandos an Francis Bacon), 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Zuerst wurde es mir allmählich unmöglich, ein höheres oder allgemeineres Thema zu besprechen und dabei jene Worte in den Mund zu nehmen, deren sich doch alle Menschen ohne Bedenken geläufig zu bedienen pflegen. Ich empfand ein unerklärliches [[Unbehagen|Unbehagen -- ein dumpfes Unwohlsein; das Gegenteil zu Behagen]], die Worte \"Geist\", \"Seele\" oder \"Körper\" nur auszusprechen. […] die abstrakten Worte, deren sich doch die Zunge naturgemäß bedienen muß, um irgendwelches Urtheil an den Tag zu geben, zerfielen mir im Munde wie [[modrige|modrig -- vermodert, faulig; etwas, das im Verfall riecht]] Pilze.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Es gelang mir nicht mehr, sie mit dem vereinfachenden Blick der [[Gewohnheit|Gewohnheit -- die wiederholte Bewegung, die wir nicht mehr bemerken; verwandt mit wohnen]] zu erfassen. Es zerfiel mir alles in Teile, die Teile wieder in Teile und nichts mehr ließ sich mit einem Begriff [[umspannen|umspannen -- umfassen, in einen Bogen zwingen]]. Die einzelnen Worte schwammen um mich; sie [[gerannen|gerinnen -- fest werden, stocken; das Fluessige wird Festes]] zu Augen die mich anstarrten und in die ich wieder hineinstarren muß: [[Wirbel|Wirbel -- Strudel; Stelle, an der etwas in sich kreist und nichts mehr durchlaesst]] sind sie, in die hinabzusehen mich schwindelt, die sich unaufhaltsam drehen und durch die hindurch man ins Leere kommt.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Eine Gießkanne, eine auf dem Feld verlassene [[Egge|Egge -- landwirtschaftliches Geraet zum Lockern des Bodens; verwandt mit Acker und Ecke]], ein Hund in der Sonne, ein ärmlicher Kirchhof, ein Krüppel, ein kleines Bauernhaus, alles dies kann das Gefäß meiner [[Offenbarung|Offenbarung -- das Sich-Zeigen eines verborgenen Sinnes; aus dem religioesen Wortschatz, hier saekular gewendet]] werden. Jeder dieser Gegenstände und die tausend anderen ähnlichen, über die sonst ein Auge mit selbstverständlicher Gleichgültigkeit hinweggleitet, kann für mich plötzlich in irgendeinem Moment, den herbeizuführen auf keine Weise in meiner Gewalt steht, ein erhabenes und rührendes [[Gepräge|Gepraege -- Stempelbild auf Muenzen; uebertragen: ein Eindruck, der sich einpraegt]] annehmen, das auszudrücken mir alle Worte zu arm scheinen.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "[…] weil die Sprache, in welcher nicht nur zu schreiben, sondern auch zu denken mir vielleicht gegeben wäre, weder die lateinische noch die englische, noch die italienische oder spanische ist, sondern eine Sprache, in welcher die [[stummen|stumm -- ohne Sprache; das, was nicht spricht und doch etwas mitteilt]] Dinge zuweilen zu mir sprechen, und in welcher ich vielleicht einst im Grabe vor einem unbekannten Richter mich verantworten werde.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Hugo von Hofmannsthal's fictional letter from the invented Lord Chandos to Francis Bacon, dated to summer 1603 and published in 1902, is regarded as a founding text of the modern language crisis. A young English nobleman explains to his older mentor why he can no longer write: the abstract words have decayed in his mouth. What remains are short moments in which an ordinary object lights up like a key to a language that lies beyond language."
+        },
+        {
+          "typ": "zitat",
+          "text": "But I must lay open my inner life to you, a peculiarity, a vice, if you will a sickness of my mind, if you are to grasp that just such a bridgeless abyss separates me from the literary works that seem to lie before me as from those that lie behind me and that I, so foreign do they speak to me, hesitate to call my own. […] My case, in short, is this: I have lost altogether the ability to think or speak coherently about anything at all.",
+          "quelle": "Hugo von Hofmannsthal, A Letter (Letter of Lord Chandos to Francis Bacon), 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "At first it became gradually impossible for me to discuss any higher or more general topic and to take into my mouth those words that all people are accustomed to use fluently and without hesitation. I felt an inexplicable unease in even pronouncing the words \"spirit,\" \"soul,\" or \"body.\" […] the abstract words that the tongue must naturally make use of in order to bring forth any judgment whatsoever decayed in my mouth like moldy mushrooms.",
+          "quelle": "Hugo von Hofmannsthal, A Letter, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "I no longer succeeded in grasping them with the simplifying gaze of habit. Everything fell apart for me into pieces, the pieces again into pieces, and nothing could any longer be encompassed by a single concept. The individual words swam around me; they congealed into eyes that stared at me and into which I in turn must stare: they are vortices, into which it dizzies me to look down, which spin unceasingly, and through which one passes into the void.",
+          "quelle": "Hugo von Hofmannsthal, A Letter, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "A watering can, a harrow abandoned in the field, a dog in the sun, a poor churchyard, a cripple, a small farmhouse, all of this can become the vessel of my revelation. Each of these objects and the thousand others like them, over which an eye otherwise glides with self-evident indifference, can suddenly, at some moment that it lies in no way in my power to bring about, take on a sublime and moving stamp that all words seem to me too poor to express.",
+          "quelle": "Hugo von Hofmannsthal, A Letter, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "[…] because the language in which not only to write but also to think might perhaps be granted me is neither Latin nor English, nor Italian nor Spanish, but rather a language in which mute things sometimes speak to me, and in which I shall perhaps one day in the grave have to answer before an unknown judge.",
+          "quelle": "Hugo von Hofmannsthal, A Letter, 1902"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Zwei Jahrzehnte spaeter wird Wittgenstein im Tractatus jenen Satz schreiben, der wie eine Antwort auf Chandos klingt: dass man schweigen muesse, wovon man nicht sprechen koenne. Hofmannsthal kennt dieses Schweigen schon, aber von innen. Bei ihm bricht die Sprache unter dem Druck der Naehe. Er sieht zu genau hin, und das Genaue zerfaellt. Die Philosophie der Sprache und die Erschoepfung des Schreibenden treffen sich an demselben Riss.",
+        "en": "Two decades later Wittgenstein will write the sentence in the Tractatus that sounds like an answer to Chandos: that one must be silent about what one cannot speak. Hofmannsthal already knows this silence, but from the inside. With him language breaks under the pressure of nearness. He looks too closely, and the close-up falls apart. The philosophy of language and the writer's exhaustion meet at the same fissure."
+      },
+      {
+        "de": "Chandos vergleicht seinen Blick mit einem Vergroesserungsglas, das die Haut des kleinen Fingers in ein Brachfeld verwandelt. Karl Blossfeldt fotografiert ab 1898 Pflanzenteile zigfach vergroessert; aus Schachtelhalmen werden gotische Saeulen, aus Farnen Eisenwerk. Beide tun das Gleiche und enden auf entgegengesetzten Seiten. Blossfeldt findet im Detail die Bauformen der Welt; Chandos findet im Detail das Auseinanderfallen der Begriffe. Dieselbe optische Geste, zwei verschiedene Antworten.",
+        "en": "Chandos compares his gaze to a magnifying glass that turns the skin of his small finger into a fallow field. From 1898 onwards Karl Blossfeldt photographs plant parts at many times life size; horsetails become Gothic columns, ferns become wrought iron. Both do the same thing and end on opposite sides. Blossfeldt finds in the detail the structural forms of the world; Chandos finds in the detail the falling-apart of concepts. The same optical gesture, two different answers."
+      },
+      {
+        "de": "Bei Meister Eckhart heisst Gott manchmal das 'namenlose Nichts'. Wer auf das Hoechste zugehe, muesse die Begriffe ablegen, sonst verfehle er den Gegenstand. Chandos schreibt aus dem fruehmodernen Salonleben, doch sein letzter Satz, die Sprache, in der die stummen Dinge zu ihm sprechen, liegt in der Naehe dieser alten apophatischen Tradition: Was wirklich da ist, laesst sich nur im Schweigen einkreisen. Aus dem Sprachversagen wird ein Wahrnehmungsmodus, den das Mittelalter schon kannte.",
+        "en": "In Meister Eckhart God is sometimes called the 'nameless Nothing.' Whoever approaches the highest must set aside concepts, or miss the very thing he seeks. Chandos writes from the early-modern salon, yet his closing sentence, the language in which mute things sometimes speak to him, lies near this old apophatic tradition: what is really there can only be circled in silence. The failure of language becomes a mode of perception that the Middle Ages already knew."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "brückenlos",
+        "definition": "brueckenlos -- without a bridge. Used of an abyss that cannot be crossed; the building-vocabulary becomes a metaphor for the unreachable.",
+        "beispiel": "Ein brueckenloser Abgrund trennte ihn von seinen frueheren Texten.",
+        "etymologie": "Bildung aus Bruecke (ahd. brucca) und der Verneinungsendung -los. Hofmannsthal nutzt das einfache Bild des fehlenden Bauwerks fuer die radikalste Trennung."
+      },
+      {
+        "wort": "abhanden kommen",
+        "definition": "abhanden kommen -- to be lost, to go missing. An idiomatic expression in which the lost thing slips out of one's grasp.",
+        "beispiel": "Mir ist die Faehigkeit zu sprechen abhanden gekommen.",
+        "etymologie": "Aus mhd. ab hant ('aus der Hand'). Heute fest mit kommen verbunden; das Verlorene ist das, was der Hand entgleitet."
+      },
+      {
+        "wort": "gerinnen",
+        "definition": "gerinnen -- to congeal, to clot. Of milk, blood, or here words that thicken into something solid and threatening.",
+        "beispiel": "Die Milch ist im Topf geronnen, sie laesst sich nicht mehr ruehren.",
+        "etymologie": "Mhd. gerinnen, urspruenglich 'zusammenrinnen'. 'Gerannen' ist die regelmaessige Praeteritumform der dritten Plural; heute begegnet man dem Verb meist nur noch im Perfekt 'ist geronnen'."
+      },
+      {
+        "wort": "modrig",
+        "definition": "modrig -- moldy, decaying. Of something organic that has lost its form to rot.",
+        "beispiel": "In dem alten Keller roch es modrig nach feuchtem Holz.",
+        "etymologie": "Zu Moder (Verwesung); verwandt mit engl. mud und niederlaendisch modder. Das Wort traegt den Geruch in sich, lange bevor man die Verwesung sieht."
+      },
+      {
+        "wort": "die Gewohnheit",
+        "definition": "Gewohnheit -- habit, custom. The repeated movement that we cease to notice; here, the simplifying glance with which the world becomes manageable.",
+        "beispiel": "Die Gewohnheit verbirgt uns die Welt; erst der fremde Blick sieht sie wieder.",
+        "etymologie": "Substantiv zu wohnen. Was uns zur Wohnung wird, wird unsichtbar; die Gewohnheit ist die naechste Verwandte des Uebersehens."
+      },
+      {
+        "wort": "umspannen",
+        "definition": "umspannen -- to span, encompass. To take into a single grasp; said of arms, of concepts, of an arch over a road.",
+        "beispiel": "Kein Begriff konnte das ganze Geschehen mehr umspannen.",
+        "etymologie": "spannen mit der Vorsilbe um-. Aus der Welt der Bogen und der gespannten Pferdezuegel in die Welt der Begriffe getragen."
+      },
+      {
+        "wort": "der Wirbel",
+        "definition": "Wirbel -- vortex, whirlpool. A spinning point from which one cannot pull away; in anatomy also the vertebra that turns on its axis.",
+        "beispiel": "Im Wasserloch entstand ein Wirbel, der das Laub mitnahm.",
+        "etymologie": "Zu werben (sich drehen). Das gleiche Wort fuer das Wasserloch wie fuer den Knochen, der sich um seine Achse dreht."
+      },
+      {
+        "wort": "die Egge",
+        "definition": "Egge -- harrow. An agricultural tool dragged across plowed earth to break up clods. A word that has almost left the city.",
+        "beispiel": "Auf dem leeren Acker lag noch die Egge vom Vorjahr.",
+        "etymologie": "Indogermanische Wurzel *ak- (scharf, Spitze); verwandt mit Acker, Ecke und lat. acer. Das Wort gehoert zur aelteren laendlichen Schicht der deutschen Sprache."
+      },
+      {
+        "wort": "die Offenbarung",
+        "definition": "Offenbarung -- revelation, disclosure. Originally a religious term; here applied to a sudden secular epiphany before an everyday object.",
+        "beispiel": "Eine alltaegliche Giesskanne wurde ihm zur Offenbarung.",
+        "etymologie": "Aus offenbar, von offen + -bar. Theologisch: das Sich-Zeigen Gottes; profan: das ploetzliche Hervortreten eines bisher unsichtbaren Sinnes."
+      },
+      {
+        "wort": "das Gepräge",
+        "definition": "Gepraege -- stamp, character, imprint. The mark a coin receives in the press; figuratively, the distinctive impression a thing leaves on us.",
+        "beispiel": "Das Gespraech trug das Gepraege grosser Erschoepfung.",
+        "etymologie": "Zu praegen (mhd. praegen, 'einpressen'). Aus der Muenzwerkstatt in die Sprache der Wahrnehmung gewandert. Ein Gepraege ist immer schon eine Spur, die etwas in uns hinterlassen hat."
+      },
+      {
+        "wort": "stumm",
+        "definition": "stumm -- mute, silent. Without speech; said of those who do not speak and of things that have no voice.",
+        "beispiel": "Die stummen Dinge sprechen, wenn man lange genug bei ihnen verweilt.",
+        "etymologie": "Ahd. stum; verwandt mit dem Stamm 'stam-' fuer das Stocken, das Aufhoeren des Lauts. Im Wort selbst klingt das Steckenbleiben des Tons mit."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Reflexivverb mit Genitivobjekt",
+        "beispiel": "die abstrakten Worte, deren sich doch die Zunge naturgemäß bedienen muß",
+        "erklaerung": "Einige Reflexivverben fordern ein Genitivobjekt: sich bedienen, sich annehmen, sich entsinnen, sich schaemen (auch +Gen.), sich erbarmen. Hofmannsthal verwendet die formelle Form 'sich der Worte bedienen' statt des modernen 'die Worte gebrauchen'. Das Pronomen 'deren' steht im Genitiv und bezieht sich auf die abstrakten Worte. Der Genitiv markiert hier das Mittel, dessen man sich bedient.",
+        "erklaerung_en": "Some reflexive verbs take a genitive object: sich bedienen (to make use of), sich annehmen (to take care of), sich entsinnen (to recall). Hofmannsthal uses the formal 'sich der Worte bedienen' rather than the modern 'die Worte gebrauchen.' The pronoun 'deren' stands in the genitive and refers back to 'die abstrakten Worte.' The genitive marks the means one makes use of.",
+        "weitere_beispiele": [
+          "Sie bediente sich eines alten Tricks.",
+          "Er entsann sich der Stunde, in der alles begann."
+        ]
+      },
+      {
+        "struktur": "Relativsatz mit präpositioniertem 'welcher/welchem'",
+        "beispiel": "eine Sprache, in welcher die stummen Dinge zuweilen zu mir sprechen",
+        "erklaerung": "Statt des heute uebliche 'in der/dem' verwendet Hofmannsthal die formellere Variante 'in welcher/welchem'. Beide Formen sind grammatisch korrekt; die welcher-Form klingt gehoben und schriftsprachlich, oft juristisch oder philosophisch, und vermeidet Klanghaeufungen wie 'der der'. Sie ist heute selten, aber im gehobenen Stil noch lebendig.",
+        "erklaerung_en": "Instead of today's usual 'in der/dem,' Hofmannsthal uses the more formal 'in welcher/welchem.' Both forms are grammatically correct; the 'welcher' form sounds elevated and literary, often juridical or philosophical, and avoids sound-clusters like 'der der.' It is rare today but still alive in elevated style.",
+        "weitere_beispiele": [
+          "der Sessel, in welchem mein Vater zu sitzen pflegte",
+          "die Frage, ueber welche wir uns nicht einig wurden"
+        ]
+      },
+      {
+        "struktur": "Irrealer Vergleichssatz mit 'als' + Verb-Zweitstellung",
+        "beispiel": "Es ist mir dann, als bestünde meine Körper aus lauter Chiffern",
+        "erklaerung": "Der irreale Vergleich kann mit 'als ob' (Verb am Ende) oder mit blossem 'als' (Verb an zweiter Stelle) gebildet werden. Hofmannsthal waehlt die kuerzere Variante: 'als bestuende' steht im Konjunktiv II und kuendigt einen unwirklichen Vergleich an. Heute klingt diese Form literarisch und etwas archaisch, ist im gehobenen Stil aber lebendig.",
+        "erklaerung_en": "The unreal comparison can be formed with 'als ob' (verb at the end) or with bare 'als' (verb in second position). Hofmannsthal chooses the shorter variant: 'als bestuende' is Konjunktiv II and signals an unreal comparison. Today this form sounds literary and somewhat archaic, but is alive in elevated style.",
+        "weitere_beispiele": [
+          "Es war mir, als hoerte ich seine Stimme noch.",
+          "Sie schauten sich an, als kennten sie sich seit Jahren."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Mir verschlägt es die Sprache.",
+      "uebersetzung": "It strikes the language out of me / I am struck speechless.",
+      "anmerkung": "Das Verb 'verschlagen' bedeutet hier 'mit einem Schlag wegnehmen'. Die Wendung beschreibt das ploetzliche Verstummen vor etwas Ueberwaeltigendem, vor Schock, Bewunderung oder Empoerung. Bei Lord Chandos zieht sich dieser Augenblick ueber Jahre."
+    }
+  },
+  {
     "id": "tiefe-2026-04-29",
     "date": "2026-04-29",
     "titel": "Meine behinderte Zukunft",
