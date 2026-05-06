@@ -1,5 +1,217 @@
 [
   {
+    "id": "tiefe-2026-05-06",
+    "date": "2026-05-06",
+    "titel": "Die siegreiche Stimme",
+    "leitgedanke": "Eine Stimme aus dem Jahr 1929 ueber den Augenblick, da das Bild sprechen lernt und sich, indem es spricht, als Schatten verraet.",
+    "themen": [
+      "Stimme",
+      "Tonfilm",
+      "Wahrnehmung"
+    ],
+    "quelle_url": "https://projekt-gutenberg.org/authors/joseph-roth/books/panoptikum/chapter/25",
+    "autor": "Joseph Roth",
+    "werk": "Bemerkungen zum Tonfilm (1929), in: Panoptikum (1930)",
+    "autor_kontext": "Joseph Roth (1894-1939) was an Austrian-Jewish writer, born in Brody on the eastern edge of the Habsburg empire, who became one of the most read journalists of the Weimar Republic and sent feuilletons across Europe to the Frankfurter Zeitung. He wrote the great elegy for the lost monarchy in 'Radetzkymarsch' (1932). After the Nazis took power he fled to Paris and drank himself to death there in May 1939. The pieces collected in 'Panoptikum' (1930) capture him as a startled witness to a modernity made of hotels, train stations, machinery, and the new talking screen.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Joseph Roths Feuilleton 'Bemerkungen zum Tonfilm' erscheint 1929 in der Frankfurter Zeitung. Der Tonfilm ist eine neue Erfindung, kaum zwei Jahre alt. Roth notiert eine phaenomenologische Ueberraschung: Sobald das Bild zu sprechen beginnt, verraet es sich als Schatten. Die Stimme dringt in den Saal ein, der Koerper bleibt an die Leinwand gekettet."
+        },
+        {
+          "typ": "zitat",
+          "text": "Der sprechende Film verstärkt nicht etwa die [[Täuschung|Taeuschung -- die Illusion, der irrefuehrende Schein; bezogen auf etwas, das anders aussieht als es ist]], daß die beweglichen Schatten lebendige Menschen sind, sondern überzeugt viel eher von der Tatsache, daß sie Schatten sind. Die Stimme kommt gleichsam aus einer anderen, uns, den lebendigen Zuschauern, näheren Dimension. Die menschliche Stimme scheint eine sehr körperliche Demonstration zu sein, körperlicher als der Körper, dem sie [[entströmt|entstroemen -- aus etwas herausfliessen, sich ergiessen; das Wort folgt dem Wasser]]. Die Stimme des Sängers im Konzertsaal [[überwölbt|ueberwoelben -- mit einem Bogen ueberspannen, ueberragen; die Architektur des Doms steckt im Wort]], verhüllt, ja verdrängt manchmal die Erscheinung des Sängers.",
+          "quelle": "Joseph Roth, Bemerkungen zum Tonfilm, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Schon der sprechende Mensch ist eine doppelte körperliche Existenz. Oft verwandelt sich der Schweigende vollkommen, sobald er zu sprechen beginnt. Was wir von ihm hören, verändert den Eindruck, den wir hatten, als wir ihn nur sahen. Die Stimme »geht uns näher«. Sie scheint unmittelbarer zu sein als das Angesicht, die Hand, die ruht. Ja, die Stimme ist eine direkte körperliche [[Berührung|Beruehrung -- der koerperliche Kontakt, das Anfassen; auch die innere Bewegung, die ein Eindruck ausloest]]. Es nützt wenig, daß im Tonfilm die Bewegungen der Lippen, der Gesichtsmuskeln, der Hände genau mit den gehörten Lauten übereinstimmen.",
+          "quelle": "Joseph Roth, Bemerkungen zum Tonfilm, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Ja, man könnte sagen: je genauer die sichtbare Artikulierung ist, desto deutlicher wird der Eindruck, daß ein Schatten artikuliert, desto größer wird die Distanz zwischen der Unmittelbarkeit der gehörten Laute und dem Schattenhaften der gleichzeitigen Bewegung.",
+          "quelle": "Joseph Roth, Bemerkungen zum Tonfilm, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Zwar ist die Stimme ebenso nur »aufgenommen« wie der lebendige Schauspieler. Da aber schon die originale Stimme direkter war als der originale Körper, ist auch die Wirkung der »aufgenommenen« unmittelbarer. Ihr kommt die [[Bereitwilligkeit|Bereitwilligkeit -- die innere Geneigtheit, etwas anzunehmen; das Ohr ist offener als das Auge]] zustatten, mit der wir gewohnt sind, uns den Sprecher (den Sänger) »vorzustellen«, wenn wir nur seine Stimme hören (durch das Telephon oder aus dem Grammophon); beinahe den Blitz zu sehen, wenn wir nur den Donner hören: jene natürliche Eigenschaft also, der zufolge der Gehörsinn die visuelle »[[Vorstellungskraft|Vorstellungskraft -- das Vermoegen, sich Unsichtbares vor Augen zu stellen; das innere Bild]]« stärker und flinker in Funktion setzt als jeder andere Sinn.",
+          "quelle": "Joseph Roth, Bemerkungen zum Tonfilm, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Im Tonfilm erscheint also die Stimme näher als das Photo, als das bewegte Photo. Sie erfüllt den ganzen Raum, berührt jeden Zuschauer körperlich, gelangt fast gleichmäßig stark an jeden Platz im Saal. Das Bild bleibt [[gefesselt|gefesselt -- gebunden, an etwas geschmiedet; im Bann]] an die Leinwand, gefangen in seiner Zweidimensionalität.",
+          "quelle": "Joseph Roth, Bemerkungen zum Tonfilm, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Als ihm die Stimme noch fehlte, als nur die Musik noch seine Bewegungen begleitete, befruchtete die Beweglichkeit dermaßen unsere »Vorstellungskraft«, daß wir selbst die fehlende dritte Dimension dem Schatten ausliehen, also: »[[andichteten|andichten -- jemandem etwas hinzudichten, ihm in der Phantasie zuschreiben, was er nicht ist]]«.",
+          "quelle": "Joseph Roth, Bemerkungen zum Tonfilm, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Nun aber scheint nicht die Stimme die Bewegung zu begleiten, sondern umgekehrt die Aktion der Schatten die Modulationen der Stimmen. […] Die Stimme aber ist die [[siegreiche|siegreich -- den Sieg davontragend; in einem Wettstreit obenauf]] Konkurrenz des Bildes.",
+          "quelle": "Joseph Roth, Bemerkungen zum Tonfilm, 1929"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Joseph Roth's feuilleton 'Bemerkungen zum Tonfilm' [Remarks on the Talking Film] appeared in 1929 in the Frankfurter Zeitung. Sound film was a new invention, barely two years old. Roth records a phenomenological surprise: as soon as the image begins to speak, it betrays itself as a shadow. The voice presses into the hall while the body remains chained to the screen."
+        },
+        {
+          "typ": "zitat",
+          "text": "The talking film does not heighten the illusion that the moving shadows are living people; on the contrary, it convinces us all the more of the fact that they are shadows. The voice comes, as it were, from another dimension, one nearer to us, the living spectators. The human voice seems a very bodily demonstration, more bodily than the body from which it streams. The voice of the singer in the concert hall sometimes overarches, veils, even displaces the appearance of the singer.",
+          "quelle": "Joseph Roth, Remarks on the Talking Film, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "The speaking person is already a doubled bodily existence. Often the silent one transforms completely the moment he begins to speak. What we hear from him alters the impression we had when we only saw him. The voice 'comes closer to us.' It seems more immediate than the face, the resting hand. Yes, the voice is a direct bodily touch. It is of little use that in the talking film the movements of the lips, the facial muscles, the hands correspond exactly with the heard sounds.",
+          "quelle": "Joseph Roth, Remarks on the Talking Film, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Indeed one could say: the more precise the visible articulation, the clearer the impression that a shadow is articulating, the greater the distance between the immediacy of the heard sounds and the shadow-like quality of the simultaneous movement.",
+          "quelle": "Joseph Roth, Remarks on the Talking Film, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Granted, the voice is just as 'recorded' as the living actor. But since the original voice was already more direct than the original body, the effect of the 'recorded' voice is also more immediate. It benefits from the readiness with which we are accustomed to 'imagine' the speaker (the singer) when we hear only his voice (through the telephone or from the gramophone); almost to see the lightning when we hear only the thunder: that natural property, that is, by which the sense of hearing sets the visual 'power of imagination' more strongly and quickly into operation than any other sense.",
+          "quelle": "Joseph Roth, Remarks on the Talking Film, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "In the talking film, then, the voice appears nearer than the photo, than the moving photo. It fills the entire space, touches every viewer bodily, reaches almost evenly into every seat in the hall. The image remains chained to the screen, captive in its two-dimensionality.",
+          "quelle": "Joseph Roth, Remarks on the Talking Film, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "When the voice was still missing, when music alone still accompanied its movements, the mobility so fertilized our 'power of imagination' that we ourselves lent the missing third dimension to the shadow, that is: we 'fictively added' it.",
+          "quelle": "Joseph Roth, Remarks on the Talking Film, 1929"
+        },
+        {
+          "typ": "zitat",
+          "text": "Now, however, it seems that the voice does not accompany the movement; on the contrary, the action of the shadows accompanies the modulations of the voices. […] The voice, however, is the victorious rival of the image.",
+          "quelle": "Joseph Roth, Remarks on the Talking Film, 1929"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Walter Benjamin schrieb wenige Jahre spaeter sein Kunstwerk-Essay (1935/36) und beobachtete denselben Vorgang aus der entgegengesetzten Richtung. Wo Benjamin die Aura des Originals durch die technische Reproduktion schrumpfen sieht, registriert Roth eine andere Distanz: die zwischen Stimme und Bild. Beide Autoren erscheinen in der Frankfurter Zeitung; beide hoeren in der neuen Maschine das Geraeusch eines Risses.",
+        "en": "Walter Benjamin wrote his essay on the work of art a few years later (1935/36) and observed the same process from the opposite direction. Where Benjamin saw the aura of the original shrink under technical reproduction, Roth registered another distance: the one between voice and image. Both wrote for the Frankfurter Zeitung; both heard in the new machine the sound of a tear."
+      },
+      {
+        "de": "Die Philosophin Adriana Cavarero argumentiert in 'A piu voci' (2003), die Stimme sei die koerperliche Signatur, die jedem Sprecher gehoert, bevor er etwas bedeutet. Das ist ungefaehr Roths Gedanke: die Stimme als Beruehrung, koerperlicher als der Koerper. Im Zeitalter geklonter Stimmen, synthetischer Erzaehler und KI-generierter Untertitel verschiebt sich Roths Beobachtung in eine neue Lage: die Beruehrung erreicht uns weiterhin, doch die Quelle hat keinen Koerper mehr.",
+        "en": "The philosopher Adriana Cavarero argues in 'For More Than One Voice' (2003) that the voice is the bodily signature belonging to every speaker before it means anything. This is roughly Roth's thought: the voice as touch, more bodily than the body. In an age of cloned voices, synthetic narrators, and AI-generated subtitles, Roth's observation slides into a new position: the touch still reaches us, but the source no longer has a body."
+      },
+      {
+        "de": "Roth bemerkt am Ende, dass die Begleitmusik den Tonfilm trotzdem benoetigt, weil sie aus einer fremden Welt kommt und das Bild stuetzt. Der Komponist Hanns Eisler und Theodor W. Adorno sollten wenige Jahre spaeter ihre 'Komposition fuer den Film' (1944) schreiben, in der sie genau das untersuchen: warum das bewegte Bild Klang braucht, der nicht zum Bild gehoert. Roth hatte das Problem schon im Saal sitzen gesehen.",
+        "en": "Roth notes at the end that the accompanying music remains necessary to the talking film because it comes from a foreign world and props up the image. The composer Hanns Eisler and Theodor Adorno would write their 'Composition for the Film' (1944) a few years later, examining exactly that: why the moving image needs sound that does not belong to it. Roth had already seen the problem from his seat in the hall."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Täuschung",
+        "definition": "Taeuschung -- die Illusion, der irrefuehrende Schein; bezogen auf etwas, das anders aussieht als es ist.",
+        "beispiel": "Der Magier lebt von der Taeuschung des Auges.",
+        "etymologie": "Aus taeuschen, im Mittelhochdeutschen tiuschen, eine Nebenform zu tauschen. Wer taeuscht, tauscht das Echte gegen den Schein."
+      },
+      {
+        "wort": "entströmen",
+        "definition": "entstroemen -- aus etwas herausfliessen, sich ergiessen. Meist von Fluessigkeiten, Geraeuschen oder Geruechen.",
+        "beispiel": "Aus dem Lautsprecher entstroemte eine fremde Stimme.",
+        "etymologie": "Aus dem Praefix ent- (Loesung, Trennung) und stroemen (fliessen). Strom geht auf indogermanisch sreu- zurueck und teilt die Wurzel mit englisch stream."
+      },
+      {
+        "wort": "überwölben",
+        "definition": "ueberwoelben -- mit einem Bogen ueberspannen, ueberragen. Architektonisch und uebertragen.",
+        "beispiel": "Die Stimme ueberwoelbte den Saal wie eine Kuppel.",
+        "etymologie": "Aus ueber- und woelben (eine Decke woelben). Die Woelbung ist die roemische Kuppel, die der deutsche Dom geerbt hat."
+      },
+      {
+        "wort": "die Berührung",
+        "definition": "Beruehrung -- der koerperliche Kontakt, das Anfassen; auch die innere Bewegung, die ein Eindruck ausloest.",
+        "beispiel": "Die Beruehrung ihrer Stimme blieb ihm jahrelang im Ohr.",
+        "etymologie": "Aus ruehren (bewegen, ruehren wie in Suppe ruehren). Beruehren verbindet raeumliche Naehe mit innerer Bewegung; geruehrt sein heisst beides."
+      },
+      {
+        "wort": "die Bereitwilligkeit",
+        "definition": "Bereitwilligkeit -- die innere Geneigtheit, etwas anzunehmen oder zu tun.",
+        "beispiel": "Mit grosser Bereitwilligkeit oeffnete sie die Tuer fuer den Fremden.",
+        "etymologie": "Aus bereit (vorbereitet) und willig (zustimmend); die Doppelung verbindet Haltung und Zustimmung."
+      },
+      {
+        "wort": "die Vorstellungskraft",
+        "definition": "Vorstellungskraft -- das Vermoegen, sich etwas Unsichtbares vor Augen zu stellen; das innere Bild.",
+        "beispiel": "Das Hoerspiel verlangt mehr Vorstellungskraft als der Film.",
+        "etymologie": "Vor + stellen, dann substantiviert: das Vor-die-Augen-Stellen ohne aeusseres Bild. Kraft macht es zur Faehigkeit."
+      },
+      {
+        "wort": "fesseln",
+        "definition": "fesseln -- binden, an etwas schmieden; uebertragen: voellig in Bann ziehen.",
+        "beispiel": "Der Zuschauer war an die Leinwand gefesselt, ohne sich zu ruehren.",
+        "etymologie": "Aus Fessel (Fussschelle, urspruenglich auch das Gelenk ueber dem Huf des Pferdes, an das man Stricke band)."
+      },
+      {
+        "wort": "andichten",
+        "definition": "andichten -- jemandem etwas hinzudichten, ihm in der Phantasie zuschreiben, was er nicht ist.",
+        "beispiel": "Das Publikum dichtet dem Schauspieler eine Tugend an, die er gar nicht besitzt.",
+        "etymologie": "Aus dichten (zusammendraengen, spaeter auch reimen, schreiben). An-dichten heisst: einer Person oder Sache hinzudichten, was sie nicht hat."
+      },
+      {
+        "wort": "siegreich",
+        "definition": "siegreich -- den Sieg davontragend; in einem Wettstreit obenauf.",
+        "beispiel": "Die Stimme tritt siegreich aus dem Apparat und verdraengt das Bild.",
+        "etymologie": "Aus Sieg und der alten Endung -reich (im Sinne von 'voll von'), wie in glorreich oder hilfreich."
+      },
+      {
+        "wort": "der Schatten",
+        "definition": "Schatten -- die dunkle Stelle, die ein Koerper im Licht wirft; auch das fluechtige Bild auf der Leinwand.",
+        "beispiel": "Auf der Leinwand bewegten sich nur Schatten, doch die Stimmen waren koerperlich.",
+        "etymologie": "Aus althochdeutsch scato, gemeingermanisch; verwandt mit englisch shade und shadow."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Doppelter Komparativ (je-desto-desto)",
+        "beispiel": "Je genauer die sichtbare Artikulierung ist, desto deutlicher wird der Eindruck, daß ein Schatten artikuliert, desto größer wird die Distanz zwischen der Unmittelbarkeit der gehörten Laute und dem Schattenhaften der gleichzeitigen Bewegung.",
+        "erklaerung": "Die je-desto-Konstruktion verbindet zwei Variablen so, dass eine mit der anderen waechst. Roth verstaerkt das Muster, indem er zwei desto-Saetze aneinanderhaengt: erst je-desto, dann ein zweites desto, das den Effekt verdoppelt. Der Satz steigt wie eine Treppe, jede Stufe heftiger als die letzte. Die Wortstellung macht die Symmetrie sichtbar: nach je folgt der Komparativ, dann das Verb am Ende; nach desto folgt ebenfalls der Komparativ, dann das Verb in zweiter Position.",
+        "erklaerung_en": "The je-desto construction couples two variables so that one grows with the other. Roth amplifies the pattern by chaining two desto-clauses: first je-desto, then a second desto that doubles the effect. The sentence climbs like a staircase, each step sharper than the last. Word order makes the symmetry visible: after je, the comparative comes first, then the verb at the end; after desto, the comparative comes first, then the verb in second position.",
+        "weitere_beispiele": [
+          "Je laenger man wartet, desto schwerer wird die Entscheidung, desto leichter scheint die Ausrede.",
+          "Je tiefer das Bild, desto stiller die Stimme, desto naeher der Eindruck."
+        ]
+      },
+      {
+        "struktur": "Modalpartikeln (gleichsam, ja, etwa)",
+        "beispiel": "Ja, die Stimme ist eine direkte körperliche Berührung.",
+        "erklaerung": "Modalpartikeln haben keine eigene Bedeutung; sie faerben den Sprechakt. 'Ja' am Satzanfang besiegelt eine Aussage, die der Sprecher selbst ueberraschend findet (eine Art rhetorisches Innehalten). 'Gleichsam' markiert den Vergleich als provisorisch, als ob der Sprecher das passendere Wort noch sucht. 'Etwa' relativiert eine Behauptung; die Wendung 'verstaerkt nicht etwa' weist die Erwartung des Lesers schon im Verb zurueck. Im geschriebenen Deutsch sind diese Partikeln der Schluessel zum Tonfall.",
+        "erklaerung_en": "Modal particles have no meaning of their own; they tint the speech act. 'Ja' at the start of a sentence seals a statement the speaker himself finds surprising (a kind of rhetorical pause). 'Gleichsam' marks the comparison as provisional, as if the speaker is still hunting the better word. 'Etwa' qualifies a claim; the phrase 'verstaerkt nicht etwa' dismisses the reader's expectation already in the verb. In written German these particles are the key to tone.",
+        "weitere_beispiele": [
+          "Das ist ja unmoeglich!",
+          "Sein Schweigen war gleichsam eine Antwort."
+        ]
+      },
+      {
+        "struktur": "Eingeschobene Apposition mit Pronomenwiederholung",
+        "beispiel": "Die Stimme kommt gleichsam aus einer anderen, uns, den lebendigen Zuschauern, näheren Dimension.",
+        "erklaerung": "Roth schiebt zwischen das Adjektiv 'naeheren' und sein Bezugswort 'Dimension' eine Apposition ein, die das Pronomen 'uns' durch eine Beschreibung erlaeutert: 'uns, den lebendigen Zuschauern'. Die naehere Dimension ist die Dimension, die den Zuschauern naeher ist. Die Konstruktion zwingt den Leser zum Innehalten und macht den Vergleich praezise. Solche eingeschobenen Appositionen sind typisch fuer den essayistischen Stil und verlangen ein gutes Auge fuer Kommata.",
+        "erklaerung_en": "Roth wedges an apposition between the adjective 'naeheren' [nearer] and its noun 'Dimension'; the apposition explains the pronoun 'uns' [to us] with a description: 'uns, den lebendigen Zuschauern' [to us, the living spectators]. The nearer dimension is the one that is nearer to the spectators. The construction forces the reader to pause and makes the comparison precise. Such embedded appositions are typical of essay style and demand a sharp eye for commas.",
+        "weitere_beispiele": [
+          "Er, der aelteste Sohn, weigerte sich.",
+          "Die Antwort, eine Frage, blieb in der Luft."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "den Ton angeben",
+      "uebersetzung": "to set the tone, to call the shots; literally: to give the tone",
+      "anmerkung": "Aus der Musik entlehnt, wo der Stimmgeber den Grundton der Kapelle vorgibt, bevor die Instrumente einsetzen. In der Alltagssprache bedeutet die Wendung: in einer Gruppe entscheiden, was zaehlt. Roths Beobachtung gibt der Wendung eine wortwoertliche Schaerfe zurueck: im Tonfilm gibt der Ton den Ton an, waehrend das Bild zurueckweicht."
+    }
+  },
+  {
     "id": "tiefe-2026-05-05",
     "date": "2026-05-05",
     "titel": "Vom Sein zum Sollen",
