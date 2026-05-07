@@ -1,5 +1,177 @@
 [
   {
+    "id": "tiefe-2026-05-07",
+    "date": "2026-05-07",
+    "titel": "Wohlstand jenseits von Wachstum",
+    "leitgedanke": "Niko Paech entwirft eine Oekonomie, die die Knappheit der Zeit ernster nimmt als die Knappheit des Geldes und Genuegsamkeit als Lebensform begreift.",
+    "themen": [
+      "Postwachstum",
+      "Suffizienz",
+      "Zeitoekonomie"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/wachstum-2025/572534/wohlstand-jenseits-von-wachstum/",
+    "autor": "Niko Paech",
+    "werk": "Wohlstand jenseits von Wachstum (APuZ 46/2025: Wachstum, November 2025)",
+    "autor_kontext": "Niko Paech (born 1960) is a German economist and one of the leading exponents of post-growth thought in the German-speaking world. He held a chair for production and environmental economics at the University of Oldenburg and now teaches plural economics at the University of Siegen. He is known for an austere personal practice: no smartphone, no air travel, his bicycle as primary transport. Critics from green-tech advocates and conservative-growth economists alike find his positions inconvenient.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Niko Paech, einer der bekanntesten Vertreter der deutschsprachigen Postwachstumsoekonomie, untersucht in seinem Essay vom November 2025 die Frage, wie ein Wohlstand aussehen koennte, der seine Versprechen ohne die Erschoepfung des Planeten einloest. Der folgende Auszug stammt aus dem mittleren Abschnitt zu Suffizienz."
+        },
+        {
+          "typ": "zitat",
+          "text": "Suffizienz verarbeitet nicht nur unverhandelbare physische, sondern mehr noch psychische, also innere [[Wachstumsgrenzen|Wachstumsgrenzen -- innere Schwellen, an denen sich der Sinn von Mehrhaben verliert]]. Konsumobjekte können keinen positiven Effekt entfalten, wenn deren Nutzer sie nicht kraft ihrer [[Sinnesorgane|Sinnesorgane -- die fuenf koerperlichen Wahrnehmungsorgane; hier das Argument, dass jedes Erlebnis Zeit, Aufmerksamkeit und Koerper braucht]] erfassen und aktiv verwenden. Dies ist zeitintensiv und lässt sich nicht beschleunigen. Wenn sich das Spektrum an verfügbaren Gütern und Erlebnissen infolge gestiegener Kaufkraft vergrößert, konkurrieren alle Aktivitäten um eine nicht vermehrbare Ressource, nämlich Zeit, die zum [[Engpassfaktor|Engpassfaktor -- knappster Faktor, der die ganze Produktion oder ein ganzes Leben ausbremst]] wird. Deshalb kennzeichnen Phänomene einer „Erschöpfung“, „Überforderung“ sowie ein „[[Unbehagen|Unbehagen -- leise Beunruhigung; das Gefuehl, dass etwas nicht stimmt; Anspielung auf Freuds Schrift 'Das Unbehagen in der Kultur']] im Wohlstand“ den Alltag moderner Konsumgesellschaften.",
+          "quelle": "Niko Paech, Wohlstand jenseits von Wachstum, APuZ 46/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Dem grassierenden [[Selbstverwirklichungsstress|Selbstverwirklichungsstress -- die Erschoepfung, die entsteht, wenn man permanent das eigene Leben als Projekt optimieren soll]] lässt sich nur mit [[Genügsamkeit|Genuegsamkeit -- die Tugend, mit Wenigem auszukommen]] begegnen: Von welchen Energiesklaven, Konsum- und Komfortkrücken ließen sich [[überbordende|ueberbordend -- ueber die Grenzen schwappend, ueberreich]] Lebensstile und schließlich die gesamte Gesellschaft befreien? Gemäß einer zeitökonomischen Analyse des Konsumgeschehens zielt Suffizienz darauf, sich auf insgesamt weniger Aktivitäten zu konzentrieren, um diese dafür umso intensiver ausschöpfen zu können. Damit richtet sie sich nicht gegen Konsum, sondern bezweckt eine optimale Verwendung knapper Zeitressourcen bei gleichzeitiger Erhöhung der Lebensqualität. Suffizienz kennt drei Ausprägungen: Selbstbegrenzung eines erreichten Versorgungsniveaus, graduelle Reduktion eines bestimmten Anspruchs sowie die vollständige Entsagung einer Option.",
+          "quelle": "Niko Paech, Wohlstand jenseits von Wachstum, APuZ 46/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Suffizienz ist sozialpolitisch und ökonomisch plausibel begründbar, wenn sie dort ansetzt, wo maximalen Schäden, die durch frei wählbare Handlungen entstehen, nur minimale [[Rechtfertigungsgehalte|Rechtfertigungsgehalte -- die Gruende, die fuer eine Handlung sprechen koennen, ihr inhaltliches Gewicht]] gegenüberstehen. Dies legt eine Unterscheidung zwischen Grundbedarf und Luxus nahe. Nicht Ersteren, sondern Letzteren infrage zu stellen, vermeidet soziale Konflikte. Bürgergeldempfänger dürften sich kaum benachteiligt fühlen, wenn Weltreisen, Kreuzfahren, SUV-Verkehr und anderer Prestigekonsum entfielen oder eingeschränkt würden. Es erkrankte oder erfror noch niemand, der nach dem Abitur nicht nach Neuseeland flog.",
+          "quelle": "Niko Paech, Wohlstand jenseits von Wachstum, APuZ 46/2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Niko Paech, one of the leading exponents of German-language post-growth economics, asks in this November 2025 essay what a prosperity might look like that fulfils its promises without the exhaustion of the planet. The following excerpt comes from the middle section on sufficiency."
+        },
+        {
+          "typ": "zitat",
+          "text": "Sufficiency processes not only non-negotiable physical limits, but, even more, psychological — that is, inner — limits to growth. Consumer objects can produce no positive effect if their users do not, by means of their senses, perceive and actively engage with them. This is time-intensive and cannot be accelerated. When the spectrum of available goods and experiences expands as a consequence of increased purchasing power, all activities compete for a non-multipliable resource: namely time, which becomes the bottleneck factor. This is why phenomena of 'exhaustion,' 'overload,' and an 'unease in prosperity' characterize the daily life of modern consumer societies.",
+          "quelle": "Niko Paech, Prosperity Beyond Growth, APuZ 46/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "This rampant self-realization stress can only be met with frugality: from which energy slaves, from which consumer and comfort crutches could overflowing lifestyles — and ultimately society as a whole — be freed? According to a time-economic analysis of consumption, sufficiency aims to concentrate on fewer activities overall, in order to draw on them all the more intensively. It is therefore not directed against consumption, but seeks an optimal use of scarce time-resources alongside a heightened quality of life. Sufficiency takes three forms: self-limitation of an attained level of provision, gradual reduction of a particular claim, and the complete renunciation of an option.",
+          "quelle": "Niko Paech, Prosperity Beyond Growth, APuZ 46/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Sufficiency is socially and economically defensible where it intervenes precisely at the point where the greatest damages, caused by freely chosen actions, meet only the most minimal grounds of justification. This suggests a distinction between basic need and luxury. To question the latter rather than the former avoids social conflict. Recipients of the citizens' basic income are unlikely to feel disadvantaged if world travel, cruises, SUV traffic, and other prestige consumption were curtailed or restricted. No one ever fell ill or froze because they did not fly to New Zealand after their Abitur.",
+          "quelle": "Niko Paech, Prosperity Beyond Growth, APuZ 46/2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Seneca schrieb an Lucilius, arm sei der, der mehr begehre. Diese antike Genuegsamkeit kannte das Genug als Reife einer Lebenskunst, lange vor jeder Klimadebatte. Paech uebersetzt den Faden in die Sprache der Knappheit. Was bei den Stoikern moralische Uebung war, beruft sich heute auf physikalische Grenzen. Die innere Praxis bleibt dieselbe.",
+        "en": "Seneca wrote to Lucilius that the poor person is the one who wants more. This ancient frugality knew enoughness as the maturity of an art of living, long before any climate debate. Paech translates the thread into the language of scarcity. What was moral exercise for the Stoics now appeals to physical limits. The inner practice remains the same."
+      },
+      {
+        "de": "Paechs Beobachtung, dass mehr Optionen die Zeit zum Engpass machen, begegnet einer aelteren These bei Hartmut Rosa: der Beschleunigungsgesellschaft, in der jede Steigerung der Moeglichkeiten den Mangel an Zeit verschaerft. Wer jeden Abend zwischen zwoelf Streamingdiensten, drei Sportarten und vier Restaurants waehlt, beginnt am Akt der Wahl selbst zu erschoepfen. Rosa schlaegt 'Resonanz' als Gegenbegriff vor: weniger Welt, intensiver bewohnt.",
+        "en": "Paech's observation that more options turn time into a bottleneck meets an older thesis in Hartmut Rosa: the acceleration society, in which every increase in possibilities sharpens the shortage of time. Whoever spends every evening choosing among twelve streaming services, three sports, and four restaurants begins to be exhausted by the act of choosing itself. Rosa offers 'resonance' as a counter-concept: less world, more closely inhabited."
+      },
+      {
+        "de": "In der Architektur des fruehen 20. Jahrhunderts forderte Adolf Loos eine Befreiung der Form vom Ueberfluss; Mies van der Rohes 'less is more' wurde Formel der Moderne. Bei beiden blieb die Reduktion eine Aesthetik des Konsumkapitalismus. Paech radikalisiert die Geste: Sie verlaesst die Galerie und kehrt in den Haushalt zurueck, in den geteilten Bohrer, die geflickte Hose, das nicht gekaufte Ticket.",
+        "en": "In early twentieth-century architecture, Adolf Loos called for a liberation of form from excess; Mies van der Rohe's 'less is more' became the formula of modernism. In both, reduction remained an aesthetic of consumer capitalism. Paech radicalizes the gesture: it leaves the gallery and returns to the household, into the shared drill, the mended trousers, the unbought ticket."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Suffizienz",
+        "definition": "Suffizienz -- das Mass des Genuegens; das Prinzip, sich auf das Ausreichende zu beschraenken.",
+        "beispiel": "Suffizienz fragt nach dem Genug und beschraenkt das Mehr.",
+        "etymologie": "Aus lateinisch sufficere (genuegen, ausreichen): sub- (unter) und facere (machen). Im Englischen frueh als sufficient gelaeufig, im Deutschen erst spaet als Substantiv eingefuehrt."
+      },
+      {
+        "wort": "die Genügsamkeit",
+        "definition": "Genuegsamkeit -- die Tugend, mit Wenigem auszukommen und im Geringen Reichtum zu finden.",
+        "beispiel": "In der buddhistischen Ethik gilt Genuegsamkeit als Quelle innerer Ruhe.",
+        "etymologie": "Aus genug (althochdeutsch ginuog), verwandt mit englisch enough. Die indogermanische Wurzel nek- bedeutet 'erreichen, hinreichen'."
+      },
+      {
+        "wort": "der Engpassfaktor",
+        "definition": "Engpassfaktor -- in der Oekonomie der knappste Produktionsfaktor, der das gesamte Geschehen bremst.",
+        "beispiel": "Bei vielen Wohlhabenden wird die Aufmerksamkeit zum eigentlichen Engpassfaktor.",
+        "etymologie": "Aus Engpass (eine schmale Stelle, urspruenglich im Gebirge) und Faktor (lateinisch factor, der Macher). Der Begriff stammt aus der Engpasstheorie der Betriebswirtschaft."
+      },
+      {
+        "wort": "das Unbehagen",
+        "definition": "Unbehagen -- leise Beunruhigung; das Gefuehl, dass etwas nicht stimmt, ohne sagen zu koennen, was.",
+        "beispiel": "Freuds Schrift 'Das Unbehagen in der Kultur' (1930) hat dem Gefuehl seinen Namen gegeben.",
+        "etymologie": "Aus un- (Negation) und Behagen (Wohlgefuehl). Behagen geht auf althochdeutsch bihagan zurueck (gefallen, passen). Was unbehaglich ist, sitzt nicht."
+      },
+      {
+        "wort": "überbordend",
+        "definition": "ueberbordend -- ueber die Grenzen schwappend, ueberreich; sprachlich vom Wasser, das ueber den Bord eines Schiffes schwappt.",
+        "beispiel": "Die ueberbordende Ausstattung der Festhalle erschoepfte die Gaeste, statt sie zu beeindrucken.",
+        "etymologie": "Vom Verb ueberborden, das auf Bord (Schiffsrand) zurueckgeht. Wer ueberbordet, geht ueber den Rand hinaus."
+      },
+      {
+        "wort": "die Komfortkrücke",
+        "definition": "Komfortkruecke -- ein Bild bei Paech: technisches Geraet, das uns das Gehen erleichtert und zugleich abgewoehnt.",
+        "beispiel": "Der Aufzug ist eine Komfortkruecke; die Treppe haelt den Koerper wach.",
+        "etymologie": "Komposition aus Komfort (von lateinisch confortare, staerken) und Kruecke (althochdeutsch krucka, der Stab). Paechs Pointe: Hilfsmittel machen uns selbst hilfsbeduerftig."
+      },
+      {
+        "wort": "die Entsagung",
+        "definition": "Entsagung -- die bewusste, oft endgueltige Aufgabe einer Moeglichkeit; eine Form von Verzicht, die nicht widerrufen wird.",
+        "beispiel": "Die religioese Entsagung kennt drei klassische Stufen: Armut, Keuschheit, Gehorsam.",
+        "etymologie": "Aus ent- (Loesung) und sagen (im alten Sinn von 'aussagen, festlegen'). Wer entsagt, sagt sich von etwas los."
+      },
+      {
+        "wort": "die Selbstbegrenzung",
+        "definition": "Selbstbegrenzung -- das Vermoegen, die eigene Reichweite freiwillig zu kuerzen, ohne aeusseren Zwang.",
+        "beispiel": "Die Selbstbegrenzung des Konsums beginnt mit der Frage, was wir wirklich brauchen.",
+        "etymologie": "Komposition aus Selbst- (Reflexivpraefix) und Begrenzung (von begrenzen, eine Grenze setzen). In der Romantik wurde der Begriff zur Tugend des aufgeklaerten Subjekts."
+      },
+      {
+        "wort": "unverhandelbar",
+        "definition": "unverhandelbar -- nicht mehr zur Disposition stehend; bei Paech die physische Welt, die kein Argument umstimmt.",
+        "beispiel": "Die Erdatmosphaere ist eine unverhandelbare Bedingung jeder Wirtschaftspolitik.",
+        "etymologie": "Aus un- (Negation), ver- (Intensivierung) und handeln (verhandeln, Kompromisse aushandeln). Wer verhandelt, sucht Spielraum; das Unverhandelbare gibt keinen."
+      },
+      {
+        "wort": "der Prestigekonsum",
+        "definition": "Prestigekonsum -- Konsum, der vor allem Status sichtbar macht: das auffaellige Auto, die ferne Reise, die teure Adresse.",
+        "beispiel": "Der Prestigekonsum laesst sich am sichersten an Dingen erkennen, die niemand braucht.",
+        "etymologie": "Aus franzoesisch prestige (Blendwerk, Zauber, von lateinisch praestigium, Taeuschung) und Konsum. Der Soziologe Thorstein Veblen nannte das Phaenomen 'conspicuous consumption'."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Passiversatzform mit 'lassen sich + Infinitiv'",
+        "beispiel": "Dies ist zeitintensiv und lässt sich nicht beschleunigen.",
+        "erklaerung": "Die Konstruktion 'lassen sich + Infinitiv' ersetzt eine Passivform und betont die prinzipielle Moeglichkeit (oder Unmoeglichkeit) einer Handlung. 'Es laesst sich nicht beschleunigen' steht fuer 'Es kann nicht beschleunigt werden', klingt aber natuerlicher und weniger amtlich. Die Reflexivform mit 'sich' wirkt fast unpersoenlich, als ob das Geschehen sich selber dem Zugriff entzoege.",
+        "erklaerung_en": "The 'lassen sich + Infinitiv' construction replaces a passive form and stresses the basic possibility (or impossibility) of an action. 'Es lässt sich nicht beschleunigen' means 'It cannot be accelerated' but sounds more natural and less bureaucratic. The reflexive 'sich' makes the construction almost impersonal, as if the event were withdrawing itself from agency.",
+        "weitere_beispiele": [
+          "Diese Aufgabe laesst sich in einer Stunde erledigen.",
+          "Der Text laesst sich auf zwei Saetze reduzieren."
+        ]
+      },
+      {
+        "struktur": "Praeposition mit Genitiv: kraft, infolge",
+        "beispiel": "wenn deren Nutzer sie nicht kraft ihrer Sinnesorgane erfassen ... infolge gestiegener Kaufkraft vergrößert",
+        "erklaerung": "Die Praeposition 'kraft' regiert den Genitiv und bedeutet so viel wie 'aufgrund' oder 'mittels'. Sie gehoert in den gehobenen Stil und betont eine eigene Wirkmacht: 'kraft seiner Stimme', 'kraft des Gesetzes'. Aehnlich verhaelt sich 'infolge' (= 'als Folge von'), das ebenfalls den Genitiv verlangt. Im Alltag werden beide haeufig durch Konstruktionen mit 'wegen' oder 'aufgrund' ersetzt; in essayistischer Prosa bleibt der Genitiv jedoch lebendig.",
+        "erklaerung_en": "The preposition 'kraft' governs the genitive and roughly means 'by virtue of' or 'by means of'. It belongs to elevated style and emphasizes an inherent power: 'kraft seiner Stimme', 'kraft des Gesetzes'. 'Infolge' (= 'as a consequence of') behaves similarly and also requires the genitive. In everyday speech both are often replaced by constructions with 'wegen' or 'aufgrund', but in essayistic prose the genitive remains alive.",
+        "weitere_beispiele": [
+          "Kraft seines Amtes konnte er die Entscheidung sofort treffen.",
+          "Infolge des Sturms blieben die Zuege stehen."
+        ]
+      },
+      {
+        "struktur": "Aufzaehlende Genitivkette im Nominalstil",
+        "beispiel": "Suffizienz kennt drei Ausprägungen: Selbstbegrenzung eines erreichten Versorgungsniveaus, graduelle Reduktion eines bestimmten Anspruchs sowie die vollständige Entsagung einer Option.",
+        "erklaerung": "Hier reiht Paech drei substantivische Ausdruecke aneinander, jeder mit einem nachgestellten Genitiv-Attribut. Diese Aufzaehlung folgt dem Nominalstil der Wissenschaftssprache: Verben werden in Substantive verwandelt (begrenzen → Begrenzung; reduzieren → Reduktion; entsagen → Entsagung), das eigentliche Subjekt der Handlung tritt zurueck. Der Vorteil ist Praezision; der Preis ist eine gewisse Distanz zur Handlung selbst.",
+        "erklaerung_en": "Paech strings together three substantival expressions, each with a postposed genitive attribute. This enumeration follows the nominal style of scientific German: verbs are turned into nouns (begrenzen → Begrenzung; reduzieren → Reduktion; entsagen → Entsagung), and the actual agent of the action recedes. The advantage is precision; the price is a certain distance from the action itself.",
+        "weitere_beispiele": [
+          "Die Reform sieht drei Schritte vor: Senkung der Steuern, Erweiterung der Foerderung und Vereinfachung der Verwaltung.",
+          "Die Studie umfasst drei Teile: Analyse der Daten, Diskussion der Ergebnisse und Empfehlung an die Politik."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "In der Beschränkung zeigt sich erst der Meister.",
+      "uebersetzung": "It is in self-limitation that the master is first revealed.",
+      "anmerkung": "Aus Goethes Sonett 'Natur und Kunst' (1800), letzter Vers. Heute oft zitiert in Kontexten der Reduktion: vom Designprinzip bis zur Lebenskunst. Bei Paech kehrt der Goethe-Bezug aus dem Aufsatzanfang zurueck, wo Goethe als Mahner zitiert wurde, der die gleichzeitige Forderung nach Freiheit und Gleichheit als Phantasterei abtat."
+    }
+  },
+  {
     "id": "tiefe-2026-05-06",
     "date": "2026-05-06",
     "titel": "Die siegreiche Stimme",
