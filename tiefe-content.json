@@ -1,5 +1,166 @@
 [
   {
+    "id": "tiefe-2026-05-08",
+    "date": "2026-05-08",
+    "titel": "Meinwaerts",
+    "leitgedanke": "Drei Strophen, ein erfundenes Wort, und eine der praezisesten Formulierungen dafuer, was es heisst, sich vor der Welt in sich selbst zu fluechten.",
+    "themen": [
+      "Innerlichkeit",
+      "Expressionismus",
+      "Selbstbezug"
+    ],
+    "quelle_url": "https://de.wikisource.org/wiki/Weltflucht",
+    "autor": "Else Lasker-Schueler",
+    "werk": "Weltflucht, in: Gesammelte Gedichte (Verlag der Weissen Buecher, Leipzig 1917; Erstdruck in Styx, 1902)",
+    "autor_kontext": "Else Lasker-Schueler (1869-1945) was a German-Jewish poet at the heart of Berlin's pre-war literary bohemia, friends with Karl Kraus, Gottfried Benn, and the painter Franz Marc, who painted her as 'Prince Yussuf of Thebes,' her self-mythologized alter ego. Her poems combine Expressionist intensity with Hebrew and Oriental imagery and a private vocabulary of invented words. Stripped of citizenship by the Nazis in 1938, she fled to Switzerland and then to Jerusalem. She died there in January 1945, alone and impoverished, three months before the war in Europe ended.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Drei Strophen aus dem Debutband 'Styx' (1902), spaeter aufgenommen in die Gesammelten Gedichte von 1917. Lasker-Schueler erfindet ein Wort, 'meinwaerts', fuer eine Bewegung, die unsere Sprache offenbar bisher nicht vorgesehen hatte: hinein in den Sprecher selbst."
+        },
+        {
+          "typ": "zitat",
+          "text": "Ich will in das [[Grenzenlose|the boundless -- substantiviertes Adjektiv: das Unbegrenzte als Raum, oft als raumlose Sphaere gedacht]]\nZu mir zurück,\nSchon blüht die [[Herbstzeitlose|autumn crocus, Colchicum autumnale -- herbstbluehende Giftpflanze; im Bild eine spaete, gefaehrliche Bluete der Seele]]\nMeiner Seele,\n\nVielleicht ists schon zu spät zurück.\n\nO, ich sterbe unter euch!\nDa ihr mich [[erstickt|to suffocate, smother -- jemandem die Luft nehmen, hier psychisch]] mit euch.\n[[Fäden|threads -- duenne Strange eines Gewebes; im Bild ein Kokon der Selbstabgrenzung]] möchte ich um mich ziehen\n[[Wirrwarr|tangle, chaos -- ungeordnetes Durcheinander der Lebensumstaende]] [[endend|bringing to an end -- Partizip I, hier adverbial zum Akkusativ 'Wirrwarr': das Knaeuel beendend]]!\n\n[[Beirrend|misleading, unsettling -- selten gebraucht; das Verb 'beirren' bedeutet jemanden aus seiner Bahn werfen]],\n\nEuch [[verwirrend|confusing -- in Verwirrung versetzend, hier zum Schutz vor Naehe]],\nZu [[entfliehn|to flee, escape -- 'entfliehen' in poetischer Verkuerzung]]\n[[Meinwärts|myward -- erfundenes Richtungsadverb; analog zu vorwaerts, heimwaerts; eine Bewegung ins Selbst, fuer die das Standarddeutsche kein Wort hat]].",
+          "quelle": "Else Lasker-Schueler, Weltflucht, in: Gesammelte Gedichte, 1917"
+        },
+        {
+          "typ": "absatz",
+          "text": "Lasker-Schueler war Anfang dreissig, mitten in der Berliner Boheme. Vier Jahrzehnte spaeter geht sie ins reale Exil, zuerst nach Zuerich, dann nach Jerusalem, wo sie im Januar 1945 stirbt."
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Three stanzas from her debut collection Styx (1902), later included in the Gesammelte Gedichte of 1917. Lasker-Schueler invents a word, 'meinwärts,' for a movement German apparently had not yet made room for: into the speaker himself."
+        },
+        {
+          "typ": "zitat",
+          "text": "I want into the boundless,\nBack to myself,\nAlready the autumn crocus is blooming\nOf my soul,\n\nPerhaps it is already too late to return.\n\nO, I am dying among you!\nFor you suffocate me with you.\nI would draw threads about myself,\nEnding the tangle!\n\nMisleading,\n\nConfounding you,\nTo flee\nMyward.",
+          "quelle": "Else Lasker-Schueler, Weltflucht (Flight from the World), in: Collected Poems, 1917"
+        },
+        {
+          "typ": "absatz",
+          "text": "Lasker-Schueler was in her early thirties, in the middle of the Berlin bohemia. Four decades later she went into actual exile, first to Zurich, then to Jerusalem, where she died in January 1945."
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Augustinus schrieb in den 'Soliloquia': 'Noli foras ire, in te ipsum redi.' Geh nicht nach aussen, kehre in dich selbst zurueck. Lasker-Schueler nimmt diese alte Bewegung und raeumt das Christliche heraus. Was bleibt, ist die reine Geste eines Ich, das sich vor der Umwelt einkapselt. 'Meinwaerts' ist die saekulare Antwort auf die alte Frage, wo das Selbst eigentlich wohnt.",
+        "en": "Augustine wrote in the Soliloquies: 'Noli foras ire, in te ipsum redi.' Go not outward, return to thyself. Lasker-Schueler takes this old movement and clears away its Christian frame. What remains is the bare gesture of a self walling itself off from its surroundings. 'Meinwärts' is the secular answer to the ancient question of where the self actually lives."
+      },
+      {
+        "de": "Im selben Jahrzehnt schreibt Arnold Schoenberg seine ersten frei-atonalen Stuecke. 'Erwartung' (1909) folgt der Stimme einer Frau, die im naechtlichen Wald nach ihrem Geliebten sucht und sich selber verliert. Auch dort traegt die Tonalitaet nicht mehr, der Halt von aussen faellt weg, das Subjekt wird auf seinen Innenraum zurueckgeworfen. Lasker-Schueler dichtet, was Schoenberg klingen laesst: ein Ich, dessen Konturen sich nach innen aufloesen.",
+        "en": "In the same decade, Arnold Schoenberg writes his first freely atonal pieces. 'Erwartung' (1909) follows the voice of a woman searching the night-time forest for her lover and losing herself in the process. There too tonality no longer holds, the external scaffolding falls away, the subject is thrown back on its inner space. Lasker-Schueler writes what Schoenberg lets sound: a self whose contours dissolve inward."
+      },
+      {
+        "de": "Wer 'O, ich sterbe unter euch! Da ihr mich erstickt mit euch' heute liest, denkt vielleicht zuerst an die Aufmerksamkeitsoekonomie. Eine Berliner Lyrikerin um 1900 hatte keine Plattformen und kein Geraeusch unserer Dichte; sie kannte trotzdem dasselbe Ersticken. Das ist die ernuechternde Pointe: das Beduerfnis, sich der Naehe zu entziehen, ist aelter als die Kanaele, denen wir es zuschreiben.",
+        "en": "Reading 'O, I am dying among you! For you suffocate me with you' today, the first thought may be the attention economy. A Berlin poet around 1900 had no platforms and nothing of our ambient density of noise; she knew the same suffocation anyway. That is the sobering point: the urge to withdraw from closeness is older than any of the channels we now blame for it."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Herbstzeitlose",
+        "definition": "Herbstzeitlose -- Colchicum autumnale, eine im Spaetsommer und Herbst bluehende Giftpflanze; im Bild Lasker-Schuelers eine spaete, gefaehrliche Bluete.",
+        "beispiel": "Auf den feuchten Wiesen oeffneten sich die letzten Herbstzeitlosen.",
+        "etymologie": "Wortbildung mit 'Herbst' und 'Zeit-los': bluehende Pflanze, deren Blueten zur Unzeit erscheinen, also abseits der erwarteten Jahreszeit."
+      },
+      {
+        "wort": "ersticken",
+        "definition": "ersticken -- to suffocate, smother; auch transitiv: jemandem die Luft nehmen oder uebertragen einen Impuls erdruecken.",
+        "beispiel": "Das Lachen erstickte ihm in der Kehle.",
+        "etymologie": "Aus mittelhochdeutsch 'ersticken', verstaerkende Vorsilbe er- zu 'sticken' (stocken, ohne Atem sein); derselbe Stamm liegt in 'Stickstoff', dem Gas, das das Atmen verhindert."
+      },
+      {
+        "wort": "der Wirrwarr",
+        "definition": "Wirrwarr -- ungeordnetes Durcheinander, Knaeuel; oft akustisch oder atmosphaerisch konnotiert.",
+        "beispiel": "Im Wirrwarr der Stimmen ging seine Frage unter.",
+        "etymologie": "Reduplikation des Stamms 'wirr' (verstreut, durcheinander); der Doppellaut betont das Chaotische lautmalerisch."
+      },
+      {
+        "wort": "beirren",
+        "definition": "beirren -- jemanden aus seiner Bahn werfen, stoeren, verunsichern; meist mit Verneinung gebraucht: 'sich nicht beirren lassen'.",
+        "beispiel": "Er liess sich von den Zwischenrufen nicht beirren.",
+        "etymologie": "Praefix be- + 'irren' (vom Weg abkommen); 'irren' aus althochdeutsch 'irrōn', verwandt mit lateinisch 'errare'."
+      },
+      {
+        "wort": "entfliehen",
+        "definition": "entfliehen -- aus etwas herausfliehen, sich entziehen; mit Praeposition 'aus' oder Dativobjekt: jemandem entfliehen.",
+        "beispiel": "Sie entfloh dem Trubel der Stadt.",
+        "etymologie": "Praefix ent- (Trennung, Entfernung) + 'fliehen'; vergleichbar mit entkommen, entweichen, entrinnen."
+      },
+      {
+        "wort": "der Faden",
+        "definition": "Faden -- duenner, langer Strang aus Naturfaser oder Kunststoff; bildlich der Verlauf einer Erzaehlung oder eines Gedankens.",
+        "beispiel": "Der Faden ihrer Gedanken riss bei jedem Klingeln.",
+        "etymologie": "Aus althochdeutsch 'fadum', urspruenglich auch ein Laengenmass, naemlich das Mass der ausgespannten Arme; vgl. englisch 'fathom'."
+      },
+      {
+        "wort": "das Grenzenlose",
+        "definition": "das Grenzenlose -- das, was keine Grenzen hat; substantiviertes Adjektiv im Neutrum, oft als raumlose Sphaere gedacht.",
+        "beispiel": "Der Blick der Kinder geht ins Grenzenlose.",
+        "etymologie": "Substantivierung von 'grenzenlos' mit Artikel; eine fuer das Deutsche typische Bildung abstrakter Bereiche."
+      },
+      {
+        "wort": "die Strophe",
+        "definition": "Strophe -- ein durch Reim, Metrum oder Druckbild abgegrenzter Sinnabschnitt eines Gedichts.",
+        "beispiel": "Das Lied hat drei Strophen und einen Refrain.",
+        "etymologie": "Aus griechisch 'strophē' (Wendung, Drehung); urspruenglich der Teil des Chors, in dem dieser sich nach links wandte."
+      },
+      {
+        "wort": "der Vers",
+        "definition": "Vers -- eine einzelne Zeile eines Gedichts; im weiteren Sinn auch ein nach Metrum gebildeter Sprachabschnitt.",
+        "beispiel": "Der erste Vers gibt den Ton des ganzen Gedichts vor.",
+        "etymologie": "Aus lateinisch 'versus' (Wendung, Furchenreihe); urspruenglich die Wendung des Pflugs am Ackerrand, dann uebertragen auf den Zeilenwechsel."
+      },
+      {
+        "wort": "die Verwirrung",
+        "definition": "Verwirrung -- Zustand der Unklarheit oder des Durcheinanders im Denken oder Gefuehl.",
+        "beispiel": "In der ersten Verwirrung wusste sie nicht, wem sie zustimmen sollte.",
+        "etymologie": "Praefix ver- (verstaerkend, oft negativ) + 'wirren'; verwandt mit 'wirr', 'verworren', 'Wirrwarr'."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Adverbialbildung mit dem Suffix -waerts",
+        "beispiel": "Zu entfliehn / Meinwärts.",
+        "erklaerung": "Das Suffix -waerts bildet aus Substantiven oder Pronomen Richtungsadverbien: heimwaerts, ostwaerts, vorwaerts, abwaerts. Lasker-Schueler dehnt das produktive Muster auf das Possessivpronomen 'mein' aus und erfindet damit eine Richtung, die im Standarddeutschen kein Wort hat: hin zum Selbst.",
+        "erklaerung_en": "The suffix -wärts forms directional adverbs from nouns or pronouns: heimwärts (homeward), ostwärts (eastward), vorwärts (forward), abwärts (downward). Lasker-Schüler extends the productive pattern to the possessive pronoun 'mein' (my), coining a direction the standard language has no word for: toward the self.",
+        "weitere_beispiele": [
+          "Heimwaerts wandte er den Blick.",
+          "Das Boot trieb kuestenwaerts.",
+          "Sie ging rueckwaerts in den Schatten."
+        ]
+      },
+      {
+        "struktur": "Inversion mit nachgestelltem Genitivattribut ueber den Zeilenumbruch",
+        "beispiel": "Schon blüht die Herbstzeitlose / Meiner Seele,",
+        "erklaerung": "Das Adverb 'schon' steht im Vorfeld, das Verb 'blueht' an zweiter Position, das Subjekt 'die Herbstzeitlose' folgt. Das Genitivattribut 'meiner Seele' wird nachgelagert, sogar ueber den Zeilenumbruch hinweg. Im Prosadeutsch wuerde das Attribut neben dem Bezugswort stehen; die Lyrik nutzt den Bruch, um das Bild auf zwei Verse zu verteilen.",
+        "erklaerung_en": "The adverb 'schon' (already) sits in the front field, the verb 'blüht' in second position, the subject 'die Herbstzeitlose' follows. The genitive attribute 'meiner Seele' (of my soul) trails after, even across a line break. Standard prose would keep them adjacent; the poem uses the break to spread the image across two verses.",
+        "weitere_beispiele": [
+          "Schon laeuft das Wasser des Bachs am Fels herab.",
+          "Spaet noch erinnert sie sich der Worte ihrer Mutter."
+        ]
+      },
+      {
+        "struktur": "Kausales 'da' als Konjunktion im gehobenen Stil",
+        "beispiel": "O, ich sterbe unter euch! / Da ihr mich erstickt mit euch.",
+        "erklaerung": "Im modernen Standarddeutsch bedeutet 'da' als Konjunktion 'weil' im gehobenen oder schriftlichen Register. Das finite Verb steht am Satzende. Im poetischen Gebrauch wirkt 'da' feierlicher und schwerer als das alltaegliche 'weil'. Im gesprochenen Deutsch heute selten; haeufig noch in juristischer und akademischer Prosa.",
+        "erklaerung_en": "In modern standard German, 'da' as a conjunction means 'because' in elevated or written registers. The finite verb stands at the end of the clause. In poetry, 'da' carries a heavier, more solemn weight than the everyday 'weil'. Rare in spoken German today; still common in legal and academic prose.",
+        "weitere_beispiele": [
+          "Da niemand antwortete, ging sie alleine weiter.",
+          "Das Verfahren wird eingestellt, da der Vorwurf nicht bewiesen werden konnte."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "in sich gehen",
+      "uebersetzung": "to go into oneself; to reflect inwardly, search one's conscience",
+      "anmerkung": "Im Deutschen oft mit moralischem Beiklang: jemand 'geht in sich', wenn er nach einem Streit oder Fehler sein Verhalten prueft. Schwerer und ernsthafter als das englische 'to introspect'; im Geist verwandt mit Lasker-Schuelers 'meinwaerts'."
+    }
+  },
+  {
     "id": "tiefe-2026-05-07",
     "date": "2026-05-07",
     "titel": "Wohlstand jenseits von Wachstum",
