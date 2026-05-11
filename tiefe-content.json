@@ -1,5 +1,187 @@
 [
   {
+    "id": "tiefe-2026-05-09",
+    "date": "2026-05-09",
+    "titel": "Aelter als die Schrift",
+    "leitgedanke": "Christian Stoecker fuehrt vor, wie eng die Geschichte der Massenbeeinflussung mit der Geschichte ihrer Werkzeuge verbunden ist, vom Gilgamesch-Epos bis zum Algorithmus.",
+    "themen": [
+      "Propaganda",
+      "Medientechnik",
+      "Macht"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570920/von-gilgamesch-zum-algorithmus/",
+    "autor": "Christian Stoecker",
+    "werk": "Von Gilgamesch zum Algorithmus: Kleine Technikgeschichte der Propaganda (APuZ 39/2025: Propaganda und Desinformation, September 2025)",
+    "autor_kontext": "Christian Stoecker is a German cognitive psychologist and journalist who teaches digital communication at the Hochschule fuer Angewandte Wissenschaften Hamburg. He has written a weekly Sunday column for SPIEGEL on digital culture and platform power for years, and his 2024 book 'Maenner, die die Welt verbrennen' traced the network of climate-denying lobbyists across Europe and the United States. He works at the seam where cognitive science, media studies and political reporting meet, which is precisely the angle this essay takes on the long history of propaganda.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Christian Stoecker zeichnet eine kleine Technikgeschichte der Propaganda, die viel weiter zurueckreicht, als man vermuten wuerde. Sie beginnt auf jungsteinzeitlichen Hoehlenwaenden und in der mesopotamischen Stadt Uruk. Stoeckers Argument: Wo eine neue Medientechnik entsteht, entsteht zugleich eine neue Moeglichkeit, Wahrnehmungen zu formen."
+        },
+        {
+          "typ": "zitat",
+          "text": "Propaganda ist vermutlich älter als die [[Schrift|Schrift -- writing system, script. Hier: die Technik, Sprache fixierbar und reproduzierbar zu machen]], legt man die Definition der US-amerikanischen Kommunikationswissenschaftler Nancy Snow und Garth Jowett zugrunde: „Der intentionale, systematische Versuch [[Wahrnehmungen|Wahrnehmungen -- perceptions; die psychische Aufnahme der Welt, bevor sie zu Urteil oder Meinung wird]] zu formen, das Denken zu manipulieren und Verhalten zu lenken, um eine Reaktion zu erreichen, die die Ziele des [[Propagandisten|Propagandist -- propagandist; jemand, der gezielt Botschaften streut, um Verhalten zu lenken]] voranbringt.“",
+          "quelle": "Christian Stoecker, Von Gilgamesch zum Algorithmus, APuZ 39/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Künstlerische Darstellungen, in denen menschliche Figuren Waffen gegeneinander richten, finden sich an [[Höhlenwänden|Hoehlenwaende -- cave walls; Felswaende, auf denen schon im Neolithikum bildliche Erzaehlung stattfand]] erstmals etwa 7000 Jahre vor Christus. Sie können als Startpunkt von Propaganda im engeren Sinne betrachtet werden, auch wenn Abbildungen von Jagdszenen bereits Zehntausende Jahre zuvor entstanden sind. Es gilt als gesichert, dass es auch in der [[Jungsteinzeit|Jungsteinzeit -- Neolithic; die juengste Phase der Steinzeit, etwa 10.000 bis 4.000 v. Chr., mit Sesshaftigkeit und Ackerbau]] schon Kriege im engeren Sinne gab. Seitdem gehen Krieg und Propaganda Hand in Hand.",
+          "quelle": "Christian Stoecker, Von Gilgamesch zum Algorithmus, APuZ 39/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Uruk in Mesopotamien, die erste bekannte Großstadt der Menschheitsgeschichte, war von einer gewaltigen [[Schutzmauer|Schutzmauer -- defensive wall; Schutz + Mauer, eine Mauer zur Verteidigung einer Stadt]] umgeben. Aus dieser Stadt stammt eines der ersten erhaltenen schriftlichen Propagandawerke der Geschichte: das Gilgamesch-Epos, verfasst in [[Keilschrift|Keilschrift -- cuneiform; Keil + Schrift, eine der aeltesten Schriften, mit keilfoermigen Zeichen in feuchten Ton gepresst]]. Es [[glorifiziert|glorifizieren -- to glorify; aus lat. gloria, jemanden uebersteigert ruehmen]] einen [[mythischen|mythisch -- mythical; aus dem Mythos stammend, halb erfunden, halb erinnert]] Herrscher, der den Bau der Mauer veranlasst haben soll.",
+          "quelle": "Christian Stoecker, Von Gilgamesch zum Algorithmus, APuZ 39/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Propaganda als mediales Phänomen, also als tatsächliche [[Praxis der Beeinflussung|Praxis der Beeinflussung -- practice of influence; die konkrete Anwendung, im Unterschied zur Theorie]], ist viel älter als das Konzept der Propaganda selbst – und sogar älter als die Schrift. In ihrer gesamten Geschichte diente sie nicht zuletzt der [[Erlangung|Erlangung -- attainment, acquisition; Substantiv zu erlangen, etwas in seinen Besitz oder seine Macht bringen]], Erweiterung, [[Festigung|Festigung -- consolidation; das Festermachen von etwas Bestehendem, das Stabilisieren einer Position]] oder Verteidigung politischer und militärischer Macht.",
+          "quelle": "Christian Stoecker, Von Gilgamesch zum Algorithmus, APuZ 39/2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Christian Stoecker sketches a short technological history of propaganda, one that reaches much further back than one would assume. It begins on Neolithic cave walls and in the Mesopotamian city of Uruk. Stoecker's argument: wherever a new media technology arises, a new possibility for shaping perception arises with it."
+        },
+        {
+          "typ": "zitat",
+          "text": "Propaganda is probably older than writing, if one applies the definition of the American communication scholars Nancy Snow and Garth Jowett: 'The deliberate, systematic attempt to shape perceptions, to manipulate thought and to direct behaviour, in order to achieve a response that furthers the goals of the propagandist.'",
+          "quelle": "Christian Stoecker, From Gilgamesh to the Algorithm, APuZ 39/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Artistic representations in which human figures point weapons at one another first appear on cave walls roughly 7,000 years before Christ. They can be regarded as the starting point of propaganda in the narrower sense, even though depictions of hunting scenes had emerged tens of thousands of years earlier. It is considered established that wars in the narrower sense already existed in the Neolithic. Since then, war and propaganda have gone hand in hand.",
+          "quelle": "Christian Stoecker, From Gilgamesh to the Algorithm, APuZ 39/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Uruk in Mesopotamia, the first known city in human history, was surrounded by a vast defensive wall. From this city comes one of the earliest surviving written works of propaganda: the Epic of Gilgamesh, composed in cuneiform. It glorifies a mythical ruler who is said to have ordered the building of the wall.",
+          "quelle": "Christian Stoecker, From Gilgamesh to the Algorithm, APuZ 39/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Propaganda as a media phenomenon, that is, as the actual practice of influence, is much older than the concept of propaganda itself, and even older than writing. Throughout its history it has served, not least, the acquisition, expansion, consolidation or defence of political and military power.",
+          "quelle": "Christian Stoecker, From Gilgamesh to the Algorithm, APuZ 39/2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Aby Warburgs Mnemosyne-Atlas, begonnen in den 1920er Jahren, verfolgte, wie sich visuelle Pathosgesten ueber Jahrhunderte hinweg in der europaeischen Kunst weiterreichten. Er las Bilder so, wie Stoecker Propaganda liest: als eine Grammatik, die aelter ist als ihre einzelnen Faelle. Warburgs Nymphe und die Gilgamesch-Tafel gehoeren in dasselbe Archiv. Bilder denken politisch, lange bevor ein Text ihnen sagt, wie.",
+        "en": "Aby Warburg's Mnemosyne-Atlas, begun in the 1920s, tracked how visual gestures of pathos migrated across centuries of European art. He read images the way Stoecker reads propaganda: as a grammar older than its individual instances. Warburg's nymph and the Gilgamesh tablet belong in the same archive. Pictures think politically long before any text tells them how."
+      },
+      {
+        "de": "Walter Benjamins Aufsatz ueber die technische Reproduzierbarkeit von 1936 formulierte eine fruehe Variante derselben Einsicht. Jedes neue Medium oeffnet neue propagandistische Moeglichkeiten; der Faschismus aesthetisierte die Politik, waehrend der Kommunismus, so Benjamins Hoffnung, die Kunst politisierte. Das Gilgamesch-Epos und der algorithmische Feed teilen mehr, als es scheint. Beide sind Maschinen, die ein einziges Gesicht auf eine Generation praegen sollen.",
+        "en": "Walter Benjamin's 1936 essay on technical reproducibility offered an early version of the same insight. Each new medium opens new propagandistic capacities; fascism aestheticised politics, while communism, in Benjamin's hope, politicised art. The Epic of Gilgamesh and the algorithmic feed share more than they appear to. Both are machines designed to press a single face onto a generation."
+      },
+      {
+        "de": "Hannah Arendt unterschied die alte politische Luege von der modernen industriellen. Ein Staatsmann hat schon immer verheimlicht; ein totalitaerer Apparat tut etwas Neueres: er flutet das oeffentliche Bewusstsein mit so vielen parallelen Falschheiten, dass die Kategorie der Tatsache selbst zerbroeckelt. Stoecker zeichnet die technischen Voraussetzungen. Arendt fragt, was mit einer Gesellschaft geschieht, sobald diese Voraussetzungen erfuellt sind.",
+        "en": "Hannah Arendt distinguished the ancient political lie from its modern industrial form. A statesman has always concealed; a totalitarian apparatus does something newer: it floods the public mind with so many parallel falsehoods that the category of fact itself begins to crumble. Stoecker traces the technical preconditions. Arendt asks what becomes of a society once those preconditions are in place."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Wahrnehmung",
+        "definition": "perception -- die psychische Aufnahme von Reizen, bevor sie zu Urteil oder Meinung gerinnen",
+        "beispiel": "Werbung versucht, unsere Wahrnehmung der Wirklichkeit unmerklich zu lenken.",
+        "etymologie": "wahr + nehmen; woertlich 'fuer wahr nehmen', also als gegeben annehmen."
+      },
+      {
+        "wort": "die Hoehlenwand",
+        "definition": "cave wall -- innere Felsflaeche einer Hoehle, oft Traegerin frueher Malerei",
+        "beispiel": "Auf den Hoehlenwaenden von Lascaux finden sich Tiermalereien aus der Steinzeit.",
+        "etymologie": "Hoehle (althochdeutsch hol, 'hohl') + Wand; ein typisch deutsches Kompositum aus zwei alten Worten."
+      },
+      {
+        "wort": "die Schutzmauer",
+        "definition": "defensive wall -- Mauer zur Verteidigung einer Stadt oder eines Bezirks",
+        "beispiel": "Die Schutzmauer von Uruk gilt als eine der aeltesten der Welt.",
+        "etymologie": "Schutz (zu schuetzen) + Mauer (aus lateinisch murus); deutsches Praefix trifft auf roemische Bautechnik."
+      },
+      {
+        "wort": "die Keilschrift",
+        "definition": "cuneiform -- aelteste bekannte Schrift, mit keilfoermigen Zeichen in feuchten Ton gepresst",
+        "beispiel": "Das Gilgamesch-Epos wurde in Keilschrift auf Tontafeln festgehalten.",
+        "etymologie": "Keil (das spitze Werkzeug) + Schrift; das Wort beschreibt die Form der Zeichen, geboren aus dem Material des Schreibens."
+      },
+      {
+        "wort": "glorifizieren",
+        "definition": "to glorify -- jemanden oder etwas uebersteigert ruehmen",
+        "beispiel": "Der Film glorifiziert seine Hauptfigur weit ueber das Mass des Glaubhaften hinaus.",
+        "etymologie": "Aus lateinisch gloria (Ruhm) und facere (machen); also 'ruhmreich machen', spaeter christlich aufgeladen."
+      },
+      {
+        "wort": "der Propagandist",
+        "definition": "propagandist -- jemand, der gezielt Botschaften zur Beeinflussung verbreitet",
+        "beispiel": "Die Propagandisten der Weimarer Endzeit nutzten Radio und Film gleichermassen.",
+        "etymologie": "Aus lateinisch propagare (ausbreiten, fortpflanzen); urspruenglich ein Begriff des Gartenbaus, dann der Glaubensverbreitung."
+      },
+      {
+        "wort": "die Beeinflussung",
+        "definition": "influencing -- der Vorgang, das Denken oder Verhalten anderer zu lenken",
+        "beispiel": "Algorithmische Beeinflussung wirkt oft, ohne dass die Nutzer sie bemerken.",
+        "etymologie": "be- + Einfluss + -ung; aus dem Bild des Hineinfliessens einer Kraft in ein anderes Wesen."
+      },
+      {
+        "wort": "die Erlangung",
+        "definition": "attainment, acquisition -- das Erreichen oder Erwerben von etwas, oft Macht oder Wissen",
+        "beispiel": "Zur Erlangung der Mehrheit war jede rhetorische Wendung recht.",
+        "etymologie": "er- (Vollendungspraefix) + langen (im aelteren Sinn 'reichen, greifen'); 'an etwas heranlangen, bis man es hat'."
+      },
+      {
+        "wort": "die Festigung",
+        "definition": "consolidation -- das Stabilisieren von etwas bereits Erreichtem",
+        "beispiel": "Nach der Wahl ging es um die Festigung der neuen Koalition.",
+        "etymologie": "fest (mittelhochdeutsch veste, 'hart, dauerhaft') + -igen + -ung; die Substantivierung eines Verfahrens, das Bestand schaffen will."
+      },
+      {
+        "wort": "die Jungsteinzeit",
+        "definition": "Neolithic age -- juengste Phase der Steinzeit, mit Sesshaftigkeit und Ackerbau",
+        "beispiel": "In der Jungsteinzeit entstanden die ersten festen Siedlungen und mit ihnen erste Stadtmauern.",
+        "etymologie": "jung + Stein + Zeit; eine deutsche Lehnuebersetzung des griechischen Neolithikum (neos + lithos, 'neu' + 'Stein')."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Konditionalsatz ohne 'wenn' (Inversion mit Verb-Erststellung)",
+        "beispiel": "Propaganda ist vermutlich älter als die Schrift, legt man die Definition ... zugrunde",
+        "erklaerung": "Im gehobenen Stil kann eine Konditionalbedingung ohne 'wenn' formuliert werden, indem das finite Verb an die erste Stelle des Nebensatzes rueckt. Die Konstruktion bleibt eine Bedingung, gleichbedeutend mit 'wenn man die Definition zugrunde legt'.",
+        "erklaerung_en": "In formal style a conditional clause can drop 'wenn' and place the finite verb in first position. The clause still functions as a condition equivalent to 'if one applies the definition'.",
+        "weitere_beispiele": [
+          "Folgt man Adornos Argument, dann erscheint die Aufklaerung als ihr eigener Widerspruch.",
+          "Liest man die Briefe nebeneinander, wird der Bruch zwischen den Bruedern sichtbar."
+        ]
+      },
+      {
+        "struktur": "Modalverb 'sollen' + Perfekt-Infinitiv (subjektiver Gebrauch)",
+        "beispiel": "ein mythischer Herrscher, der den Bau der Mauer veranlasst haben soll",
+        "erklaerung": "Mit 'sollen' + Partizip II + Hilfsverb-Infinitiv gibt der Sprecher eine fremde Behauptung wieder, fuer deren Wahrheit er nicht buergt. Sinngemaess: 'es wird gesagt, dass er den Bau veranlasst hat'. Die Konstruktion haelt die Quelle auf Distanz.",
+        "erklaerung_en": "'Sollen' combined with a perfect infinitive renders a claim the speaker reports without vouching for. The sense is 'it is said that he ordered the construction'. The construction holds the source at arm's length.",
+        "weitere_beispiele": [
+          "Der Maler soll das Werk in einer einzigen Nacht vollendet haben.",
+          "Die Quelle soll bereits im 13. Jahrhundert versiegt sein."
+        ]
+      },
+      {
+        "struktur": "Konzessiver Nebensatz mit 'auch wenn'",
+        "beispiel": "Sie können als Startpunkt von Propaganda im engeren Sinne betrachtet werden, auch wenn Abbildungen von Jagdszenen bereits Zehntausende Jahre zuvor entstanden sind",
+        "erklaerung": "'Auch wenn' leitet einen Nebensatz ein, der eine Bedingung oder einen Umstand einraeumt, ohne die Aussage des Hauptsatzes zu widerlegen. Im Unterschied zu 'obwohl' kann 'auch wenn' auch eine rein hypothetische Bedingung benennen.",
+        "erklaerung_en": "'Auch wenn' introduces a clause that concedes a condition or circumstance without invalidating the main statement. Unlike 'obwohl', it can also introduce a purely hypothetical condition.",
+        "weitere_beispiele": [
+          "Das Argument ueberzeugt, auch wenn einige Details umstritten bleiben.",
+          "Auch wenn er widerspricht, haelt die Mehrheit an ihrer Position fest."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Jemandem Sand in die Augen streuen",
+      "uebersetzung": "To throw sand in someone's eyes (to deceive, to mislead)",
+      "anmerkung": "Eine alte Redewendung, deren Bild aus dem Kampf stammt: Wer dem Gegner Sand ins Gesicht warf, blendete ihn fuer einen Moment. Heute steht sie fuer jede Form gezielter Taeuschung, oft im politischen oder werblichen Kontext."
+    }
+  },
+  {
     "id": "tiefe-2026-05-08",
     "date": "2026-05-08",
     "titel": "Meinwaerts",
