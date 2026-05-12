@@ -1,5 +1,187 @@
 [
   {
+    "id": "tiefe-2026-05-12",
+    "date": "2026-05-12",
+    "titel": "Unverfuegbarkeit erzaehlen",
+    "leitgedanke": "Die Reaktorhavarie von Tschernobyl ist eine Bedrohung, die den Sinnen entzogen bleibt und die Sprache vor eine Aufgabe stellt, an der sie scheitert.",
+    "themen": [
+      "Tschernobyl",
+      "Erzaehlbarkeit",
+      "Polykrise"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/tschernobyl-2026/577390/unverfuegbarkeit-erzaehlen/",
+    "autor": "Lars Koch",
+    "werk": "Unverfügbarkeit erzählen. Die Angstästhetik der HBO-Serie „Chernobyl\" (APuZ 11-13/2026: Tschernobyl, April 2026)",
+    "autor_kontext": "Lars Koch is a professor of media and cultural studies at TU Dresden, where his research focuses on the aesthetics of fear and the cultural processing of crisis: terror, pandemic, ecological collapse, war. He is among a generation of scholars asking what stories German-speaking culture is able to tell about the present, and which it keeps failing to tell. This essay appeared in April 2026 in APuZ, the flagship journal of the Bundeszentrale fuer politische Bildung, marking forty years since the Chernobyl reactor disaster.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Lars Koch fragt in seinem Essay, wie die HBO-Serie ‚Chernobyl' (2019) eine Katastrophe erzaehlen kann, deren eigentliche Gefahr sich jeder unmittelbaren Wahrnehmung entzieht."
+        },
+        {
+          "typ": "zitat",
+          "text": "Die räumliche und zeitliche [[Skalierung|Skalierung -- scaling, scope and range. The word stretches reach across space and time.]] der Unfallfolgen erzeugte eine kulturelle [[Ruptur|Ruptur -- rupture, break in continuity. Borrowed from medical Latin via French.]], die nicht ohne Weiteres zu schließen war – darauf haben Autor:innen wie Alexander Kluge, Swetlana Alexijewitsch oder Marina Garcés in unterschiedlichen Kontexten hingewiesen. Schon 1987 hatte der Soziologe Ulrich Beck die Reaktorexplosion als einen „anthropologischen Schock\" beschrieben, der aus dem strahlungsbedingten Verlust der „Souveränität der Sinne\" und der damit verbundenen „Verdopplung der Welt\" resultiere. Die späteren, zwischen [[Zeugenschaft|Zeugenschaft -- witnessing, the act of bearing witness. From Zeuge plus the suffix -schaft, which forms states or conditions.]] und Zeitdiagnose [[changierenden|changierend -- shifting, oscillating. From French changer; the word evokes silk that shifts colour as light moves over it.]] Texte von Alexijewitsch, Kluge und Garcés folgen dieser Perspektive, wenn sie Tschernobyl zum [[Kristallisationspunkt|Kristallisationspunkt -- focal point at which dispersed elements gather into a single form.]] eines Epochenbewusstseins erklären, das ganz im Zeichen des Bruchs und einer katastrophischen Zukunft stehe.",
+          "quelle": "Lars Koch, Unverfügbarkeit erzählen, APuZ 2026"
+        },
+        {
+          "typ": "zitat",
+          "text": "Die Reaktorhavarie markiert dabei als „Unfall des Bewusstseins\" eine [[Leerstelle|Leerstelle -- blank space, lacuna. A gap that resists being filled.]] des Verstehens, an der sich vielfältige Wissens- und Deutungsanstrengungen anlagern, die aber in ihrer [[Aussagekraft|Aussagekraft -- expressive power, conclusive force; literally, the power of what is said.]] fragil bleiben. So schreibt Swetlana Alexijewitsch im Vorwort ihrer Textcollage „Tschernobyl. Eine Chronik der Zukunft\" (2003):",
+          "quelle": "Lars Koch, Unverfügbarkeit erzählen, APuZ 2026"
+        },
+        {
+          "typ": "zitat",
+          "text": "Die Nacht des 26. April 1986 … In einer Nacht gelangten wir an einen neuen Ort der Geschichte. Wir sprangen in eine neue Realität, und diese Realität überstieg nicht nur unser Wissen, sondern auch unsere Einbildungskraft. Der Zusammenhang der Zeiten riß … Die Vergangenheit war plötzlich hilflos, auf nichts konnten wir uns stützen, im allwissenden (wie wir glaubten) Archiv der Menschheit gab es keinen Schlüssel, der diese Tür hätte öffnen können. (…) Die Erschütterung war offenkundig.",
+          "quelle": "Swetlana Alexijewitsch, Tschernobyl. Eine Chronik der Zukunft, 2003 (zitiert nach Lars Koch, APuZ 2026)"
+        },
+        {
+          "typ": "zitat",
+          "text": "In der Deutung Alexijewitschs führt der Reaktorunfall zu einem Auseinanderfallen von Zeichen und Referent, zu einem Aus-den-Fugen-Geraten der Repräsentationsordnung, in der sich die Welt darstellen lässt. Darauf, dass von der [[Disruptivität|Disruptivitaet -- disruptive force, the quality of throwing things out of joint.]] der Reaktorhavarie nur schwerlich kohärent und [[sinnstiftend|sinnstiftend -- sense-conferring, meaning-making; said of narratives that confer order on chaos.]] zu erzählen ist, reagiert ihr Text in Form einer Montage, die die Stimmen der Opfer versammelt. In den dokumentierten Schilderungen ist die vertraute [[Ontologie|Ontologie -- ontology, the inventory of what exists and how. From Greek on (being) and logos (study).]] der Welt durch die radioaktive Strahlung zerstört.",
+          "quelle": "Lars Koch, Unverfügbarkeit erzählen, APuZ 2026"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "In his essay, Lars Koch asks how the HBO series 'Chernobyl' (2019) can narrate a catastrophe whose actual danger eludes every immediate perception."
+        },
+        {
+          "typ": "zitat",
+          "text": "The spatial and temporal scaling of the accident's aftermath produced a cultural rupture that could not easily be closed: authors like Alexander Kluge, Swetlana Alexijewitsch, and Marina Garcés have pointed this out in different contexts. Already in 1987, the sociologist Ulrich Beck described the reactor explosion as an 'anthropological shock,' resulting from the radiation-induced loss of the 'sovereignty of the senses' and the associated 'doubling of the world.' The later texts of Alexijewitsch, Kluge, and Garcés, which oscillate between testimony and diagnosis of the age, follow this perspective when they declare Chernobyl the crystallization point of an epochal consciousness wholly marked by rupture and a catastrophic future.",
+          "quelle": "Lars Koch, Narrating the Unavailable: The Aesthetics of Fear in HBO's 'Chernobyl,' APuZ 2026"
+        },
+        {
+          "typ": "zitat",
+          "text": "The reactor accident marks, as an 'accident of consciousness,' a lacuna of understanding to which various efforts at knowledge and interpretation attach themselves, yet which remain fragile in their expressive force. Swetlana Alexijewitsch writes in the preface to her textual collage 'Chernobyl: A Chronicle of the Future' (2003):",
+          "quelle": "Lars Koch, Narrating the Unavailable, APuZ 2026"
+        },
+        {
+          "typ": "zitat",
+          "text": "The night of April 26, 1986 … In one night we arrived at a new place in history. We leapt into a new reality, and this reality exceeded not only our knowledge but also our imagination. The connection of times tore … The past was suddenly helpless, we could rely on nothing; in the (as we believed) all-knowing archive of humanity there was no key that could have opened this door. (…) The shock was unmistakable.",
+          "quelle": "Swetlana Alexijewitsch, Chernobyl: A Chronicle of the Future, 2003 (cited from Lars Koch, APuZ 2026)"
+        },
+        {
+          "typ": "zitat",
+          "text": "In Alexijewitsch's reading, the reactor accident leads to a falling-apart of sign and referent, to a coming-out-of-joint of the order of representation in which the world allows itself to be portrayed. Her text responds to the difficulty of telling the reactor disaster coherently and meaningfully by taking the form of a montage that gathers the voices of the victims. In the documented accounts, the familiar ontology of the world has been destroyed by radioactive radiation.",
+          "quelle": "Lars Koch, Narrating the Unavailable, APuZ 2026"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Walter Benjamin sah in seiner neunten Geschichtsthese einen Engel, der rueckwaerts in die Zukunft getrieben wird, waehrend vor ihm die Truemmer in den Himmel wachsen. Becks Begriff der „Verdopplung der Welt\" laesst sich neben dieses Bild stellen: was die Sinne erfassen, und was nur ueber Geigerzaehler, Messprotokolle und Statistik sichtbar wird. Tschernobyl macht beide Welten gleichzeitig wahrnehmbar.",
+        "en": "In his ninth thesis on the concept of history, Walter Benjamin saw an angel driven backwards into the future while the wreckage before him piled into the sky. Beck's idea of a 'doubling of the world' can be placed beside this image: what the senses register, and what becomes visible only through Geiger counters, measurement logs, statistics. Chernobyl makes both worlds perceptible at once."
+      },
+      {
+        "de": "Alban Bergs Oper „Wozzeck\" zerschlaegt die tonale Ordnung, um den Verstand einer Figur darzustellen, deren Welt zerfaellt. Koch beschreibt etwas Aehnliches an Alexijewitschs Montage: die Form gibt nach, weil ihr Gegenstand sich der Form widersetzt. Wo Erzaehlbarkeit versagt, entsteht eine andere Sprache, die aus Wiederholungen, Ellipsen und Stille besteht.",
+        "en": "Alban Berg's opera 'Wozzeck' shatters tonal order to portray the mind of a character whose world is coming apart. Koch describes something similar in Alexijewitsch's montage: the form gives way because its subject resists form. Where narratability fails, a different language emerges, one made of repetitions, ellipses, and silence."
+      },
+      {
+        "de": "Susan Sontag schrieb in „Krankheit als Metapher\", wie Tuberkulose und Krebs zu kulturellen Chiffren wurden, die weit ueber den medizinischen Befund hinausreichten. Die radioaktive Strahlung erweitert dieses Vokabular um eine besondere Variante: eine Gefahr, die der Koerper erst registriert, wenn sie ihn schon zerstoert hat. Was Beck die „Souveraenitaet der Sinne\" nannte, geht im selben Moment verloren, in dem man sich am sichersten in der Welt waehnt.",
+        "en": "Susan Sontag wrote in 'Illness as Metaphor' about how tuberculosis and cancer became cultural ciphers that carried far more meaning than their medical findings. Radioactive radiation extends this vocabulary with a particular variant: a danger the body registers only after it has already begun destroying it. What Beck called the 'sovereignty of the senses' falls away at the very moment one feels most at home in the world."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Skalierung",
+        "definition": "scaling -- the act of scaling something up or down; also the range or scope across which something extends.",
+        "beispiel": "Die zeitliche Skalierung des Schadens war erst nach Jahren absehbar.",
+        "etymologie": "From skalieren, borrowed from Latin scala (ladder, scale) via English. Late twentieth-century technical vocabulary that has migrated into cultural discourse."
+      },
+      {
+        "wort": "die Ruptur",
+        "definition": "rupture -- a sudden break or tear. Originally a medical term, now used for cultural and historical discontinuities.",
+        "beispiel": "Viele Autor:innen sprechen von Tschernobyl als kultureller Ruptur, die ueber den technischen Unfall hinausreicht.",
+        "etymologie": "From Latin ruptura (a breaking), via French. Entered German as a medical term in the seventeenth century."
+      },
+      {
+        "wort": "die Zeugenschaft",
+        "definition": "witnessing -- the condition or act of bearing witness. Carries legal, religious, and ethical weight.",
+        "beispiel": "Die Zeugenschaft der Ueberlebenden bildet das Zentrum ihres Buches.",
+        "etymologie": "From Zeuge (witness) plus the abstract suffix -schaft, which forms states or conditions (Freundschaft, Mannschaft, Bereitschaft)."
+      },
+      {
+        "wort": "changierend",
+        "definition": "shifting, iridescent -- said of something that moves between two or more states. Often used of fabric or light.",
+        "beispiel": "Ein changierender Stoff zeigt je nach Blickwinkel andere Farben.",
+        "etymologie": "From French changer (to change). Entered fashionable German around 1800; technical sense in textile work, figurative sense in literary criticism."
+      },
+      {
+        "wort": "der Kristallisationspunkt",
+        "definition": "crystallization point -- the moment or place at which dispersed elements gather into a single form.",
+        "beispiel": "Die Klimakrise ist zum Kristallisationspunkt zahlreicher politischer Bewegungen geworden.",
+        "etymologie": "Compound from Kristallisation plus Punkt. The chemistry term for the point at which a solution begins forming crystals, applied figuratively to social processes."
+      },
+      {
+        "wort": "die Leerstelle",
+        "definition": "blank space, lacuna -- a gap left open, often deliberately. Key term in literary theory.",
+        "beispiel": "Die Leerstellen eines Textes laden die Lesenden zur eigenen Deutung ein.",
+        "etymologie": "Compound from leer (empty) and Stelle (place, spot). Wolfgang Iser made the word central to his reader-response theory in the 1970s."
+      },
+      {
+        "wort": "die Aussagekraft",
+        "definition": "expressive force, conclusiveness -- the degree to which a statement, image, or finding actually says something.",
+        "beispiel": "Die Aussagekraft einer Studie haengt von ihrer methodischen Sorgfalt ab.",
+        "etymologie": "Compound of Aussage (statement) and Kraft (force, power). A literal reading, 'power of what is said,' captures a quality that words may or may not possess."
+      },
+      {
+        "wort": "die Disruptivität",
+        "definition": "disruptiveness -- the quality of throwing things out of joint. A young noun, formed by analogy with academic loanwords.",
+        "beispiel": "Die Disruptivitaet der Strahlung liegt darin, dass sie keine Sinne erreicht.",
+        "etymologie": "Recent formation from disruptiv (English disruptive, ultimately Latin disrumpere, to break apart) plus the abstract suffix -itaet. Mostly appears in cultural and economic theory."
+      },
+      {
+        "wort": "sinnstiftend",
+        "definition": "sense-conferring, meaning-making -- said of narratives, rituals, or institutions that produce orientation.",
+        "beispiel": "Religionen wirken oft sinnstiftend, wo das Erlebte zu gross fuer eine einzelne Erklaerung wird.",
+        "etymologie": "Compound of Sinn (meaning) and stiftend (founding, establishing). The verb stiften originally meant to endow or establish, as in eine Stiftung (a foundation)."
+      },
+      {
+        "wort": "die Ontologie",
+        "definition": "ontology -- the systematic study of what exists. In philosophy, the inventory of what kinds of things the world contains.",
+        "beispiel": "Heideggers Ontologie fragt, was es heisst, dass etwas ist.",
+        "etymologie": "From Greek on (being) and logos (study). Entered German philosophy via seventeenth-century scholastic Latin."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Erweitertes Partizipialattribut",
+        "beispiel": "Die spaeteren, zwischen Zeugenschaft und Zeitdiagnose changierenden Texte von Alexijewitsch, Kluge und Garcés...",
+        "erklaerung": "Im erweiterten Partizipialattribut steht ein Partizip mit eigenen Ergaenzungen vor dem Substantiv. Hier modifiziert 'changierenden' das Substantiv 'Texte' und nimmt zusaetzlich eine Praepositionalphrase ('zwischen Zeugenschaft und Zeitdiagnose') zu sich. Im Deutschen kann diese Konstruktion sehr lang werden; im Englischen muss sie meist in einen Relativsatz aufgeloest werden.",
+        "erklaerung_en": "An extended participial attribute places a participle plus its own complements before a noun. Here 'changierenden' modifies 'Texte' and pulls in the prepositional phrase 'zwischen Zeugenschaft und Zeitdiagnose' alongside it. This compression is characteristic of academic German; English usually has to unfold it into a relative clause.",
+        "weitere_beispiele": [
+          "Die seit Jahren in der Sperrzone lebenden Tiere wurden untersucht.",
+          "Der in seiner Wohnung versteckte Brief blieb lange unentdeckt."
+        ]
+      },
+      {
+        "struktur": "Konjunktiv I in der indirekten Rede",
+        "beispiel": "...als einen 'anthropologischen Schock' beschrieben, der aus dem strahlungsbedingten Verlust ... resultiere. ... ein Epochenbewusstsein, das ganz im Zeichen des Bruchs ... stehe.",
+        "erklaerung": "Der Konjunktiv I zeigt die indirekte Rede an: 'resultiere' und 'stehe' geben Becks und der genannten Autor:innen Aussagen wieder, ohne dass der Verfasser selbst sie behauptet. Im akademischen Stil signalisiert dieser Modus, dass eine Aussage zitierte Fremdmeinung ist; ein 'er sagt' davorzustellen waere unnoetig.",
+        "erklaerung_en": "Konjunktiv I signals reported speech: 'resultiere' and 'stehe' relay the claims of Beck and the cited authors without the writer asserting them himself. In academic German, the subjunctive itself shows that a sentence paraphrases someone else's position; no explicit 'he says' tag is required.",
+        "weitere_beispiele": [
+          "Der Minister erklaerte, die Lage sei unter Kontrolle.",
+          "Die Studie behauptet, die Strahlenwerte seien rueckgaengig."
+        ]
+      },
+      {
+        "struktur": "Nominalstil",
+        "beispiel": "...zu einem Auseinanderfallen von Zeichen und Referent, zu einem Aus-den-Fugen-Geraten der Repraesentationsordnung...",
+        "erklaerung": "Statt Verbalsaetze ('Zeichen und Referent fallen auseinander', 'die Ordnung geraet aus den Fugen') verwendet Koch nominalisierte Phrasen ('ein Auseinanderfallen', 'ein Aus-den-Fugen-Geraten'). Dieser Nominalstil verdichtet Prozesse zu Begriffen und ist typisch fuer wissenschaftliche und essayistische Prosa. Der Preis ist Abstraktion; der Gewinn ist Praezision.",
+        "erklaerung_en": "Instead of verbal clauses ('signs and referent fall apart,' 'the order comes out of joint'), Koch uses nominalized phrases ('a falling-apart,' 'a coming-out-of-joint'). This nominal style compresses processes into concepts and is typical of academic and essayistic prose. The cost is abstraction; the gain is precision.",
+        "weitere_beispiele": [
+          "Das Verschwinden der Sinneswahrnehmung markiert den Beginn der Krise.",
+          "Ein Auseinandertreten von Wort und Welt durchzieht das ganze Buch."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Aus den Fugen geraten",
+      "uebersetzung": "to come apart at the seams; to fall out of joint",
+      "anmerkung": "The image is of joinery -- wooden beams whose joints no longer hold. Famously used in the Schlegel-Tieck translation of Hamlet ('Die Zeit ist aus den Fugen'), the phrase is applied to political, social, or psychological breakdown. Alexijewitsch's image of a torn 'connection of times' is its direct echo."
+    }
+  },
+  {
     "id": "tiefe-2026-05-09",
     "date": "2026-05-09",
     "titel": "Aelter als die Schrift",
