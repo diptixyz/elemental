@@ -1,5 +1,193 @@
 [
   {
+    "id": "tiefe-2026-06-16",
+    "date": "2026-06-16",
+    "titel": "Als die Worte zerfielen",
+    "leitgedanke": "Hofmannsthals Lord Chandos verliert die Faehigkeit, ueber irgendetwas zusammenhaengend zu sprechen, und entdeckt im selben Zustand eine wortlose Gegenwart der Dinge, die ihn ueberwaeltigt.",
+    "themen": [
+      "Sprache",
+      "Sprachkrise",
+      "Wahrnehmung"
+    ],
+    "quelle_url": "https://www.projekt-gutenberg.org/hofmanns/prosa/chandos.html",
+    "autor": "Hugo von Hofmannsthal",
+    "werk": "Ein Brief (Brief des Lord Chandos an Francis Bacon), 1902",
+    "autor_kontext": "Hugo von Hofmannsthal (1874-1929) was an Austrian poet, playwright and essayist, a Viennese prodigy who published dazzling verse while still a teenager under the pen name Loris. By his late twenties he had grown uneasy with the very fluency that made him famous, and \"Ein Brief,\" written in 1902, stages that crisis as a fictional confession by an Elizabethan nobleman writing to Francis Bacon. He later turned mainly to drama and opera, writing the librettos for several of Richard Strauss's works, including \"Der Rosenkavalier.\" He died of a stroke in 1929, two days after his elder son's suicide, while dressing for the funeral.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Im Sommer 1902 erfindet Hofmannsthal einen fiktiven Brief: Lord Chandos schreibt an Francis Bacon und entschuldigt sich dafuer, dass er nicht mehr schreiben kann. Was als hoefliche Geste beginnt, wird zur Schilderung dessen, wie einem Menschen das Vertrauen in seine eigenen Worte verloren geht."
+        },
+        {
+          "typ": "zitat",
+          "text": "Mein Fall ist, in Kürze, dieser: Es ist mir völlig die Fähigkeit [[abhanden gekommen|abhanden kommen: verloren gehen, sich unbemerkt entziehen. Etwas, das man besass, ist ploetzlich nicht mehr greifbar.]], über irgend etwas [[zusammenhängend|in sinnvollem Zusammenhang, kohaerent; ein Gedanke, der sich an den naechsten fuegt.]] zu denken oder zu sprechen.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Zuerst wurde es mir allmählich unmöglich, ein höheres oder allgemeineres Thema zu besprechen und dabei jene Worte in den Mund zu nehmen, deren sich doch alle Menschen ohne Bedenken geläufig zu bedienen pflegen. Ich empfand ein unerklärliches [[Unbehagen|ein leises, schwer benennbares Unwohlsein; das Gegenteil von Behagen.]], die Worte »Geist«, »Seele« oder »Körper« nur auszusprechen. Ich fand es innerlich unmöglich, über die Angelegenheiten des Hofes, die Vorkommnisse im Parlament oder was Sie sonst wollen, ein Urtheil herauszubringen. Und dies nicht etwa aus Rücksichten irgendwelcher Art, denn Sie kennen meinen bis zur Leichtfertigkeit gehenden [[Freimut|Offenheit, Furchtlosigkeit im Reden; die Bereitschaft, frei heraus zu sagen, was man denkt.]]: sondern die abstrakten Worte, deren sich doch die Zunge [[naturgemäß|von Natur aus, der Sache entsprechend; so, wie es sich von selbst ergibt.]] bedienen muß, um irgendwelches Urtheil an den Tag zu geben, [[zerfielen|zerfallen: in Stuecke auseinanderbrechen, sich aufloesen.]] mir im Munde wie [[modrige|modrig: muffig, nach Faeulnis und Feuchtigkeit riechend; wie morsches Holz im Keller.]] Pilze.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Allmählich aber breitete sich diese [[Anfechtung|Heimsuchung, quaelende Versuchung; ein Zustand, der den Menschen von innen bedraengt. Urspruenglich religioes.]] aus wie ein um sich fressender Rost. Es wurden mir auch im familiären und hausbackenen Gespräch alle die Urtheile, die leichthin und mit [[schlafwandelnder|schlafwandelnd: traumhaft sicher, ohne bewusstes Nachdenken; so sicher, wie ein Schlafwandler geht.]] Sicherheit abgegeben zu werden pflegen, so bedenklich, daß ich aufhören mußte, an solchen Gesprächen irgend teilzunehmen.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Es gelang mir nicht mehr, sie mit dem vereinfachenden Blick der Gewohnheit zu erfassen. Es zerfiel mir alles in Teile, die Teile wieder in Teile und nichts mehr ließ sich mit einem Begriff [[umspannen|umfassen, mit einem Begriff oder Blick ganz erfassen.]]. Die einzelnen Worte schwammen um mich; sie [[gerannen|gerinnen: fest werden, sich verdichten; wie Milch oder Blut, das stockt.]] zu Augen die mich anstarrten und in die ich wieder hineinstarren muß: [[Wirbel|Strudel, Drehbewegung; ein Sog, der nach innen zieht.]] sind sie, in die hinabzusehen mich schwindelt, die sich unaufhaltsam drehen und durch die hindurch man ins Leere kommt.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "In the summer of 1902 Hofmannsthal invents a fictional letter: Lord Chandos writes to Francis Bacon and apologises for no longer being able to write. What begins as a polite gesture becomes a description of how a person loses trust in his own words."
+        },
+        {
+          "typ": "zitat",
+          "text": "My case, in short, is this: I have entirely lost the ability to think or speak coherently about anything whatever.",
+          "quelle": "Hugo von Hofmannsthal, The Letter of Lord Chandos, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "At first it became gradually impossible for me to discuss a loftier or more general subject and in doing so to take into my mouth those words which all people are accustomed to use unhesitatingly and with ease. I felt an inexplicable unease at merely pronouncing the words \"spirit,\" \"soul\" or \"body.\" I found it inwardly impossible to bring forth a judgement about the affairs of the court, the proceedings in parliament, or whatever else you like. And this not out of considerations of any kind, for you know my frankness, which borders on recklessness: rather the abstract words, of which the tongue must naturally avail itself in order to bring any judgement to light, crumbled in my mouth like mouldy mushrooms.",
+          "quelle": "Hugo von Hofmannsthal, The Letter of Lord Chandos, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Gradually, however, this affliction spread like a rust eating around itself. Even in familiar and homely conversation all the judgements that are wont to be delivered lightly and with sleepwalking certainty became so dubious to me that I had to cease taking any part in such conversations.",
+          "quelle": "Hugo von Hofmannsthal, The Letter of Lord Chandos, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "I no longer succeeded in grasping them with the simplifying gaze of habit. Everything fell apart into pieces for me, the pieces again into pieces, and nothing could any longer be encompassed by a single concept. The individual words floated around me; they congealed into eyes that stared at me and into which I in turn must stare: whirlpools they are, into which it dizzies me to look down, which turn unceasingly and through which one arrives at emptiness.",
+          "quelle": "Hugo von Hofmannsthal, The Letter of Lord Chandos, 1902"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Knapp zwei Jahrzehnte spaeter zieht Ludwig Wittgenstein im Tractatus die Grenze von der anderen Seite: 'Wovon man nicht sprechen kann, darueber muss man schweigen.' Was bei Wittgenstein als logischer Schlusssatz steht, hat Chandos schon als koerperliche Erfahrung durchlitten. Beide stossen an dieselbe Wand, an der das Sagbare aufhoert und etwas beginnt, das sich keinem Urteil mehr fuegt.",
+        "en": "Barely two decades later Ludwig Wittgenstein, in the Tractatus, draws the boundary from the other side: \"Whereof one cannot speak, thereof one must be silent.\" What stands in Wittgenstein as a logical concluding sentence, Chandos has already suffered as bodily experience. Both run up against the same wall, where the sayable ends and something begins that no longer submits to any judgement."
+      },
+      {
+        "de": "Hofmannsthals Zeitgenosse Rainer Maria Rilke beantwortet dieselbe Krise umgekehrt. Wo Chandos verstummt, weil die Giesskanne und die Ratten ihn ueberwaeltigen, gibt Rilke den stummen Dingen im Gedicht eine Stimme: dem Panther, dem Karussell, dem antiken Torso. Die Dinggedichte sind der Versuch, jene wortlose Gegenwart, die Chandos nur erleidet, doch noch in Sprache zu bergen.",
+        "en": "Hofmannsthal's contemporary Rainer Maria Rilke answers the same crisis in reverse. Where Chandos falls silent because the watering can and the rats overwhelm him, Rilke gives the mute things a voice in the poem: the panther, the carousel, the ancient torso. The Dinggedichte (thing-poems) are an attempt to salvage in language that wordless presence which Chandos merely endures."
+      },
+      {
+        "de": "Chandos erkrankt zuerst an den grossen Worten: 'Geist', 'Seele', 'Koerper' zerfallen ihm, waehrend die Giesskanne im Garten unversehrt bleibt. Wer heute spuert, wie abgegriffen Begriffe wie 'Freiheit' oder 'Werte' im oeffentlichen Reden klingen, kennt diese Erschoepfung. Je oefter ein Wort gebraucht wird, desto weniger scheint es zu treffen, waehrend das einzelne konkrete Ding seine Schaerfe behaelt.",
+        "en": "Chandos first falls ill from the big words: \"spirit,\" \"soul,\" \"body\" disintegrate for him, while the watering can in the garden remains intact. Anyone who senses today how worn terms like \"freedom\" or \"values\" sound in public speech knows this exhaustion. The more often a word is used, the less it seems to hit its mark, while the single concrete thing keeps its sharpness."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "abhanden kommen",
+        "definition": "abhanden kommen -- verloren gehen, sich unbemerkt entfernen",
+        "beispiel": "Mit der Zeit war ihm das Vertrauen in die grossen Worte abhanden gekommen.",
+        "etymologie": "Aus mittelhochdeutsch 'abe handen', woertlich 'von den Haenden weg'; das Besessene entgleitet dem Griff."
+      },
+      {
+        "wort": "das Unbehagen",
+        "definition": "unease -- ein leises Unwohlsein ohne klar benennbaren Grund",
+        "beispiel": "Ein Unbehagen ergriff ihn, sobald er das Wort nur aussprechen sollte.",
+        "etymologie": "Verneinung von 'Behagen' (Wohlgefuehl), zum Verb 'behagen', urspruenglich 'gefallen, zusagen'."
+      },
+      {
+        "wort": "der Freimut",
+        "definition": "candour -- furchtlose Offenheit im Aussprechen der eigenen Meinung",
+        "beispiel": "Sein Freimut grenzte beinahe an Leichtfertigkeit.",
+        "etymologie": "Zusammensetzung aus 'frei' und 'Mut': der Mut, frei und ungehindert zu reden."
+      },
+      {
+        "wort": "naturgemäß",
+        "definition": "by its very nature -- der Natur einer Sache entsprechend, von selbst",
+        "beispiel": "Die Zunge bedient sich naturgemaess der Worte, um ein Urteil zu geben.",
+        "etymologie": "Aus 'Natur' und dem Suffix '-gemaess' (entsprechend), zu 'gemaess', verwandt mit 'messen'."
+      },
+      {
+        "wort": "zerfallen",
+        "definition": "to disintegrate -- in Stuecke auseinanderbrechen, sich aufloesen",
+        "beispiel": "Unter seinem Blick zerfiel alles in immer kleinere Teile.",
+        "etymologie": "Praefix 'zer-' (auseinander) und 'fallen'; das Ganze faellt in Stuecke."
+      },
+      {
+        "wort": "modrig",
+        "definition": "musty, mouldy -- nach Faeulnis und Feuchtigkeit riechend",
+        "beispiel": "Im alten Keller hing ein modriger Geruch.",
+        "etymologie": "Zu 'Moder' (verrottende organische Substanz), verwandt mit 'morsch' und englisch 'mud'."
+      },
+      {
+        "wort": "die Anfechtung",
+        "definition": "affliction, temptation -- ein Zustand, der den Menschen von innen bedraengt",
+        "beispiel": "Die Anfechtung breitete sich aus wie Rost.",
+        "etymologie": "Zu 'anfechten', urspruenglich 'angreifen, bekaempfen'; in der Theologie die Pruefung des Glaubens."
+      },
+      {
+        "wort": "umspannen",
+        "definition": "to encompass -- mit einem Begriff oder Blick ganz erfassen",
+        "beispiel": "Kein einziger Begriff konnte die Fuelle der Eindruecke umspannen.",
+        "etymologie": "Praefix 'um-' (herum) und 'spannen'; bildlich: etwas wie mit den Armen umfassen."
+      },
+      {
+        "wort": "gerinnen",
+        "definition": "to congeal, curdle -- fest werden, sich verdichten",
+        "beispiel": "Die Worte schienen vor seinen Augen zu Bildern zu gerinnen.",
+        "etymologie": "Praefix 'ge-' und altes 'rinnen' (fliessen); das Fliessende wird fest, vgl. geronnenes Blut."
+      },
+      {
+        "wort": "der Wirbel",
+        "definition": "whirlpool, vortex -- ein Sog, der drehend nach innen zieht",
+        "beispiel": "Die Buchstaben wurden zu Wirbeln, in die hinabzusehen ihn schwindelte.",
+        "etymologie": "Zu 'werben' in der alten Bedeutung 'sich drehen'; verwandt mit 'Wirbelwind' und 'Wirbelsaeule'."
+      },
+      {
+        "wort": "das Urteil",
+        "definition": "judgement -- eine abschliessende Aussage ueber etwas; in der Vorlage als 'Urtheil' geschrieben",
+        "beispiel": "Er brachte ueber die Vorgaenge kein zusammenhaengendes Urteil mehr heraus.",
+        "etymologie": "Aus 'ur-' (urspruenglich, ursaechlich) und 'teilen'; das Ur-Teilen, das Scheiden von wahr und falsch."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "'sich lassen' + Infinitiv als Passiversatzform",
+        "beispiel": "nichts mehr ließ sich mit einem Begriff umspannen",
+        "erklaerung": "Die Verbindung aus reflexivem 'sich lassen' und einem Infinitiv ersetzt ein Passiv mit modaler Faerbung. Sie bedeutet so viel wie 'konnte umspannt werden' oder 'war umspannbar'. Statt 'nichts konnte umspannt werden' schreibt Hofmannsthal knapper und bildhafter 'nichts liess sich umspannen'.",
+        "erklaerung_en": "The combination of reflexive 'sich lassen' plus an infinitive replaces a passive with a modal shade. It means roughly 'could be encompassed' or 'was able to be encompassed.' Instead of 'nothing could be encompassed,' Hofmannsthal writes the terser, more vivid 'nothing let itself be encompassed.'",
+        "weitere_beispiele": [
+          "Der Fehler liess sich nicht mehr beheben.",
+          "Diese Tuer laesst sich nur von innen oeffnen."
+        ]
+      },
+      {
+        "struktur": "Verb mit Genitivobjekt: 'sich einer Sache bedienen'",
+        "beispiel": "die abstrakten Worte, deren sich doch die Zunge naturgemäß bedienen muß",
+        "erklaerung": "Das reflexive Verb 'sich bedienen' (im Sinne von 'gebrauchen') regiert ein Genitivobjekt. Im Relativsatz steht deshalb das Genitiv-Relativpronomen 'deren' mit Bezug auf 'die Worte': 'die Worte, deren sich die Zunge bedient'. Solche Genitivrektion wirkt heute gehoben und begegnet vor allem in literarischer und juristischer Sprache.",
+        "erklaerung_en": "The reflexive verb 'sich bedienen' (to make use of) governs a genitive object. In the relative clause this produces the genitive relative pronoun 'deren,' referring to 'the words': 'the words of which the tongue makes use.' Such genitive government sounds elevated today and appears mainly in literary and legal language.",
+        "weitere_beispiele": [
+          "Er bediente sich eines alten Tricks.",
+          "Wir gedenken der Verstorbenen."
+        ]
+      },
+      {
+        "struktur": "'pflegen zu' + Infinitiv (Ausdruck der Gewohnheit)",
+        "beispiel": "alle die Urtheile, die leichthin und mit schlafwandelnder Sicherheit abgegeben zu werden pflegen",
+        "erklaerung": "'pflegen' mit 'zu' und Infinitiv drueckt eine Gewohnheit oder Regelmaessigkeit aus: 'etwas zu tun pflegen' heisst 'etwas gewoehnlich tun'. Hier verbindet es sich sogar mit einem Passiv-Infinitiv ('abgegeben zu werden'), also: 'Urteile, die gewoehnlich abgegeben werden'.",
+        "erklaerung_en": "'pflegen' with 'zu' plus an infinitive expresses a habit or regularity: 'etwas zu tun pflegen' means 'usually to do something.' Here it even combines with a passive infinitive ('abgegeben zu werden'), i.e. 'judgements that are usually delivered.'",
+        "weitere_beispiele": [
+          "Sie pflegte jeden Morgen einen langen Spaziergang zu machen.",
+          "Wie man zu sagen pflegt: Kommt Zeit, kommt Rat."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Es verschlägt mir die Sprache",
+      "uebersetzung": "It robs me of speech / I am struck speechless",
+      "anmerkung": "Wird heute meist bei Staunen oder Empoerung gebraucht: Etwas ist so ueberwaeltigend, dass einem die Worte fehlen. Bei Chandos wird aus dieser kurzen Redensart ein Dauerzustand."
+    }
+  },
+  {
     "id": "tiefe-2026-06-15",
     "date": "2026-06-15",
     "titel": "Einsam und radikal?",
