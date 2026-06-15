@@ -533,6 +533,47 @@ header {
   line-height: 1.5;
 }
 
+/* ── ARCHIVE MONTH GROUPS ── */
+.archive-month { border-bottom: 1px solid var(--border); }
+.archive-month:first-child { border-top: 1px solid var(--border); }
+
+.archive-month-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 14px 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 400;
+  transition: color 0.15s;
+}
+
+.archive-month-header:hover { color: var(--cream); }
+
+.archive-month-count {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--faint);
+}
+
+.archive-chevron { transition: transform 0.2s; display: inline-block; }
+.archive-month.open .archive-chevron { transform: rotate(90deg); }
+
+.archive-month-items { display: none; padding-bottom: 8px; }
+.archive-month.open .archive-month-items { display: block; }
+
+/* items inside a month group: tighter, no double borders */
+.archive-month-items .archive-item { border: none; padding: 12px 0 12px 14px; }
+.archive-month-items .archive-item:first-child { border-top: none; }
+
 /* ── EMPTY STATE ── */
 .empty {
   font-size: 15px;
@@ -809,25 +850,61 @@ function renderEntry(entry) {
 
 // -- Archive --
 
+function formatMonthDE(key) {
+  // key is "YYYY-MM"
+  var months = ["Januar","Februar","März","April","Mai","Juni",
+                "Juli","August","September","Oktober","November","Dezember"];
+  var parts = key.split('-');
+  return months[parseInt(parts[1], 10) - 1] + ' ' + parts[0];
+}
+
 function renderArchive(currentId) {
   if (entries.length <= 1) return '';
+
+  // Group entries by month, preserving the newest-first order.
+  var groups = [];
+  var index = {};
+  entries.forEach(function(e) {
+    var key = (e.date || '').slice(0, 7);
+    if (!(key in index)) { index[key] = groups.length; groups.push({ key: key, items: [] }); }
+    groups[index[key]].items.push(e);
+  });
+
+  // The month containing the current entry stays open; all others collapse.
+  var currentMonth = (findEntry(currentId) || {}).date;
+  currentMonth = currentMonth ? currentMonth.slice(0, 7) : groups[0].key;
 
   var html = '<div class="archive">';
   html += '<div class="section-divider"></div>';
   html += '<p class="section-label">Archiv</p>';
 
-  entries.forEach(function(e) {
-    var isCurrent = e.id === currentId;
-    html += '<a class="archive-item' + (isCurrent ? ' current' : '') + '" href="#' + e.id + '">';
-    html += '<div class="archive-date">' + formatDateDE(e.date) + '</div>';
-    if (e.autor) html += '<div class="archive-autor">' + e.autor + '</div>';
-    html += '<div class="archive-titel">' + du(e.titel) + '</div>';
-    html += '<div class="archive-leitgedanke">' + du(e.leitgedanke) + '</div>';
-    html += '</a>';
+  groups.forEach(function(g) {
+    var open = g.key === currentMonth;
+    html += '<div class="archive-month' + (open ? ' open' : '') + '">';
+    html += '<button class="archive-month-header" onclick="toggleMonth(this)">';
+    html += '<span>' + formatMonthDE(g.key) + '</span>';
+    html += '<span class="archive-month-count">' + g.items.length + '<span class="archive-chevron">›</span></span>';
+    html += '</button>';
+    html += '<div class="archive-month-items">';
+    g.items.forEach(function(e) {
+      var isCurrent = e.id === currentId;
+      html += '<a class="archive-item' + (isCurrent ? ' current' : '') + '" href="#' + e.id + '">';
+      html += '<div class="archive-date">' + formatDateDE(e.date) + '</div>';
+      if (e.autor) html += '<div class="archive-autor">' + e.autor + '</div>';
+      html += '<div class="archive-titel">' + du(e.titel) + '</div>';
+      html += '<div class="archive-leitgedanke">' + du(e.leitgedanke) + '</div>';
+      html += '</a>';
+    });
+    html += '</div>';
+    html += '</div>';
   });
 
   html += '</div>';
   return html;
+}
+
+function toggleMonth(btn) {
+  btn.parentElement.classList.toggle('open');
 }
 
 // -- Translation toggles --
