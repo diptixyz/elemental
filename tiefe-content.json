@@ -1,5 +1,167 @@
 [
   {
+    "id": "tiefe-2026-06-15",
+    "date": "2026-06-15",
+    "titel": "Einsam und radikal?",
+    "leitgedanke": "Einsamkeit erscheint als privates Leid und reicht doch bis in die Politik hinein: Wer sich von anderen abgeschnitten fuehlt, verliert leichter das Vertrauen in die gemeinsame Welt.",
+    "themen": [
+      "Einsamkeit",
+      "Demokratie",
+      "Sozialpsychologie"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/einsamkeit-2024/557854/einsam-und-radikal/",
+    "autor": "Mareike Ernst, Manfred E. Beutel, Oliver Decker, Elmar Braehler",
+    "werk": "Einsam und Radikal? Eine psychologische Perspektive auf Einsamkeit und demokratiefeindliche Einstellungen (APuZ 52/2024: Einsamkeit, Dezember 2024)",
+    "autor_kontext": "The essay is co-written by four German psychologists and social scientists: Mareike Ernst, Manfred E. Beutel, Oliver Decker and Elmar Brähler. Beutel directs the clinic for psychosomatic medicine at the University of Mainz; Brähler is one of Germany's best-known medical psychologists, and together with Decker he has run the Leipzig Authoritarianism Studies, which have tracked right-wing and anti-democratic attitudes in the German population since 2002. Their piece appeared in APuZ, the weekly supplement of the Federal Agency for Civic Education, in December 2024, when loneliness had become a recurring theme of German public debate. The authors write less as cultural critics than as empiricists, asking what survey data can say about the link between isolation and the appeal of authoritarianism.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Dieser Essay aus der Zeitschrift 'Aus Politik und Zeitgeschichte' fragt, wie ein privates Gefuehl politisch wirksam wird. Ein Team aus Psychologinnen und Sozialwissenschaftlern verbindet die empirische Einsamkeitsforschung mit der Beobachtung, dass einsame Menschen eher zu autoritaeren Haltungen neigen. So beginnt ihre Untersuchung."
+        },
+        {
+          "typ": "zitat",
+          "text": "In den vergangenen Jahren ist Einsamkeit verstärkt in den Fokus des öffentlichen Interesses [[gerückt|von 'ruecken' -- sich verschieben, an eine andere Stelle gelangen; 'in den Fokus gerueckt': ins Zentrum der Aufmerksamkeit getreten]]. So wird sie beispielsweise als Risikofaktor für die Gesundheit benannt, den es zu bekämpfen gilt. Dabei gerät oft ihre komplexe [[Bedingtheit|die Bedingtheit -- das Abhaengigsein von Voraussetzungen; dass etwas nicht voraussetzungslos, sondern bedingt ist]] in den Hintergrund, also die Tatsache, dass sie nicht „aus dem Nichts“ entsteht, sondern aus dem [[Zusammenspiel|das Zusammenspiel -- das geordnete Ineinandergreifen mehrerer Faktoren, wie Stimmen in einem Orchester]] von Person und jeweiliger Situation, in der sich die Person befindet. Hierunter ist jeweils der private wie auch der größere gesellschaftliche Kontext zu verstehen. So wird Einsamkeit der sogenannten Diskrepanzdefinition folgend als [[quälende|von 'quaelen' -- peinigen, zermuerben; quaelend: anhaltend schmerzhaft]] Erfahrung [[aufgefasst|von 'auffassen' -- verstehen, deuten, in bestimmter Weise begreifen]], die aus einer subjektiv wahrgenommenen Diskrepanz zwischen gewünschten und tatsächlich vorhandenen sozialen Beziehungen resultiert.",
+          "quelle": "Mareike Ernst u. a., Einsam und Radikal?, APuZ 52/2024"
+        },
+        {
+          "typ": "zitat",
+          "text": "Empirische Untersuchungen haben im [[Einklang|der Einklang -- die Uebereinstimmung; 'im Einklang mit': uebereinstimmend mit]] mit dieser Definition gezeigt, dass das individuelle Einsamkeitsempfinden nicht nur von bestimmten Persönlichkeitseigenschaften beeinflusst ist, sondern regional und in Abhängigkeit von den Lebensumständen variiert und zum Beispiel im zeitlichen Zusammenhang mit der Covid-19-Pandemie zugenommen hat. Zugleich wirkt Einsamkeit auf die gesellschaftliche Ebene zurück: So sind einsame Menschen weniger motiviert, sich an Wahlen zu beteiligen, und neigen eher zu [[Verschwörungsmentalität|die Verschwoerungsmentalitaet -- die Neigung, hinter Ereignissen geheime Maechte zu vermuten]] und [[autoritären|autoritaer -- auf strikte Unterordnung und starke Herrschaft ausgerichtet]] Einstellungen, was die [[Legitimation|die Legitimation -- die Rechtfertigung der Berechtigung; hier: das Gutheissen]] politischer Gewalt einschließt. Diese empirischen Beobachtungen sind bisher jedoch noch nicht auf einer gesamtgesellschaftlichen Ebene mit psychologischen Theorien der Einsamkeit in Beziehung gesetzt worden. Entsprechende Perspektiven könnten die motivationale Funktion der geäußerten Haltungen klären und dabei helfen, [[Präventions- und Interventionsmaßnahmen|gezielte Massnahmen, um Einsamkeit vorzubeugen ('Praevention') und in bestehende Faelle einzugreifen ('Intervention')]] zu entwickeln.",
+          "quelle": "Mareike Ernst u. a., Einsam und Radikal?, APuZ 52/2024"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "This essay from the journal 'Aus Politik und Zeitgeschichte' asks how a private feeling becomes politically effective. A team of psychologists and social scientists connects empirical loneliness research with the observation that lonely people are more inclined toward authoritarian attitudes. This is how their inquiry begins."
+        },
+        {
+          "typ": "zitat",
+          "text": "In recent years, loneliness has increasingly moved into the focus of public interest. Thus it is named, for example, as a risk factor for health that must be combated. In doing so, its complex conditionedness often recedes into the background, that is, the fact that it does not arise “out of nothing”, but rather from the interplay of the person and the respective situation in which the person finds themselves. By this is meant in each case both the private and the larger societal context. Thus loneliness, following the so-called discrepancy definition, is understood as a tormenting experience that results from a subjectively perceived discrepancy between desired and actually existing social relationships.",
+          "quelle": "Mareike Ernst et al., Einsam und Radikal? (Lonely and Radical?), APuZ 52/2024"
+        },
+        {
+          "typ": "zitat",
+          "text": "Empirical studies have shown, in accordance with this definition, that the individual experience of loneliness is influenced not only by certain personality traits, but also varies regionally and depending on living circumstances, and has, for example, increased in temporal connection with the Covid-19 pandemic. At the same time, loneliness has an effect back on the societal level: thus lonely people are less motivated to take part in elections, and tend more toward a conspiracy mentality and authoritarian attitudes, which includes the legitimation of political violence. These empirical observations have, however, not yet been related, at an overall-societal level, to psychological theories of loneliness. Corresponding perspectives could clarify the motivational function of the expressed attitudes and help to develop preventive and intervention measures.",
+          "quelle": "Mareike Ernst et al., Einsam und Radikal? (Lonely and Radical?), APuZ 52/2024"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Hannah Arendt unterschied in ihrem Werk ueber den Totalitarismus die Einsamkeit von der schoepferischen Zurueckgezogenheit. Verlassenheit, schrieb sie, sei der Boden, auf dem totale Herrschaft gedeiht, weil der voellig Vereinzelte das Vertrauen in die gemeinsame Welt verliert. Die empirische Beobachtung dieses Essays, dass einsame Menschen autoritaeren Haltungen zuneigen, holt Arendts These ein halbes Jahrhundert spaeter in die Sozialpsychologie.",
+        "en": "In her work on totalitarianism, Hannah Arendt distinguished loneliness from creative solitude. Abandonment, she wrote, is the ground on which total domination thrives, because the wholly isolated person loses trust in the common world. The empirical observation of this essay, that lonely people incline toward authoritarian attitudes, brings Arendt's thesis into social psychology half a century later."
+      },
+      {
+        "de": "Der Soziologe Eric Klinenberg fuehrt Einsamkeit auf fehlende soziale Infrastruktur zurueck: auf Bibliotheken, Parks und Cafes, die zufaellige Begegnungen ermoeglichen. Waehrend der Hitzewelle von Chicago 1995 starben in verarmten, isolierten Vierteln deutlich mehr Menschen als in aermeren, aber dicht vernetzten. Was der Essay als psychologische Diskrepanz beschreibt, hat so auch eine staedtebauliche Seite: Raeume entscheiden mit, ob Naehe entsteht.",
+        "en": "The sociologist Eric Klinenberg traces loneliness back to missing social infrastructure: to libraries, parks, and cafes that make chance encounters possible. During the Chicago heat wave of 1995, significantly more people died in impoverished, isolated neighbourhoods than in poorer but densely connected ones. What the essay describes as a psychological discrepancy thus also has an urban-planning side: spaces help decide whether closeness arises."
+      },
+      {
+        "de": "Rilke riet dem jungen Dichter, die Einsamkeit zu lieben und ihren Schmerz auszuhalten, weil aus ihr das eigene Werk wachse. Sein Lob gilt dem gewaehlten Alleinsein, das man jederzeit verlassen koennte. Der Essay benennt die andere Moeglichkeit: Wo Beziehungen gewuenscht und doch versagt bleiben, klafft die quaelende Diskrepanz. Dieselbe Stille wird zur Quelle oder zur Wunde, je nachdem, ob man sie waehlt.",
+        "en": "Rilke advised the young poet to love solitude and to endure its pain, because one's own work grows out of it. His praise applies to chosen aloneness, which one could leave at any time. The essay names the other possibility: where relationships are desired and yet remain denied, the tormenting discrepancy opens up. The same silence becomes a source or a wound, depending on whether one chooses it."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Bedingtheit",
+        "definition": "Bedingtheit -- die Abhaengigkeit von Voraussetzungen; das Bedingtsein durch aeussere Umstaende",
+        "beispiel": "Die Bedingtheit unseres Urteils durch Herkunft und Erfahrung wird leicht uebersehen.",
+        "etymologie": "Abstraktnomen zu 'bedingt', Partizip von 'bedingen' (zur Voraussetzung machen); das Suffix '-heit' bildet Eigenschaftsnomen."
+      },
+      {
+        "wort": "das Zusammenspiel",
+        "definition": "Zusammenspiel -- das geordnete Ineinandergreifen mehrerer Kraefte oder Faktoren",
+        "beispiel": "Erst das Zusammenspiel von Veranlagung und Umfeld erklaert das Verhalten.",
+        "etymologie": "Aus 'zusammen' und 'Spiel'; urspruenglich das abgestimmte Spiel mehrerer Musiker."
+      },
+      {
+        "wort": "die Diskrepanz",
+        "definition": "Diskrepanz -- ein Missverhaeltnis, eine Kluft zwischen zwei Groessen oder Erwartungen",
+        "beispiel": "Zwischen Anspruch und Wirklichkeit klaffte eine grosse Diskrepanz.",
+        "etymologie": "Aus lateinisch 'discrepantia' (Misston, Uneinigkeit), zu 'discrepare' (verschieden klingen)."
+      },
+      {
+        "wort": "quälen",
+        "definition": "quaelen -- jemandem anhaltend Schmerz oder Pein zufuegen; quaelend: zermuerbend",
+        "beispiel": "Die Ungewissheit quaelte sie mehr als eine klare Absage.",
+        "etymologie": "Mittelhochdeutsch 'queln'; verwandt mit 'Qual', urspruenglich 'martern, peinigen'."
+      },
+      {
+        "wort": "auffassen",
+        "definition": "auffassen -- etwas in bestimmter Weise verstehen, deuten oder begreifen",
+        "beispiel": "Er fasste die Bemerkung als Kritik auf, obwohl sie freundlich gemeint war.",
+        "etymologie": "Trennbares Verb aus 'auf' und 'fassen' (greifen); woertlich 'geistig ergreifen'."
+      },
+      {
+        "wort": "der Einklang",
+        "definition": "Einklang -- die Uebereinstimmung, das harmonische Zusammenstimmen; 'im Einklang mit' bedeutet 'uebereinstimmend mit'",
+        "beispiel": "Ihr Handeln stand im Einklang mit ihren Ueberzeugungen.",
+        "etymologie": "Aus 'ein' und 'Klang'; urspruenglich der gleiche Ton, der musikalische Gleichklang."
+      },
+      {
+        "wort": "autoritär",
+        "definition": "autoritaer -- auf unbedingte Unterordnung und starke Herrschaft ausgerichtet",
+        "beispiel": "Autoritaere Einstellungen verlangen nach Fuehrung und misstrauen der Vielfalt.",
+        "etymologie": "Aus lateinisch 'auctoritas' (Ansehen, Geltung, Macht), zu 'augere' (mehren)."
+      },
+      {
+        "wort": "die Legitimation",
+        "definition": "Legitimation -- die Rechtfertigung oder Begruendung der Berechtigung von etwas",
+        "beispiel": "Der Wahlsieg verschaffte der Regierung ihre Legitimation.",
+        "etymologie": "Aus mittellateinisch 'legitimatio', zu lateinisch 'legitimus' (gesetzmaessig), von 'lex' (Gesetz)."
+      },
+      {
+        "wort": "die Verschwörungsmentalität",
+        "definition": "Verschwoerungsmentalitaet -- die Neigung, hinter Ereignissen geheime, boese Maechte am Werk zu sehen",
+        "beispiel": "Die Verschwoerungsmentalitaet deutet jeden Zufall als geheimen Plan.",
+        "etymologie": "Aus 'Verschwoerung' (zu 'schwoeren', der gemeinsame Eid) und 'Mentalitaet' (Denkart)."
+      },
+      {
+        "wort": "die Maßnahme",
+        "definition": "Massnahme -- eine gezielte Handlung, um ein bestimmtes Ziel zu erreichen",
+        "beispiel": "Praeventive Massnahmen sollen das Problem verhindern, bevor es entsteht.",
+        "etymologie": "Aus 'Mass' und 'nehmen'; woertlich 'das rechte Mass nehmen', also angemessen handeln."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Partizip I als modale Adverbiale (nachgestellt)",
+        "beispiel": "So wird Einsamkeit der sogenannten Diskrepanzdefinition folgend als quälende Erfahrung aufgefasst",
+        "erklaerung": "Das Partizip I 'folgend' bildet hier eine adverbiale Bestimmung der Art und Weise. Es regiert ein Dativobjekt ('der Diskrepanzdefinition') und laesst sich durch 'gemaess' oder 'entsprechend' ersetzen. Diese nachgestellte Partizipialfuegung verdichtet einen ganzen Nebensatz ('wenn man der Definition folgt') zu einer knappen Formel und ist typisch fuer den wissenschaftlichen Stil.",
+        "erklaerung_en": "The present participle 'folgend' here forms an adverbial of manner. It governs a dative object ('der Diskrepanzdefinition') and can be replaced by 'gemaess' or 'entsprechend' (according to). This postpositioned participial phrase compresses an entire subordinate clause ('if one follows the definition') into a terse formula and is typical of academic style.",
+        "weitere_beispiele": [
+          "Der Vorschrift folgend, verliessen alle das Gebaeude.",
+          "Den Anweisungen entsprechend handelte sie sofort."
+        ]
+      },
+      {
+        "struktur": "Weiterfuehrender Relativsatz mit 'was'",
+        "beispiel": "...neigen eher zu Verschwörungsmentalität und autoritären Einstellungen, was die Legitimation politischer Gewalt einschließt.",
+        "erklaerung": "Das Relativpronomen 'was' bezieht sich hier auf den gesamten vorangehenden Sachverhalt; sein Bezugswort ist ein ganzer Satz. Der weiterfuehrende Relativsatz kommentiert die Hauptaussage und entspricht etwa 'und das schliesst ... ein'. 'was' steht in dieser Funktion immer dann, wenn der Bezug ein ganzer Satz oder ein neutrales Pronomen ist.",
+        "erklaerung_en": "The relative pronoun 'was' here refers to the entire preceding state of affairs; its antecedent is a whole clause. This continuative relative clause comments on the main statement and corresponds roughly to 'and that includes ...'. 'was' takes this function whenever the antecedent is a whole clause or a neuter pronoun.",
+        "weitere_beispiele": [
+          "Er kam zu spaet, was niemanden ueberraschte.",
+          "Sie schwieg, was ich als Zustimmung verstand."
+        ]
+      },
+      {
+        "struktur": "Vorgangspassiv im Perfekt ('worden')",
+        "beispiel": "Diese empirischen Beobachtungen sind bisher jedoch noch nicht ... in Beziehung gesetzt worden.",
+        "erklaerung": "Das Vorgangspassiv im Perfekt wird mit 'sein' plus Partizip II plus 'worden' gebildet. Die Form 'worden' kennzeichnet das Passiv; das Vollverb 'werden' bildet sein Perfekt dagegen mit 'geworden'. Der Satz betont den Vorgang des In-Beziehung-Setzens und laesst offen, wer ihn vollzieht.",
+        "erklaerung_en": "The dynamic (process) passive in the perfect tense is formed with 'sein' plus past participle plus 'worden'. The form 'worden' signals the passive; the full verb 'werden' forms its perfect with 'geworden' instead. The sentence stresses the process of relating one thing to another and leaves open who carries it out.",
+        "weitere_beispiele": [
+          "Das Gesetz ist bereits verabschiedet worden.",
+          "Die Frage ist nie wirklich beantwortet worden."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Geteilte Freude ist doppelte Freude, geteiltes Leid ist halbes Leid.",
+      "uebersetzung": "A joy shared is a joy doubled, a sorrow shared is a sorrow halved.",
+      "anmerkung": "Dieses verbreitete Sprichwort fasst in einem Satz, was die Forschung empirisch beschreibt: Soziale Bindung mildert das Leid und steigert die Freude. Die Wendung erinnert daran, dass Einsamkeit gerade darin liegt, niemanden zum Teilen zu haben."
+    }
+  },
+  {
     "id": "tiefe-2026-06-12",
     "date": "2026-06-12",
     "titel": "Im Horizont des Unendlichen",
