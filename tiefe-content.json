@@ -1,5 +1,185 @@
 [
   {
+    "id": "tiefe-2026-06-18",
+    "date": "2026-06-18",
+    "titel": "Wachstum als Irrweg",
+    "leitgedanke": "Eine endliche Welt vertraegt kein grenzenloses Wachstum; Ulrike Herrmann fragt, wie ein geordnetes Schrumpfen aussehen koennte, das den Wohlstand bewahrt.",
+    "themen": [
+      "Wachstum",
+      "Klima",
+      "Wirtschaft"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/wachstum-2025/572533/wir-muessen-schrumpfen/",
+    "autor": "Ulrike Herrmann",
+    "werk": "Wir müssen schrumpfen. Wachstum als Irrweg (APuZ 46/2025: Wachstum, November 2025)",
+    "autor_kontext": "Ulrike Herrmann (born 1964) is a German economics journalist and editor at the left-leaning daily 'die tageszeitung' (taz). She trained first as a bank clerk before studying history and philosophy, and she writes deliberately for a general audience. Her 2022 book 'Das Ende des Kapitalismus' became a bestseller and pushed 'green shrinking' into the German climate debate. She is a frequent, combative presence on German television talk shows.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Ulrike Herrmann, Wirtschaftsjournalistin bei der 'taz', stellt eine unbequeme These an den Anfang: Der Kapitalismus braucht Wachstum, doch eine endliche Welt setzt ihm Grenzen. Aus dieser Spannung entwickelt sie ihr Plaedoyer fuer ein 'gruenes Schrumpfen'."
+        },
+        {
+          "typ": "zitat",
+          "text": "Der Kapitalismus war ein Fortschritt, hat aber leider eine fundamentale Schwäche: Er erzeugt nicht nur Wachstum, sondern benötigt es auch, um stabil zu sein. In einer [[endlichen|endlich, begrenzt; das Gegenteil von unendlich. Hier die oekologische Grenze des Planeten.]] Welt kann man aber nicht unendlich wachsen. Momentan tun die Westeuropäer so, als könnten sie drei Planeten verbrauchen. Bekanntlich gibt es aber nur eine Erde. Bisher setzen die Regierungen darauf, dass sie Wirtschaft und Klimaschutz irgendwie [[versöhnen|aussoehnen, in Einklang bringen; ein Wort aus dem Bereich von Streit und Frieden.]] könnten. Die typischen Stichworte heißen „Green New Deal“ oder „[[Entkopplung|das Loesen einer festen Verbindung; hier die Trennung von Wachstum und Energieverbrauch.]]“ von Wachstum und Energie. Die große Hoffnung ist, dass sich die gesamte Wirtschaft auf [[Ökostrom|Strom aus erneuerbaren Quellen wie Wind und Sonne.]] umstellen ließe – ob Verkehr, Industrie oder Heizung.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 46/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Dieses „grüne Wachstum“ ist jedoch eine Illusion, denn der Ökostrom wird nicht reichen. Diese Aussage mag zunächst überraschen, schließlich schickt die Sonne 5000-mal mehr Energie zur Erde, als die derzeit acht Milliarden Menschen benötigen. An physikalischer Energie fehlt es also nicht – sie muss nur eingefangen werden. Doch nur zwei Technologien lassen sich fast [[flächendeckend|das gesamte Gebiet abdeckend, ueberall einsetzbar.]] nutzen: Solarpaneele und Windräder. Ihr Beitrag ist aber immer noch gering, obwohl sie in Deutschland seit mehr als zwanzig Jahren staatlich [[gefördert|foerdern, hier staatlich unterstuetzen und finanziell voranbringen.]] werden. 2024 hat die Windenergie 6 Prozent des deutschen [[Endenergieverbrauchs|die Energiemenge, die beim Endverbraucher tatsaechlich genutzt wird.]] abgedeckt, die Solarpaneele kamen auf 3,6 Prozent. Die Energiewende, ein gigantisches Infrastrukturprojekt, befindet sich also noch am Anfang.",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 46/2025"
+        },
+        {
+          "typ": "absatz",
+          "text": "Wie der Umbau gelingen koennte, ohne in einer Krise zu enden, war lange offen. Herrmann verweist auf ein historisches Vorbild."
+        },
+        {
+          "typ": "zitat",
+          "text": "Unklar war bisher, wie sich diese ökologische [[Kreislaufwirtschaft|Wirtschaftsform, in der Rohstoffe wiederverwendet statt verbraucht werden.]] erreichen lässt, ohne dass es zu schweren Wirtschaftskrisen kommt. Für ein „grünes Schrumpfen“ gab es kein Konzept. Ein Rückblick auf die britische [[Kriegswirtschaft|staatlich gelenkte Wirtschaft im Krieg, die knappe Gueter rationiert.]] ab 1939 zeigt, wie es gehen könnte: Die Betriebe bleiben privat, aber der Staat legt fest, was noch hergestellt wird, und verteilt die [[knappen|knapp, nur in geringer Menge vorhanden.]] Güter. Allerdings wären wir nicht so arm wie die Briten 1939, als es pro Jahr nur zwei Kleider mit maximal fünf Knöpfen gab. Stattdessen könnten wir immer noch so reich sein wie die Westdeutschen 1978. Das ist doch [[tröstlich|Trost spendend, beruhigend.]].",
+          "quelle": "Ulrike Herrmann, Wir müssen schrumpfen. Wachstum als Irrweg, APuZ 46/2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Ulrike Herrmann, an economics journalist at the daily 'taz', places an uncomfortable thesis at the outset: capitalism needs growth, yet a finite world sets limits to it. Out of this tension she develops her plea for a 'green shrinking'."
+        },
+        {
+          "typ": "zitat",
+          "text": "Capitalism was a step forward, but unfortunately has a fundamental weakness: it not only produces growth, it also needs growth in order to be stable. In a finite world, however, one cannot grow infinitely. At present western Europeans act as if they could consume three planets. As is well known, though, there is only one Earth. So far governments have been betting that they could somehow reconcile the economy and climate protection. The typical catchwords are „Green New Deal“ or the „decoupling“ of growth and energy. The great hope is that the entire economy could be switched over to green electricity – whether transport, industry or heating.",
+          "quelle": "Ulrike Herrmann, We Must Shrink. Growth as a Wrong Turn, APuZ 46/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "This „green growth“, however, is an illusion, for the green electricity will not be enough. This statement may at first be surprising; after all, the sun sends 5000 times more energy to the Earth than the currently eight billion people require. So there is no lack of physical energy – it merely has to be captured. Yet only two technologies can be used almost everywhere: solar panels and wind turbines. Their contribution is still small, however, even though they have been subsidised by the state in Germany for more than twenty years. In 2024 wind energy covered 6 percent of German final energy consumption, and solar panels reached 3.6 percent. The energy transition, a gigantic infrastructure project, is thus still at its beginning.",
+          "quelle": "Ulrike Herrmann, We Must Shrink. Growth as a Wrong Turn, APuZ 46/2025"
+        },
+        {
+          "typ": "absatz",
+          "text": "How the transformation could succeed without ending in a crisis was long an open question. Herrmann points to a historical model."
+        },
+        {
+          "typ": "zitat",
+          "text": "Until now it was unclear how this ecological circular economy can be achieved without severe economic crises occurring. For a „green shrinking“ there was no concept. A look back at the British war economy from 1939 onwards shows how it could work: the firms remain private, but the state determines what is still produced, and distributes the scarce goods. We would not, however, be as poor as the British in 1939, when there were only two items of clothing per year with a maximum of five buttons. Instead, we could still be as rich as West Germans in 1978. That, after all, is comforting.",
+          "quelle": "Ulrike Herrmann, We Must Shrink. Growth as a Wrong Turn, APuZ 46/2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Der rumaenisch-amerikanische Oekonom Nicholas Georgescu-Roegen brachte 1971 die Thermodynamik in die Wirtschaftstheorie. Jede Produktion, so sein Argument, verwandelt geordnete Energie in Unordnung; die Entropie waechst, und kein Markt kann sie zurueckdrehen. Herrmanns Zweifel am 'gruenen Wachstum' liest sich wie eine spaete Anwendung dieses Gesetzes: Auch Oekostrom unterliegt physikalischen Grenzen, die keine Foerderpolitik aufhebt.",
+        "en": "The Romanian-American economist Nicholas Georgescu-Roegen brought thermodynamics into economic theory in 1971. Every act of production, he argued, turns ordered energy into disorder; entropy grows, and no market can reverse it. Herrmann's doubt about 'green growth' reads like a late application of this law: green electricity too is subject to physical limits that no subsidy policy can lift."
+      },
+      {
+        "de": "1930 sagte John Maynard Keynes seinen Enkeln voraus, der technische Fortschritt werde die Arbeitszeit auf 15 Stunden pro Woche senken und das oekonomische Problem loesen. Gewachsen ist seither vor allem der Konsum, weniger die freie Zeit. Herrmann setzt einen anderen Massstab an: Wohlstand wie in der Bundesrepublik von 1978, ein Niveau, an dem das Genug fuer viele schon erreicht schien.",
+        "en": "In 1930 John Maynard Keynes predicted to his grandchildren that technical progress would cut the working week to 15 hours and solve the economic problem. What has grown since then is mainly consumption, less so free time. Herrmann applies a different measure: prosperity as in the Federal Republic of 1978, a level at which, for many, 'enough' already seemed to have been reached."
+      },
+      {
+        "de": "Die Idee, dass Wohlstand ein Mass hat, ist aelter als jede Wachstumskurve. Schon Epikur unterschied natuerliche von eingebildeten Beduerfnissen und nannte Selbstgenuegsamkeit ein grosses Gut. Herrmanns Schlusssatz 'Das ist doch troestlich' klingt fast stoisch: Der Verzicht erscheint als Rueckkehr zu einem Mass, das die moderne Oekonomie laengst verlernt hat.",
+        "en": "The idea that prosperity has a measure is older than any growth curve. Epicurus already distinguished natural from imaginary needs and called self-sufficiency a great good. Herrmann's closing line 'that, after all, is comforting' sounds almost Stoic: doing without appears as a return to a measure that the modern economy has long forgotten."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Entkopplung",
+        "definition": "das Loesen einer festen Verbindung; in der Klimadebatte die Trennung von Wirtschaftswachstum und Energieverbrauch.",
+        "beispiel": "Die Politik hofft auf eine Entkopplung von Wohlstand und Ressourcenverbrauch.",
+        "etymologie": "Zu 'Koppel', der Verbindung zweier Dinge; die Vorsilbe 'ent-' loest diese Bindung wieder."
+      },
+      {
+        "wort": "der Ökostrom",
+        "definition": "Strom aus erneuerbaren Quellen wie Wind, Sonne oder Wasser.",
+        "beispiel": "Der Anteil von Oekostrom am Verbrauch waechst nur langsam.",
+        "etymologie": "Kurzwort aus griech. 'oikos' (Haus) und 'Strom'; 'oeko-' steht heute fuer Umwelt."
+      },
+      {
+        "wort": "flächendeckend",
+        "definition": "das gesamte Gebiet abdeckend, ueberall verfuegbar.",
+        "beispiel": "Das Ladenetz ist noch nicht flaechendeckend ausgebaut.",
+        "etymologie": "Aus 'Flaeche' und 'decken'; das Bild eines Tuchs, das die ganze Flaeche bedeckt."
+      },
+      {
+        "wort": "versöhnen",
+        "definition": "zwei Gegensaetze in Einklang bringen, aussoehnen.",
+        "beispiel": "Es faellt schwer, Wachstum und Klimaschutz zu versoehnen.",
+        "etymologie": "Mittelhochdeutsch 'versuenen', verwandt mit 'Suehne', dem Ausgleich einer Schuld."
+      },
+      {
+        "wort": "die Kreislaufwirtschaft",
+        "definition": "Wirtschaftsform, in der Stoffe immer wieder verwendet statt verbraucht werden.",
+        "beispiel": "In einer Kreislaufwirtschaft wird Abfall zum Rohstoff.",
+        "etymologie": "Aus 'Kreislauf' (zyklische Bewegung) und 'Wirtschaft'."
+      },
+      {
+        "wort": "die Kriegswirtschaft",
+        "definition": "staatlich gelenkte Wirtschaft im Krieg, die knappe Gueter rationiert.",
+        "beispiel": "In der Kriegswirtschaft lenkt der Staat die Produktion.",
+        "etymologie": "Aus 'Krieg' und 'Wirtschaft'; gepraegt im 20. Jahrhundert fuer die staatliche Lenkungswirtschaft."
+      },
+      {
+        "wort": "knapp",
+        "definition": "nur in geringer Menge vorhanden, kaum ausreichend.",
+        "beispiel": "Die Rohstoffe werden knapp, also steigen die Preise.",
+        "etymologie": "Herkunft unsicher, wohl aus dem Niederdeutschen; verwandt mit 'kneifen', eng zusammengedrueckt."
+      },
+      {
+        "wort": "tröstlich",
+        "definition": "Trost spendend, Zuversicht gebend.",
+        "beispiel": "Es ist troestlich, dass Wohlstand auch mit weniger moeglich ist.",
+        "etymologie": "Zu 'Trost', althochdeutsch 'trost', urspruenglich innere Festigkeit und Zuversicht."
+      },
+      {
+        "wort": "fördern",
+        "definition": "unterstuetzen, voranbringen; auch: Bodenschaetze gewinnen.",
+        "beispiel": "Der Staat foerdert erneuerbare Energien seit Jahren.",
+        "etymologie": "Zu 'vorder'; etwas nach vorn bringen, im Bergbau auch Erz zutage foerdern."
+      },
+      {
+        "wort": "der Irrweg",
+        "definition": "ein falscher Weg, eine in die Irre fuehrende Entwicklung.",
+        "beispiel": "Sie haelt grenzenloses Wachstum fuer einen Irrweg.",
+        "etymologie": "Aus 'irren' (vom Weg abkommen) und 'Weg'; ein Pfad, der in die Irre fuehrt."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Verb 'fehlen' mit Praepositionalobjekt 'an' + Dativ (unpersoenlich)",
+        "beispiel": "An physikalischer Energie fehlt es also nicht – sie muss nur eingefangen werden.",
+        "erklaerung": "Das Verb 'fehlen' verlangt hier ein Praepositionalobjekt mit 'an' und Dativ. Das vorangestellte 'An physikalischer Energie' rueckt den Mangel ins Zentrum, das unpersoenliche 'es' fuellt die Subjektstelle. So wird betont, woran genau es mangelt.",
+        "erklaerung_en": "The verb 'fehlen' (to be lacking) here takes a prepositional object with 'an' + dative. Fronting 'An physikalischer Energie' foregrounds what is lacking, while the impersonal 'es' fills the subject slot. This stresses precisely what is in short supply.",
+        "weitere_beispiele": [
+          "An gutem Willen fehlt es nicht, wohl aber an Geld.",
+          "Es fehlt ihr an nichts."
+        ]
+      },
+      {
+        "struktur": "Proportionaler Komparativ mit Multiplikator ('X-mal mehr ... als')",
+        "beispiel": "...schließlich schickt die Sonne 5000-mal mehr Energie zur Erde, als die derzeit acht Milliarden Menschen benötigen.",
+        "erklaerung": "Der Komparativ 'mehr' wird durch den Faktor '5000-mal' verstaerkt und mit einem Vergleichssatz aus 'als' verbunden. Im Nebensatz steht das finite Verb am Ende ('benoetigen'). So laesst sich ein Groessenverhaeltnis praezise ausdruecken.",
+        "erklaerung_en": "The comparative 'mehr' (more) is intensified by the factor '5000-mal' (5000 times) and joined to a comparative clause with 'als'. In the subordinate clause the finite verb stands at the end ('benoetigen'). This lets a ratio be expressed precisely.",
+        "weitere_beispiele": [
+          "Die Stadt verbraucht dreimal mehr Wasser, als die Region liefern kann.",
+          "Er verdient doppelt so viel, wie er ausgibt."
+        ]
+      },
+      {
+        "struktur": "Konjunktiv II zur Kennzeichnung eines erhofften Sachverhalts",
+        "beispiel": "Die große Hoffnung ist, dass sich die gesamte Wirtschaft auf Ökostrom umstellen ließe.",
+        "erklaerung": "Im dass-Satz steht die Verbform im Konjunktiv II, obwohl kein indirektes Zitat vorliegt. Der Konjunktiv markiert den Inhalt als blosse Hoffnung, als etwas noch nicht Verwirklichtes. Ein Indikativ ('umstellen laesst') wuerde die Aussage als Tatsache darstellen.",
+        "erklaerung_en": "In the 'dass' clause 'ließe' stands in Konjunktiv II, even though there is no indirect quotation. The subjunctive marks the content as a mere hope, as something not yet realised. An indicative ('umstellen lässt') would present the statement as fact.",
+        "weitere_beispiele": [
+          "Sein Traum war, dass er eines Tages frei leben koennte.",
+          "Die Vorstellung, dass sich alles von selbst regelte, ist truegerisch."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Bäume wachsen nicht in den Himmel.",
+      "uebersetzung": "Trees do not grow into the sky.",
+      "anmerkung": "Eine alte Warnung, dass nichts grenzenlos waechst, weder Preise noch Macht noch Wirtschaft. Goethe stellte den Satz seiner Autobiographie 'Dichtung und Wahrheit' voran. Er passt zu Herrmanns Befund, dass auch das Wachstum an die Grenzen des Planeten stoesst."
+    }
+  },
+  {
     "id": "tiefe-2026-06-17",
     "date": "2026-06-17",
     "titel": "Der sechste Sinn",
