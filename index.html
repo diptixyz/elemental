@@ -610,8 +610,17 @@ header {
   font-size: 15px;
   font-weight: 500;
   color: var(--cream);
+  margin-bottom: 4px;
+}
+
+.popup-en {
+  font-size: 13px;
+  font-style: italic;
+  color: var(--accent, var(--cream));
   margin-bottom: 6px;
 }
+
+.popup-en:empty { display: none; }
 
 .popup-def {
   font-size: 13px;
@@ -644,6 +653,7 @@ header {
 
 <div class="popup" id="popup">
   <div class="popup-word" id="popup-word"></div>
+  <div class="popup-en"   id="popup-en"></div>
   <div class="popup-def"  id="popup-def"></div>
 </div>
 
@@ -700,16 +710,21 @@ function du(text) {
   return text
     .replace(/Ae/g, 'Ä').replace(/Oe/g, 'Ö')
     .replace(/ae/g, 'ä').replace(/oe/g, 'ö')
-    .replace(/(?<![ae])Ue/g, 'Ü')
-    .replace(/(?<![ae])ue/g, 'ü');
+    .replace(/(?<![aeq])Ue/g, 'Ü')
+    .replace(/(?<![aeq])ue/g, 'ü');
 }
 
 // -- Parse [[word|def]] annotations --
 
 function parseAnnotations(text) {
-  return text.replace(/\[\[([^\|]+)\|([^\]]+)\]\]/g, function(_, word, def) {
-    var safeDef = du(def).replace(/"/g, '&quot;');
-    return '<span class="w" data-word="' + word + '" data-def="' + safeDef + '">' + word + '</span>';
+  return text.replace(/\[\[([^\|]+)\|([^\]]+)\]\]/g, function(_, word, rest) {
+    var bits = rest.split('|');
+    // First field: German definition (ae/oe/ue decoded). Optional second field: English gloss (left as-is).
+    var safeDef = du(bits[0].trim()).replace(/"/g, '&quot;');
+    var en = bits.length > 1 ? bits[1].trim() : '';
+    var safeEn = en.replace(/"/g, '&quot;');
+    return '<span class="w" data-word="' + word + '" data-def="' + safeDef + '"' +
+           (safeEn ? ' data-en="' + safeEn + '"' : '') + '>' + word + '</span>';
   });
 }
 
@@ -940,6 +955,7 @@ function toggleAllEN() {
 
 var popup  = document.getElementById('popup');
 var popWord = document.getElementById('popup-word');
+var popEn   = document.getElementById('popup-en');
 var popDef  = document.getElementById('popup-def');
 var popupOpen = false;
 
@@ -947,6 +963,7 @@ document.addEventListener('click', function(e) {
   var t = e.target.closest('.w');
   if (t) {
     popWord.textContent = t.dataset.word;
+    popEn.textContent   = t.dataset.en || '';
     popDef.textContent  = t.dataset.def;
     popup.classList.add('visible');
     popupOpen = true;
