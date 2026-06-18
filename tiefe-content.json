@@ -1,5 +1,215 @@
 [
   {
+    "id": "tiefe-2026-06-19",
+    "date": "2026-06-19",
+    "titel": "Ist KI wirklich KI?",
+    "leitgedanke": "Was geschieht in dem Spalt zwischen einer KI, die ueberzeugend antwortet, und einem Lebewesen, das die Welt tatsaechlich wahrnimmt?",
+    "themen": [
+      "Kuenstliche Intelligenz",
+      "Bewusstsein",
+      "Wahrnehmung"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541495/intelligenz-und-bewusstsein/",
+    "autor": "Ralf Otte",
+    "werk": "Intelligenz und Bewusstsein. Oder: Ist KI wirklich KI? (APuZ 42/2023: Künstliche Intelligenz, Oktober 2023)",
+    "autor_kontext": "Ralf Otte (born 1962) is a German engineer and professor of automation, measurement, and control technology at Ulm University of Applied Sciences. He has spent his career building real systems such as neural networks, signal processing, and industrial control, which gives his skepticism about AI a grounding in the hardware itself: he knows what is and is not inside the machine. He writes popular books arguing that today's AI is powerful yet lacks genuine perception or awareness. This essay appeared in October 2023, as ChatGPT was turning the question of machine intelligence into everyone's question.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Ralf Otte, Professor fuer Automatisierung, fragt nach dem, was die KI-Debatte meist ueberspringt: Ist das, was wir Intelligenz nennen, ueberhaupt dasselbe wie das, was eine Maschine tut? Sein Essay trennt zwei Begriffe, die oft in einem Atemzug genannt werden: Intelligenz und Bewusstsein."
+        },
+        {
+          "typ": "zitat",
+          "text": "Ist KI wirklich KI? Diese Frage beschäftigt seit dem Aufkommen von ChatGPT immer mehr Menschen, auch viele, die sich bisher nicht so sehr um KI gekümmert haben. Und es stehen weitere Fragen im Raum: Wie intelligent ist eigentlich diese KI? Und kann sie uns gefährlich werden?",
+          "quelle": "Ralf Otte, Intelligenz und Bewusstsein. Oder: Ist KI wirklich KI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "Fachleute geben unterschiedliche Antworten darauf, denn der Begriff „Intelligenz“ ist etwas, das man nur schwer [[fassen|hier: begrifflich erfassen, gedanklich festhalten. Etwas, das sich dem Zugriff entzieht.]] kann. Intelligenz ist keine objektive Eigenschaft eines Systems. Man könnte meinen, seit Einführung eines Intelligenzquotienten (IQ) sei die Intelligenz von Systemen messbar oder zumindest vergleichbar. Das stimmt auf gewisse Weise auch, jedoch gilt das nur für die sogenannte rationale beziehungsweise kognitive Intelligenz von Menschen. Wie also kann man Intelligenz erklären? Meine Antwort darauf lautet: Intelligenz in allgemeinster [[Ausprägung|die konkrete Form oder Gestalt, in der etwas auftritt.]] ist die Möglichkeit eines Systems, auf Eingangssignale seiner Umgebung so mit Ausgangssignalen zu reagieren, dass der [[Eigennutzen|der eigene Vorteil, der Nutzen fuer sich selbst.]] des Systems in der weiteren Interaktion mit der Umgebung erhöht wird.",
+          "quelle": "Ralf Otte, Intelligenz und Bewusstsein. Oder: Ist KI wirklich KI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "Ein System kann dabei „alles“ sein. Wenn aber beispielsweise die Intelligenz von Tieren vermessen werden soll, nützen IQ-Tests nichts. Kein Tier besteht solche Tests, dennoch sind Tiere intelligent. Wir alle wissen das von unseren Haustieren. Und was wäre mit der Intelligenz von Pflanzen? Ein IQ-Test für Pflanzen, das klingt zu absurd. Und doch reden wir in der KI aktuell von Systemen, die in der „Hierarchie der Natur“ weit unterhalb der Pflanzen [[anzusiedeln|hier: einzuordnen, an einer Stelle zu verorten.]] sind, nämlich von [[unbelebten|nicht lebendig, ohne Leben; das Gegenteil von belebt.]] Systemen. KI-Systeme, jedenfalls die aktuellen, sind tote Maschinen, und diesen [[unterstellen|jemandem etwas zuschreiben, oft ohne Beleg; hier einer Maschine Intelligenz zusprechen.]] wir eine Intelligenz. Das klingt eigentlich noch absurder als über die Intelligenz von Pflanzen zu diskutieren – und doch zeigt der Erfolg der heutigen KI, dass unbelebte Systeme durchaus intelligent sein können, oder erfolgreich so tun, als ob sie es wären.",
+          "quelle": "Ralf Otte, Intelligenz und Bewusstsein. Oder: Ist KI wirklich KI?, APuZ 42/2023"
+        },
+        {
+          "typ": "absatz",
+          "text": "Otte ordnet Intelligenz in eine Stufenfolge ein, von der schlichten Logik bis zur Kognition heutiger Sprachmodelle. Oberhalb dieser Stufen aber beginne etwas anderes, das keine Maschine erreiche: das Bewusstsein."
+        },
+        {
+          "typ": "zitat",
+          "text": "Bewusstsein in seiner primitivsten Form bedeutet [[Wahrnehmung|das Aufnehmen und Deuten von Sinnesreizen; hier der Kern des Bewusstseins.]]. Oder präziser: Bewusstsein wird in seiner einfachsten Ausprägung definiert als (subjektive) Wahrnehmung innerer (mentaler) Zustände. Für höhere Lebewesen kann man sich ein Bewusstsein vorstellen und für Menschen ist es überzeugend: Unsere mentalen Zustände sind unsere inneren Bilder im Kopf, das subjektive Erleben von Schmerzen, Geräuschen, Farben. Wir Menschen haben ein [[reichhaltiges|reich, vielfaeltig, von grosser Fuelle.]] Innenleben.",
+          "quelle": "Ralf Otte, Intelligenz und Bewusstsein. Oder: Ist KI wirklich KI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "Computer können das alles nicht. Heutige Computer können nichts wahrnehmen, sie [[simulieren|etwas nachbilden oder vortaeuschen, ohne dass es das Echte ist.]] das nur, und hier zeigen Simulation und Original signifikante Unterschiede. Nur ein Beispiel: Ein Mensch sieht die Objekte der Umwelt nicht in seinem Gehirngewebe, also dort, wo sich die energetischen [[Repräsentationen|Darstellungen, Abbilder; hier die gespeicherten Signal-Abbilder im Computer.]] aller Eingangssignale befinden, sondern er sieht sie überraschenderweise vor sich, in der Außenwelt. Ein Computer kann aus seinen Speichern nicht in die Welt „hinaussehen“, er besitzt nur die energetischen Repräsentationen in seinen Speicherzellen. Letztlich ist ein Computer also völlig [[blind|hier im uebertragenen Sinn: ohne echtes Sehen, ohne Wahrnehmung der Welt.]], egal mit wie vielen Videokameras er verbunden ist.",
+          "quelle": "Ralf Otte, Intelligenz und Bewusstsein. Oder: Ist KI wirklich KI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "Heute gibt es kein KI-System, das Bewusstsein besitzt.",
+          "quelle": "Ralf Otte, Intelligenz und Bewusstsein. Oder: Ist KI wirklich KI?, APuZ 42/2023"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Ralf Otte, a professor of automation, asks what the AI debate usually skips over: is what we call intelligence even the same thing as what a machine does? His essay separates two terms that are often named in the same breath: intelligence and consciousness."
+        },
+        {
+          "typ": "zitat",
+          "text": "Is AI really AI? Since the arrival of ChatGPT this question has occupied more and more people, including many who had not concerned themselves much with AI before. And further questions are in the air: just how intelligent is this AI, really? And can it become dangerous to us?",
+          "quelle": "Ralf Otte, Intelligence and Consciousness. Or: Is AI Really AI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "Experts give different answers, for the concept of “intelligence” is something one can grasp only with difficulty. Intelligence is not an objective property of a system. One might think that, ever since the introduction of an intelligence quotient (IQ), the intelligence of systems has been measurable, or at least comparable. That is true in a certain way, yet it holds only for the so-called rational or cognitive intelligence of human beings. So how can intelligence be explained? My answer is this: intelligence in its most general form is the capacity of a system to respond to the input signals of its environment with output signals in such a way that the system's own benefit in its further interaction with the environment is increased.",
+          "quelle": "Ralf Otte, Intelligence and Consciousness. Or: Is AI Really AI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "A system here can be “anything.” But if, for example, the intelligence of animals is to be measured, IQ tests are of no use. No animal passes such tests, and yet animals are intelligent. We all know this from our pets. And what about the intelligence of plants? An IQ test for plants sounds too absurd. And yet in AI we currently speak of systems that, in the “hierarchy of nature,” are to be placed far below plants, namely of inanimate systems. AI systems, at least the present ones, are dead machines, and to these we ascribe an intelligence. That actually sounds even more absurd than debating the intelligence of plants – and yet the success of today's AI shows that inanimate systems can indeed be intelligent, or successfully act as if they were.",
+          "quelle": "Ralf Otte, Intelligence and Consciousness. Or: Is AI Really AI?, APuZ 42/2023"
+        },
+        {
+          "typ": "absatz",
+          "text": "Otte arranges intelligence on a graded scale, from plain logic up to the cognition of today's language models. Above these levels, though, something else begins that no machine reaches: consciousness."
+        },
+        {
+          "typ": "zitat",
+          "text": "Consciousness in its most primitive form means perception. Or more precisely: consciousness in its simplest manifestation is defined as the (subjective) perception of inner (mental) states. For higher living beings one can imagine a consciousness, and for human beings it is convincing: our mental states are our inner images in the head, the subjective experiencing of pain, sounds, colors. We human beings have a rich inner life.",
+          "quelle": "Ralf Otte, Intelligence and Consciousness. Or: Is AI Really AI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "Computers cannot do any of this. Today's computers can perceive nothing; they only simulate it, and here simulation and original show significant differences. Just one example: a human being sees the objects of the environment not in his brain tissue, that is, where the energetic representations of all input signals are located, but rather he sees them, surprisingly, in front of himself, in the outside world. A computer cannot “see out” from its memory into the world; it possesses only the energetic representations in its memory cells. In the end, then, a computer is completely blind, no matter how many video cameras it is connected to.",
+          "quelle": "Ralf Otte, Intelligence and Consciousness. Or: Is AI Really AI?, APuZ 42/2023"
+        },
+        {
+          "typ": "zitat",
+          "text": "Today there is no AI system that possesses consciousness.",
+          "quelle": "Ralf Otte, Intelligence and Consciousness. Or: Is AI Really AI?, APuZ 42/2023"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Ottes Unterscheidung zwischen Simulation und Original wiederholt ein altes Gedankenexperiment: John Searles ‚Chinesisches Zimmer‘. Ein Mensch im Raum schiebt Zeichen nach Regeln hin und her und beantwortet chinesische Fragen perfekt, ohne ein Wort zu verstehen. Genau das, sagt Searle, tue ein Computer. Er verarbeitet Symbole, doch Bedeutung entsteht dabei nicht. Vierzig Jahre spaeter sitzt dasselbe Argument im Kern jeder Debatte ueber ChatGPT.",
+        "en": "Otte's distinction between simulation and original repeats an old thought experiment: John Searle's 'Chinese Room.' A person inside the room shuffles symbols according to rules and answers questions in Chinese perfectly, without understanding a single word. That, Searle says, is exactly what a computer does. It processes symbols, yet no meaning arises in the process. Forty years on, the same argument sits at the heart of every debate about ChatGPT."
+      },
+      {
+        "de": "Dass ein Computer ‚voellig blind‘ bleibe, trifft die Frage, die der Philosoph Thomas Nagel 1974 stellte: Wie fuehlt es sich an, eine Fledermaus zu sein? Intelligenz laesst sich messen, Verhalten beschreiben. Das subjektive Erleben aber, die Farbe von Rot oder der Schmerz selbst, entzieht sich jeder Beschreibung von aussen. Die Forschung nennt das bis heute das schwierige Problem des Bewusstseins, und keine Rechenleistung hat es bisher beruehrt.",
+        "en": "That a computer remains 'completely blind' touches the question the philosopher Thomas Nagel raised in 1974: what is it like to be a bat? Intelligence can be measured, behavior described. But subjective experience, the color red or pain itself, escapes any description from the outside. Research still calls this the hard problem of consciousness, and no amount of computing power has yet reached it."
+      },
+      {
+        "de": "Ottes Beobachtung, dass wir die Welt vor uns sehen und nicht im Gehirngewebe, beruehrt ein Raetsel der Wahrnehmungsphilosophie. Der Reiz trifft die Netzhaut, das Signal wandert nach innen, und doch erscheint die Welt draussen. Maurice Merleau-Ponty beschrieb dieses Nach-aussen-Gerichtetsein als Grundzug des Leibes. Eine Kamera nimmt Licht auf, aber fuer sie erscheint nichts irgendwo. Das ist der Abstand zwischen Aufzeichnen und Wahrnehmen.",
+        "en": "Otte's observation that we see the world out in front of us, while the signal itself stays locked in brain tissue, touches a puzzle in the philosophy of perception. The stimulus hits the retina, the signal travels inward, and yet the world appears outside. Maurice Merleau-Ponty described this outward-directedness as a basic trait of the body. A camera takes in light, but for it nothing appears anywhere. That is the distance between recording and perceiving."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "der Eigennutzen",
+        "definition": "der eigene Vorteil, der Nutzen fuer sich selbst. Bei Otte das Kriterium, an dem sich Intelligenz ueberhaupt erst zeigt.",
+        "beispiel": "Jedes Lebewesen handelt zunaechst nach seinem Eigennutzen.",
+        "etymologie": "Aus 'eigen' und 'Nutzen'; verwandt mit 'nuetzen', einen Vorteil bringen."
+      },
+      {
+        "wort": "die Auspraegung",
+        "definition": "die konkrete Form oder Gestalt, in der etwas auftritt; eine Spielart von etwas Allgemeinem.",
+        "beispiel": "Angst tritt in vielen Auspraegungen auf, von leiser Sorge bis zur Panik.",
+        "etymologie": "Zu 'praegen', urspruenglich Muenzen mit einem Bild versehen; die Auspraegung ist das eingepraegte Muster."
+      },
+      {
+        "wort": "unterstellen",
+        "definition": "jemandem etwas zuschreiben, oft ohne Beleg; auch: annehmen, voraussetzen.",
+        "beispiel": "Man sollte niemandem boese Absichten unterstellen, ohne es zu wissen.",
+        "etymologie": "Aus 'unter' und 'stellen'; bildlich etwas unter eine Behauptung stellen."
+      },
+      {
+        "wort": "unbelebt",
+        "definition": "ohne Leben, nicht lebendig. Steine, Maschinen und Daten gehoeren dazu.",
+        "beispiel": "Die Physik beschreibt auch die unbelebte Natur.",
+        "etymologie": "Verneinung von 'belebt', zu 'Leben'; die Vorsilbe 'un-' kehrt die Bedeutung um."
+      },
+      {
+        "wort": "die Wahrnehmung",
+        "definition": "das Aufnehmen und Deuten von Sinnesreizen. Bei Otte der Kern dessen, was Bewusstsein ausmacht.",
+        "beispiel": "Unsere Wahrnehmung taeuscht uns manchmal.",
+        "etymologie": "Aus 'wahr' und 'nehmen'; urspruenglich 'etwas fuer wahr nehmen', also beachten."
+      },
+      {
+        "wort": "simulieren",
+        "definition": "etwas nachbilden oder vortaeuschen, ohne dass es das Echte ist.",
+        "beispiel": "Der Rechner simuliert das Wetter, ohne dass es regnet.",
+        "etymologie": "Aus dem Lateinischen 'simulare', aehnlich machen, zu 'similis', aehnlich."
+      },
+      {
+        "wort": "die Repraesentation",
+        "definition": "die Darstellung oder das Abbild einer Sache; im Computer die gespeicherte Form eines Signals.",
+        "beispiel": "Im Speicher liegt nur eine Repraesentation des Bildes, nicht das Bild selbst.",
+        "etymologie": "Aus dem Lateinischen 'repraesentare', vergegenwaertigen, gegenwaertig machen."
+      },
+      {
+        "wort": "das Innenleben",
+        "definition": "die Gesamtheit der inneren Empfindungen, Gedanken und Gefuehle eines Menschen.",
+        "beispiel": "Hinter seiner ruhigen Miene verbarg sich ein bewegtes Innenleben.",
+        "etymologie": "Zusammensetzung aus 'innen' und 'Leben'; das Leben, das sich nach innen abspielt."
+      },
+      {
+        "wort": "fassen",
+        "definition": "hier: begrifflich erfassen, gedanklich festhalten. Auch koerperlich: ergreifen.",
+        "beispiel": "Den Begriff der Zeit kann man nur schwer fassen.",
+        "etymologie": "Altes germanisches Wort, urspruenglich 'umschliessen, packen'; verwandt mit 'Fass'."
+      },
+      {
+        "wort": "ansiedeln",
+        "definition": "etwas an einer Stelle einordnen oder verorten; auch: sich niederlassen.",
+        "beispiel": "Die Forscherin siedelt das Phaenomen zwischen Biologie und Physik an.",
+        "etymologie": "Zu 'Siedlung' und 'siedeln'; sich an einem Ort fest niederlassen."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Elativ (absoluter Superlativ ohne Vergleich)",
+        "beispiel": "Intelligenz in allgemeinster Ausprägung ist die Möglichkeit eines Systems …",
+        "erklaerung": "Der Elativ ist ein Superlativ ohne Vergleich; er drueckt einen sehr hohen Grad aus. 'In allgemeinster Auspraegung' bedeutet so viel wie 'auf ganz allgemeine Weise'. Auch 'in seiner primitivsten Form' und 'in seiner einfachsten Auspraegung' bezeichnen einen aeussersten Grad und meinen keinen Rang in einer Reihe.",
+        "erklaerung_en": "The elative is a superlative without comparison; it expresses a very high degree. 'In allgemeinster Auspraegung' means something like 'in a wholly general way.' Likewise 'in seiner primitivsten Form' and 'in seiner einfachsten Auspraegung' denote an extreme degree and imply no rank within a series.",
+        "weitere_beispiele": [
+          "Mit groesster Sorgfalt wurde der Text geprueft.",
+          "Sie antwortete in freundlichster Weise."
+        ]
+      },
+      {
+        "struktur": "Konsekutivsatz mit korrelativem 'so …, dass'",
+        "beispiel": "… auf Eingangssignale seiner Umgebung so mit Ausgangssignalen zu reagieren, dass der Eigennutzen des Systems … erhöht wird.",
+        "erklaerung": "Das 'so' im Hauptsatz kuendigt eine Folge an, die der 'dass'-Satz nennt. Die Reaktion ist so beschaffen, dass eine bestimmte Wirkung eintritt. Korrelat und Konjunktion bilden ein Paar und verbinden Ursache und Folge eng miteinander.",
+        "erklaerung_en": "The 'so' in the main clause announces a consequence that the 'dass' clause then states. The reaction is of such a kind that a particular effect follows. The correlate and the conjunction form a pair and tightly link cause and consequence.",
+        "weitere_beispiele": [
+          "Er sprach so leise, dass ihn niemand verstand.",
+          "Das System ist so gebaut, dass es sich selbst korrigiert."
+        ]
+      },
+      {
+        "struktur": "Konjunktiv I in der eingebetteten Annahme (indirekte Rede)",
+        "beispiel": "Man könnte meinen, seit Einführung eines Intelligenzquotienten (IQ) sei die Intelligenz von Systemen messbar …",
+        "erklaerung": "Nach Verben des Meinens und Sagens steht der eingebettete Satz im Konjunktiv I. 'Sei' statt 'ist' kennzeichnet die Aussage als fremde oder bloss angenommene Position, von der sich der Autor distanziert. Der Konjunktiv I markiert hier eine Annahme, die der Text anschliessend in Frage stellt.",
+        "erklaerung_en": "After verbs of thinking and saying, the embedded clause takes Konjunktiv I. 'Sei' instead of 'ist' marks the statement as someone else's or a merely assumed position from which the author distances himself. Here Konjunktiv I signals an assumption that the text then calls into question.",
+        "weitere_beispiele": [
+          "Er behauptet, er sei zu jeder Zeit erreichbar.",
+          "Sie meinte, das Problem sei laengst geloest."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Der Schein trügt.",
+      "uebersetzung": "Appearances are deceptive.",
+      "anmerkung": "Etwas wirkt echt und ist es doch nicht. Genau diese Lage bescheinigt Otte der KI: Sie tut, als ob sie verstuende, ohne zu verstehen. Die Redensart warnt davor, vom aeusseren Eindruck auf das Wesen zu schliessen."
+    }
+  },
+  {
     "id": "tiefe-2026-06-18",
     "date": "2026-06-18",
     "titel": "Wachstum als Irrweg",
