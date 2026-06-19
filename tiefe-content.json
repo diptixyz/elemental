@@ -1,5 +1,187 @@
 [
   {
+    "id": "tiefe-2026-06-20",
+    "date": "2026-06-20",
+    "titel": "Der Wert der Stunde",
+    "leitgedanke": "Was eine Stunde wert ist, zeigt sich oft erst daran, dass sie nicht bleibt.",
+    "themen": [
+      "Vergaenglichkeit",
+      "Glueck",
+      "Natur"
+    ],
+    "quelle_url": "https://www.deutschelyrik.de/im-grase-2363.html",
+    "autor": "Annette von Droste-Hülshoff",
+    "werk": "Im Grase",
+    "autor_kontext": "Annette von Droste-Huelshoff (1797-1848) was a Westphalian noblewoman and one of the most important German poets of the nineteenth century; the German twenty-mark note carried her portrait until the euro arrived. She wrote much of her strongest work in her forties, often in fragile health, between her family's moated manor near Muenster and a tower room at Meersburg above Lake Constance. 'Im Grase', written around 1844, belongs to those late and productive years, when recurring illness made the question of what a single hour is worth more than a literary pose. Cautious about publishing while she lived, she was fully recognised only after her death at fifty.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Im Sommer 1844 legt sich die Sprecherin ins Gras und macht eine Inventur des Fluechtigen. Droste-Huelshoff misst den Wert einer Stunde an ihrer Vergaenglichkeit und bittet den Himmel am Ende nur um eine Entsprechung: eine Seele fuer das Lied, einen Druck fuer die Hand, einen Traum fuer das Glueck."
+        },
+        {
+          "typ": "zitat",
+          "text": "Süße Ruh', süßer [[Taumel|Taumel: ein schwindelnder Rausch, ein Schwanken ohne Halt. Mehr Hingabe als Sturz.|reeling, giddy intoxication]] im Gras,\nVon des Krautes Arome [[umhaucht|umhauchen: zart umgeben, wie von einem Atem oder Duft umspielt.|breathed around, gently enveloped]],\nTiefe Flut, tief tief trunkne Flut,\nWenn die Wolk' am Azure [[verraucht|verrauchen: sich wie Rauch aufloesen, allmaehlich vergehen.|dissolves like smoke]],\nWenn aufs müde, schwimmende Haupt\nSüßes Lachen gaukelt herab,\nLiebe Stimme [[säuselt|saeuseln: leise rauschen, fluestern; vom Wind oder einer sanften Stimme.|murmurs, rustles softly]] und träuft\nWie die Lindenblüt' auf ein Grab.",
+          "quelle": "Annette von Droste-Huelshoff, Im Grase, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Wenn im Busen die Toten dann,\nJede Leiche sich streckt und regt,\nLeise, leise den [[Odem|der Odem: gehobenes, altes Wort fuer Atem, oft mit dem Hauch des Lebendigen verbunden.|breath (archaic, poetic)]] zieht,\nDie geschloss'ne Wimper bewegt,\nTote Lieb', tote Lust, tote Zeit,\nAll die Schätze, im Schutt [[verwühlt|verwuehlen: durcheinanderwuehlen, im Schutt vergraben und vermengen.|churned up, buried in jumble]],\nSich berühren mit [[schüchternem|schuechtern: scheu, zaghaft; hier der zarte, kaum hoerbare Klang.|shy, timid]] Klang\nGleich den Glöckchen, vom Winde umspielt.",
+          "quelle": "Annette von Droste-Huelshoff, Im Grase, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Stunden, [[flüchtger|fluechtig: rasch vergehend, kaum zu fassen; hier aus metrischen Gruenden verkuerzt.|fleeting, transient]] ihr als der Kuß\nEines Strahls auf den trauernden See,\nAls des ziehenden Vogels Lied,\nDas mir nieder [[perlt|perlen: in feinen Tropfen herabrinnen, wie Tau oder Klang.|trickles down in droplets]] aus der Höh',\nAls des [[schillernden|schillern: in wechselnden Farben glaenzen, irisieren.|iridescent, shimmering]] Käfers Blitz,\nWenn den Sonnenpfad er durcheilt,\nAls der heiße Druck einer Hand,\nDie zum letzten Male verweilt.",
+          "quelle": "Annette von Droste-Huelshoff, Im Grase, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Dennoch, Himmel, immer mir nur\nDieses Eine mir: für das Lied\nJedes freien Vogels im Blau\nEine Seele, die mit ihm zieht,\nNur für jeden [[kärglichen|kaerglich: spaerlich, duerftig, knapp bemessen.|meagre, scant]] Strahl\nMeinen farbig schillernden [[Saum|der Saum: der gesaeumte Rand eines Gewebes; bildlich die schimmernde Kante.|hem, fringe]],\nJeder warmen Hand meinen Druck,\nUnd für jedes Glück meinen Traum.",
+          "quelle": "Annette von Droste-Huelshoff, Im Grase, 1844"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "In the summer of 1844 the speaker lies down in the grass and takes an inventory of the fleeting. Droste-Huelshoff measures the worth of an hour by its transience, and in the end asks Heaven only for a correspondence: a soul for the song, a clasp for the hand, a dream for the happiness."
+        },
+        {
+          "typ": "zitat",
+          "text": "Sweet repose, sweet reeling in the grass,\nbreathed around by the herb's aroma,\ndeep flood, deep, deep drunken flood,\nwhen the cloud dissolves into the azure,\nwhen onto the weary, swimming head\nsweet laughter flutters down,\na dear voice murmurs and trickles\nlike the linden blossom onto a grave.",
+          "quelle": "Annette von Droste-Huelshoff, In the Grass, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "When in the breast the dead ones then,\neach corpse stretches and stirs,\nsoftly, softly draws its breath,\nmoves its closed eyelash,\ndead love, dead joy, dead time,\nall the treasures, churned into the rubble,\ntouch one another with a timid sound\nlike the little bells played upon by the wind.",
+          "quelle": "Annette von Droste-Huelshoff, In the Grass, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Hours, more fleeting you than the kiss\nof a sunbeam upon the mourning lake,\nthan the migrating bird's song\nthat pearls down to me from on high,\nthan the iridescent beetle's flash\nwhen it darts along the sun's path,\nthan the hot pressure of a hand\nthat lingers for the last time.",
+          "quelle": "Annette von Droste-Huelshoff, In the Grass, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Yet, Heaven, always for me only\nthis one thing for me: for the song\nof every free bird in the blue,\na soul that travels along with it,\nonly for every meagre ray\nmy colourfully shimmering hem,\nfor every warm hand my clasp,\nand for every happiness my dream.",
+          "quelle": "Annette von Droste-Huelshoff, In the Grass, 1844"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Epikur schrieb, der Tod gehe uns nichts an, weil wir und er einander nie begegnen. Droste denkt von der anderen Seite her. Gerade weil die Stunde verschwindet, laesst sich ihr Wert ueberhaupt fuehlen: der Kuss eines Strahls, das Lied des Vogels, der Druck einer Hand zum letzten Mal. Dauer wuerde dieselben Dinge in Selbstverstaendlichkeit aufloesen.",
+        "en": "Epicurus wrote that death is nothing to us, since we and it never meet. Droste thinks from the other side. Precisely because the hour vanishes, its value can be felt at all: the kiss of a sunbeam, the song of the bird, the pressure of a hand for the last time. Permanence would dissolve those same things into mere matter-of-course."
+      },
+      {
+        "de": "In der Musik gibt es kein Festhalten. Ein Ton existiert nur, solange er verklingt; Schubert legte seine schoensten Lieder auf dieses Verschwinden an. Drostes Schlussbitte, fuer jedes Vogellied eine Seele zu haben, die mitzieht, beschreibt genau die Haltung des Zuhoerers, der sich vom Klang tragen laesst, so lange er reicht, und ihn dann gehen laesst.",
+        "en": "In music there is no holding on. A tone exists only while it fades; Schubert built his most beautiful songs around this disappearing. Droste's closing plea, to have for every bird's song a soul that moves along with it, describes exactly the listener's stance: letting the sound carry you for as long as it lasts, and then letting it go."
+      },
+      {
+        "de": "Wir fotografieren heute, um Augenblicke zu sichern, und schauen sie dabei oft kaum noch an. Droste kannte diese Versuchung nicht, doch ihr Gedicht zielt woanders hin. Sie bittet den Himmel um eine Entsprechung im Moment selbst, eine Seele fuer das Lied und einen Traum fuer das Glueck, und verzichtet auf jedes Aufbewahren. Ein Foto bleibt; der Augenblick, den es zeigt, war beim Klicken schon vergangen.",
+        "en": "Today we photograph in order to secure moments, and in doing so often barely look at them. Droste did not know this temptation, yet her poem aims elsewhere. She asks Heaven for a correspondence within the moment itself, a soul for the song and a dream for the happiness, and forgoes any keeping. A photo remains; the moment it shows was already past at the click."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "der Taumel",
+        "definition": "ein schwindelnder Rausch, ein Schwanken ohne festen Halt. Mehr Hingabe als Sturz.",
+        "beispiel": "Ein Taumel der Freude erfasste sie, als die Nachricht endlich kam.",
+        "etymologie": "Zu 'taumeln', verwandt mit mittelhochdeutsch 'tumelen'; im Kern die Vorstellung von Schwindel und Betaeubung."
+      },
+      {
+        "wort": "der Odem",
+        "definition": "gehobenes, altes Wort fuer Atem, mit dem Beiklang des Lebendigen.",
+        "beispiel": "Kein Odem regte sich in der stillen Kammer.",
+        "etymologie": "Althochdeutsch 'atum', dieselbe Wurzel wie 'Atem'; in gehobener Sprache als Dublette bewahrt."
+      },
+      {
+        "wort": "säuseln",
+        "definition": "leise rauschen oder fluestern, vom Wind oder einer sanften Stimme.",
+        "beispiel": "Der Wind saeuselte in den Blaettern, kaum hoerbar.",
+        "etymologie": "Lautmalerisch gebildet, verwandt mit 'sausen'; das doppelte s ahmt das weiche Geraeusch nach."
+      },
+      {
+        "wort": "verwühlen",
+        "definition": "durcheinanderwuehlen, etwas vergraben und vermengen.",
+        "beispiel": "Die Erinnerungen lagen verwuehlt im Schutt der Jahre.",
+        "etymologie": "Praefix 'ver-' (vollendend, oft mit Beiklang des Verkehrten) zu 'wuehlen', graben und aufruehren."
+      },
+      {
+        "wort": "schillern",
+        "definition": "in wechselnden Farben glaenzen, je nach Lichteinfall irisieren.",
+        "beispiel": "Der Kaefer schillerte gruen und blau in der Sonne.",
+        "etymologie": "Vermutlich verwandt mit 'schielen', also ein abweichendes, brechendes Schauen des Lichts."
+      },
+      {
+        "wort": "flüchtig",
+        "definition": "rasch vergehend, kaum zu fassen; auch im Sinne von fluechtend.",
+        "beispiel": "Ein fluechtiger Blick, und schon war der Moment vorbei.",
+        "etymologie": "Zu 'fliehen' und 'Flucht'; das Fluechtige entzieht sich, wie ein Fliehender dem Zugriff."
+      },
+      {
+        "wort": "kärglich",
+        "definition": "spaerlich, duerftig, knapp bemessen.",
+        "beispiel": "Die Ernte fiel in diesem Jahr kaerglich aus.",
+        "etymologie": "Zu 'karg' (sparsam, geizig, duerftig); das Suffix '-lich' bildet das Adjektiv des Masses."
+      },
+      {
+        "wort": "der Saum",
+        "definition": "der gesaeumte Rand eines Gewebes; bildlich eine schimmernde Kante.",
+        "beispiel": "Am Saum des Waldes blieb sie einen Augenblick stehen.",
+        "etymologie": "Althochdeutsch 'soum', der umgenaehte Rand eines Stoffes; verwandt mit 'naehen'."
+      },
+      {
+        "wort": "gaukeln",
+        "definition": "sich leicht und unstet hin und her bewegen, wie ein Falter.",
+        "beispiel": "Schmetterlinge gaukelten ueber die Wiese.",
+        "etymologie": "Mittelhochdeutsch 'goukeln', urspruenglich Zauberei und Taeuschung; daher auch der 'Gaukler'."
+      },
+      {
+        "wort": "träufen",
+        "definition": "in einzelnen Tropfen herabfallen oder rinnen.",
+        "beispiel": "Der Tau traeufte langsam von den Halmen.",
+        "etymologie": "Zu 'Tropfen' und 'triefen'; die Lautgruppe traeuf- bewahrt das Bild des einzelnen fallenden Tropfens."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Ellipse des finiten Verbs (verbloser Nominalstil)",
+        "beispiel": "Süße Ruh', süßer Taumel im Gras, / Von des Krautes Arome umhaucht",
+        "erklaerung": "Die ersten Verse kommen ganz ohne finites Verb aus. Statt 'Es ist suesse Ruh im Gras' reiht das Gedicht bloss Nominalphrasen aneinander. Diese Ellipse erzeugt einen schwebenden, zeitlosen Zustand, in dem nichts geschieht und alles nur da ist.",
+        "erklaerung_en": "The opening lines manage entirely without a finite verb. Instead of 'There is sweet repose in the grass', the poem simply strings noun phrases together. This ellipsis creates a hovering, timeless state in which nothing happens and everything merely is.",
+        "weitere_beispiele": [
+          "Draussen Regen, im Zimmer nur das Ticken der Uhr.",
+          "Kein Laut mehr, kein Wind, nur die offene Weite."
+        ]
+      },
+      {
+        "struktur": "Apostrophe mit Inversion (vorangestelltes Praedikativ)",
+        "beispiel": "Stunden, flüchtger ihr als der Kuß / Eines Strahls auf den trauernden See",
+        "erklaerung": "Die Sprecherin wendet sich mit einer Apostrophe direkt an die 'Stunden', als koennten diese sie hoeren. Das Subjekt 'ihr' folgt erst nach dem vorangestellten Praedikativ 'fluechtger'; durch diese Inversion rueckt die Vergaenglichkeit betont an den Versanfang.",
+        "erklaerung_en": "With an apostrophe, the speaker addresses the 'hours' directly, as if they could hear her. The subject 'ihr' comes only after the fronted predicate 'flüchtger'; through this inversion the transience is pushed emphatically to the front of the line.",
+        "weitere_beispiele": [
+          "O Jugend, wie schnell bist du dahin!",
+          "Treulos warst du, mein Herz, von Anfang an."
+        ]
+      },
+      {
+        "struktur": "Partizip I als Genitivattribut",
+        "beispiel": "Als des ziehenden Vogels Lied ... Als des schillernden Käfers Blitz",
+        "erklaerung": "Das Partizip I ('ziehend', 'schillernd') steht als Attribut innerhalb einer vorangestellten Genitivkonstruktion. 'Des ziehenden Vogels Lied' bedeutet 'das Lied des Vogels, der zieht'. Das Partizip verdichtet einen ganzen Relativsatz zu einem einzigen Wort und haelt die Bewegung im Bild fest.",
+        "erklaerung_en": "The present participle ('ziehend', 'schillernd') functions as an attribute inside a preposed genitive construction. 'Des ziehenden Vogels Lied' means 'the song of the bird that is migrating'. The participle condenses a whole relative clause into a single word and holds the motion within the image.",
+        "weitere_beispiele": [
+          "der Klang der rauschenden Baeume",
+          "im Licht der untergehenden Sonne"
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Man muss die Feste feiern, wie sie fallen.",
+      "uebersetzung": "You have to celebrate the festivals as they fall (enjoy good moments whenever they come).",
+      "anmerkung": "Eine Aufforderung, guenstige Augenblicke zu nutzen, solange sie da sind. 'Fallen' meint hier, wann ein Fest zeitlich faellt, also wann es sich gerade ergibt. Drostes Stundengedicht teilt diese Haltung gegenueber dem Fluechtigen."
+    }
+  },
+  {
     "id": "tiefe-2026-06-19",
     "date": "2026-06-19",
     "titel": "Ist KI wirklich KI?",
