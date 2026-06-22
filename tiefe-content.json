@@ -1,5 +1,197 @@
 [
   {
+    "id": "tiefe-2026-06-22",
+    "date": "2026-06-22",
+    "titel": "Der Spass an der Angst",
+    "leitgedanke": "Warum suchen wir freiwillig den Schrecken auf, vor dem unser Koerper uns eigentlich warnen soll?",
+    "themen": [
+      "Angst",
+      "Psychologie",
+      "Vergnuegen"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/angst-2025/571759/der-spass-an-der-angst/",
+    "autor": "Mathias Clasen",
+    "werk": "Der Spaß an der Angst (APuZ 43–45/2025: Angst, 2025)",
+    "autor_kontext": "Mathias Clasen is a Danish literary scholar at Aarhus University, where he co-founded and directs the Recreational Fear Lab, a research group devoted to why humans enjoy being scared. Trained in literature and media, he studies horror through the lens of evolutionary psychology and has written popular books including 'Why Horror Seduces' and 'A Very Nervous Person's Guide to Horror Movies'. His group runs field experiments inside haunted houses and surveys of horror fans, treating fright as data. This essay appeared in German translation in the bpb journal APuZ in its 2025 issue on fear.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Mathias Clasen leitet das Recreational Fear Lab in Aarhus und erforscht, warum Menschen freiwillig die Angst aufsuchen, die ihre Vorfahren einst ums Ueberleben kaempfen liess. Sein Essay aus dem APuZ-Heft 'Angst' dreht die uebliche Sicht um: In der richtigen Dosis kann der Schrecken ein Vergnuegen sein."
+        },
+        {
+          "typ": "zitat",
+          "text": "Für die meisten Menschen ist Angst etwas Negatives – etwas, das man vermeiden, unterdrücken oder ausschalten muss. Das ist verständlich: Angst ist die typische unangenehme Reaktion, die sich angesichts einer Bedrohung einstellt. Der beschleunigte Herzschlag, der trockene Mund, die Kampf-oder-Flucht-Reaktion, all das sind [[Begleiterscheinungen|Erscheinungen, die einen Vorgang begleiten, ohne sein Kern zu sein; oft unerwuenschte Nebenwirkungen.]], die uns in [[Alarmbereitschaft|Zustand erhoehter Wachsamkeit und Handlungsbereitschaft bei Gefahr.]] versetzen, aber auch das Überleben unserer Art seit vielen Jahrtausenden [[gewährleisten|sicherstellen, garantieren. Aus 'Gewaehr leisten', also fuer eine Sache einstehen.]].",
+          "quelle": "Mathias Clasen, Der Spaß an der Angst, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Doch bei der Angst geht es nicht immer um unseren bloßen Überlebensinstinkt. Manchmal streben wir diesen Zustand auch ganz bewusst an. Wir entscheiden uns aus freien Stücken, uns zu ängstigen – etwa bei Horrorfilmen, in Geisterhäusern, bei gruseligen Videospielen oder einer Achterbahnfahrt. Warum? Welchen [[Reiz|Anziehungskraft, Verlockung; in der Biologie zugleich der Sinnesreiz. Was lockt und was die Sinne anstoesst.]] hat Angst in einer gesicherten Situation? Und was – wenn überhaupt – bringt uns diese Erfahrung?",
+          "quelle": "Mathias Clasen, Der Spaß an der Angst, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Die bewusste Entscheidung für die Angst ist Schwerpunkt unserer Forschung am Recreational Fear Lab der Universität Aarhus. In den vergangenen Jahren hat unser Team Feldstudien, Umfragen und Experimente durchgeführt, um zu verstehen, wie und warum Menschen sich zum Vergnügen in Angstsituationen begeben. Dabei haben wir festgestellt, dass dieses Verhalten alles andere als irrational ist. Tatsächlich kann es einen wertvollen Beitrag zu einem gesunden [[Gefühlsleben|die Gesamtheit der Gefuehle und des inneren Empfindens eines Menschen.]] leisten.",
+          "quelle": "Mathias Clasen, Der Spaß an der Angst, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Dieses Verhalten ist nicht einmal ein Phänomen der Moderne. Der Mensch hat [[seit jeher|von jeher, schon immer, solange man zurueckdenken kann.]] Freude daran, sich zum Spaß zu ängstigen. Lange vor der Erfindung des Buchdrucks oder der Aufführung von Theaterstücken erzählten sich unsere Vorfahren [[Schauergeschichten|Erzaehlungen, die Grauen und Gruseln hervorrufen; der Schauer laeuft einem ueber den Ruecken.]] am Lagerfeuer. Anthropolog:innen nehmen an, dass mit diesem abendlichen Geschichtenerzählen der soziale Zusammenhalt gefestigt sowie Warnungen und Ratschläge vermittelt wurden: Geh nicht allein in den dunklen Wald, hüte dich vor Schlangen, vertrau nur deinen eigenen Leuten. In den Mysterienspielen und der Folklore des europäischen Mittelalters [[wimmelte|wimmeln, in grosser, ungeordneter Menge vorhanden sein.]] es von Ungeheuern und blutigen Dramen. Später brachte Shakespeare Geister, Hexen und den Wahnsinn auf die Bühne. Im 18. Jahrhundert zogen Schauerromane die Menschen in ihren Bann. Die Faszination für Gruselgeschichten ist uralt und universal und hat tiefe [[evolutionäre Wurzeln|im Verlauf der Stammesgeschichte entstandene Urspruenge.]].",
+          "quelle": "Mathias Clasen, Der Spaß an der Angst, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Wir nennen dieses Phänomen Recreational Fear: ein Verhalten, bei dem man sich bewusst [[angsteinflößenden|Angst erzeugend, Furcht einfloessend, bedrohlich wirkend.]] Stimuli aussetzt, um sich zu amüsieren. Das mag absurd erscheinen, doch es ist extrem häufig. Eine von unserem Labor durchgeführte Studie auf Grundlage einer [[repräsentativen Stichprobe|eine Auswahl, die die Gesamtbevoelkerung im Kleinen zutreffend abbildet.]] der US-amerikanischen Bevölkerung ergab, dass 55 Prozent der Befragten Vergnügen an gruseliger Unterhaltung hatten, erstaunliche 80 Prozent hatten sich im vorangegangenen Jahr einen Horrorfilm angeschaut. Recreational Fear ist also kein Nischenverhalten, sondern üblich, und beginnt schon früh im Leben.",
+          "quelle": "Mathias Clasen, Der Spaß an der Angst, APuZ 43–45/2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Mathias Clasen directs the Recreational Fear Lab in Aarhus and studies why people voluntarily seek out the fear that once made their ancestors fight for survival. His essay from the APuZ issue 'Fear' turns the usual view around: in the right dose, terror can be a pleasure."
+        },
+        {
+          "typ": "zitat",
+          "text": "For most people, fear is something negative – something one must avoid, suppress, or switch off. That is understandable: fear is the typical unpleasant reaction that sets in when faced with a threat. The accelerated heartbeat, the dry mouth, the fight-or-flight response, all of these are accompanying phenomena that put us on alert, but that have also ensured the survival of our species for many thousands of years.",
+          "quelle": "Mathias Clasen, The Fun of Fear, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Yet with fear it is not always a matter of our mere survival instinct. Sometimes we strive for this state quite deliberately. We choose of our own free will to frighten ourselves – at horror films, in haunted houses, with scary video games, or on a rollercoaster ride. Why? What appeal does fear hold in a secure situation? And what, if anything, does this experience bring us?",
+          "quelle": "Mathias Clasen, The Fun of Fear, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "The deliberate choice of fear is the focus of our research at the Recreational Fear Lab of Aarhus University. In recent years our team has carried out field studies, surveys, and experiments in order to understand how and why people put themselves into frightening situations for pleasure. In doing so we have found that this behaviour is anything but irrational. In fact, it can make a valuable contribution to a healthy emotional life.",
+          "quelle": "Mathias Clasen, The Fun of Fear, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "This behaviour is not even a phenomenon of modernity. Human beings have always taken pleasure in frightening themselves for fun. Long before the invention of printing or the staging of plays, our ancestors told one another tales of horror around the campfire. Anthropologists assume that this evening storytelling strengthened social cohesion and conveyed warnings and advice: do not go alone into the dark forest, beware of snakes, trust only your own people. In the mystery plays and folklore of the European Middle Ages, monsters and bloody dramas abounded. Later, Shakespeare brought ghosts, witches, and madness onto the stage. In the 18th century, gothic novels held people in their spell. The fascination with horror stories is ancient and universal and has deep evolutionary roots.",
+          "quelle": "Mathias Clasen, The Fun of Fear, APuZ 43–45/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "We call this phenomenon Recreational Fear: a behaviour in which one deliberately exposes oneself to fear-inducing stimuli in order to be entertained. This may seem absurd, but it is extremely common. A study carried out by our lab on the basis of a representative sample of the US population found that 55 percent of those surveyed took pleasure in scary entertainment, and an astonishing 80 percent had watched a horror film in the previous year. Recreational Fear is therefore not a niche behaviour but commonplace, and begins early in life.",
+          "quelle": "Mathias Clasen, The Fun of Fear, APuZ 43–45/2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Schon Aristoteles beschrieb in der 'Poetik', dass die Tragoedie Furcht und Mitleid weckt, um beide zu reinigen. Die Zuschauer erleben den Schrecken des Koenigs Oedipus, ohne selbst bedroht zu sein, und gehen geklaert nach Hause. Clasens Geisterhaus ist die juengste Form dieser uralten Buehne: ein Ort, an dem wir den Schrecken proben duerfen, weil wir wissen, dass der Vorhang faellt.",
+        "en": "Aristotle already described, in the 'Poetics', that tragedy arouses fear and pity in order to purge them both. The audience experiences the terror of King Oedipus without being threatened itself, and goes home cleansed. Clasen's haunted house is the most recent form of this ancient stage: a place where we are allowed to rehearse terror because we know the curtain will fall."
+      },
+      {
+        "de": "Im 18. Jahrhundert nannte Edmund Burke jenes Gefuehl das Erhabene: Wer einem Abgrund oder einem Sturm aus sicherer Entfernung gegenuebersteht, empfindet einen Schrecken, der in Lust umschlaegt. Kant griff den Gedanken auf und verlegte das Erhabene ganz in das Gemuet des Betrachters. Die Achterbahn liefert dieselbe Formel in Stahl: echte Wucht, gesicherte Bahn, und im Bauch das Kribbeln zwischen Furcht und Vergnuegen.",
+        "en": "In the 18th century, Edmund Burke called that feeling the sublime: whoever faces an abyss or a storm from a safe distance feels a terror that turns into pleasure. Kant took up the idea and relocated the sublime entirely into the mind of the beholder. The rollercoaster delivers the same formula in steel: real force, a secured track, and in the stomach the tingling between fear and delight."
+      },
+      {
+        "de": "Dass am Lagerfeuer 'Warnungen und Ratschlaege' weitergegeben wurden, trifft eine These Walter Benjamins. In seinem Essay 'Der Erzaehler' klagt er, die Kunst des Erzaehlens schwinde, weil mit ihr der Rat verschwinde, den ein Mensch dem anderen aus gelebter Erfahrung gibt. Die Gruselgeschichte verpackt diesen Rat in Schrecken: Wer den Wolf fuerchten lernt, ueberlebt den Wald.",
+        "en": "That 'warnings and advice' were passed on around the campfire touches on a thesis of Walter Benjamin. In his essay 'The Storyteller', he laments that the art of storytelling is fading, because with it the counsel disappears that one person gives another out of lived experience. The horror story packages this counsel in terror: whoever learns to fear the wolf survives the forest."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "gewährleisten",
+        "definition": "sicherstellen, garantieren, dafuer einstehen, dass etwas eintritt.",
+        "beispiel": "Die Verfassung soll die Grundrechte jedes Buergers gewaehrleisten.",
+        "etymologie": "Aus 'Gewaehr' (Buergschaft, Sicherheit) und 'leisten'. Wer Gewaehr leistet, steht fuer eine Sache ein."
+      },
+      {
+        "wort": "die Begleiterscheinung",
+        "definition": "eine Erscheinung, die einen Vorgang begleitet, ohne sein Kern zu sein; oft eine unerwuenschte Nebenwirkung.",
+        "beispiel": "Kopfschmerzen sind eine haeufige Begleiterscheinung von Schlafmangel.",
+        "etymologie": "Aus 'begleiten' und 'Erscheinung'. Was neben dem Hauptgeschehen auftritt."
+      },
+      {
+        "wort": "die Alarmbereitschaft",
+        "definition": "Zustand erhoehter Wachsamkeit, in dem man jederzeit zu handeln bereit ist.",
+        "beispiel": "Nach der Warnung versetzte der Sturm die ganze Kueste in Alarmbereitschaft.",
+        "etymologie": "Aus 'Alarm' (ital. 'all'arme', zu den Waffen) und 'Bereitschaft'."
+      },
+      {
+        "wort": "der Reiz",
+        "definition": "Anziehungskraft, Verlockung; in der Biologie zugleich der Sinnesreiz, der einen Nerv erregt.",
+        "beispiel": "Der Reiz des Verbotenen ist oft groesser als die Sache selbst.",
+        "etymologie": "Von 'reizen', urspruenglich 'ritzen, anstossen'. Was die Sinne anstoesst."
+      },
+      {
+        "wort": "das Gefühlsleben",
+        "definition": "die Gesamtheit der Gefuehle und des inneren Empfindens eines Menschen.",
+        "beispiel": "Die Musik gab seinem ganzen Gefuehlsleben einen neuen Klang.",
+        "etymologie": "Zusammensetzung aus 'Gefuehl' und 'Leben', das innere statt des aeusseren Lebens."
+      },
+      {
+        "wort": "seit jeher",
+        "definition": "von jeher, schon immer, solange man zurueckdenken kann.",
+        "beispiel": "In dieser Familie wird seit jeher zu Weihnachten gesungen.",
+        "etymologie": "'Jeher' aus 'je' (jemals) und 'her' (von damals bis jetzt)."
+      },
+      {
+        "wort": "die Schauergeschichte",
+        "definition": "eine Erzaehlung, die Grauen und Gruseln hervorruft.",
+        "beispiel": "Am Lagerfeuer gab jeder eine Schauergeschichte zum Besten.",
+        "etymologie": "Aus 'Schauer' (Frostgefuehl, Grauen) und 'Geschichte'. Der Schauer laeuft einem ueber den Ruecken."
+      },
+      {
+        "wort": "wimmeln",
+        "definition": "in grosser, ungeordneter Menge vorhanden sein und sich regen.",
+        "beispiel": "Der Marktplatz wimmelte von Menschen.",
+        "etymologie": "Lautmalerisch verwandt mit 'wimmern', dazu das Bild des Gewuehls."
+      },
+      {
+        "wort": "der Bann",
+        "definition": "ein fesselnder, fast magischer Einfluss; jemanden 'in den Bann ziehen' heisst, ihn voellig zu fesseln.",
+        "beispiel": "Die Erzaehlerin zog den ganzen Saal in ihren Bann.",
+        "etymologie": "Urspruenglich der Befehl oder die Acht eines Herrschers, spaeter der Zauberbann."
+      },
+      {
+        "wort": "angsteinflößend",
+        "definition": "Angst erzeugend, Furcht einfloessend, bedrohlich wirkend.",
+        "beispiel": "Die Maske wirkte im Dunkeln noch angsteinfloessender.",
+        "etymologie": "Aus 'Angst' und 'einfloessen', woertlich 'Angst eingiessen' wie eine Fluessigkeit."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Relativsatz mit vorangestellter Praeposition ('bei dem')",
+        "beispiel": "ein Verhalten, bei dem man sich bewusst angsteinflößenden Stimuli aussetzt",
+        "erklaerung": "Bezieht sich das Relativpronomen auf ein Wort, das im Nebensatz von einer Praeposition abhaengt, so tritt die Praeposition vor das Pronomen: 'bei dem', nicht 'das ... bei'. Das Pronomen richtet sich im Kasus nach der Praeposition (hier Dativ), im Genus nach dem Bezugswort 'Verhalten'.",
+        "erklaerung_en": "When the relative pronoun refers to a word governed by a preposition inside the subordinate clause, the preposition is placed before the pronoun: 'bei dem' (in which). The pronoun takes its case from the preposition (here dative) and its gender from the antecedent 'Verhalten'.",
+        "weitere_beispiele": [
+          "Das Haus, in dem wir wohnten, ist abgerissen.",
+          "Sie nannte einen Grund, an den niemand gedacht hatte."
+        ]
+      },
+      {
+        "struktur": "Asyndetische Reihung von Imperativen in der direkten Rede",
+        "beispiel": "Geh nicht allein in den dunklen Wald, hüte dich vor Schlangen, vertrau nur deinen eigenen Leuten.",
+        "erklaerung": "Drei Aufforderungen stehen ohne verbindendes 'und' nebeneinander, nur durch Kommata getrennt (asyndetisch). Jeder Imperativ verzichtet auf das Subjekt; die Verben 'geh', 'huete dich', 'vertrau' stehen im Imperativ Singular. Die Haeufung ahmt den knappen, eindringlichen Ton einer muendlichen Warnung nach.",
+        "erklaerung_en": "Three commands stand side by side without a connecting 'and', separated only by commas (asyndetic). Each imperative drops the subject; the verbs 'geh', 'huete dich', 'vertrau' are singular imperatives. The piling-up imitates the terse, urgent tone of a spoken warning.",
+        "weitere_beispiele": [
+          "Komm her, setz dich, erzaehl mir alles.",
+          "Bleib ruhig, atme tief, sieh nicht nach unten."
+        ]
+      },
+      {
+        "struktur": "Vorangestellte adverbiale Bestimmung mit Inversion (Verbzweitstellung)",
+        "beispiel": "Lange vor der Erfindung des Buchdrucks oder der Aufführung von Theaterstücken erzählten sich unsere Vorfahren Schauergeschichten am Lagerfeuer.",
+        "erklaerung": "Steht eine lange adverbiale Bestimmung im Vorfeld (hier eine temporale), so rueckt das finite Verb an die zweite Position und das Subjekt dahinter: 'erzaehlten sich unsere Vorfahren'. Das Deutsche haelt die Verbzweitstellung ein, gleichgueltig, was das Vorfeld fuellt.",
+        "erklaerung_en": "When a long adverbial phrase occupies the first position (here a temporal one), the finite verb moves to second position and the subject follows it: 'erzaehlten sich unsere Vorfahren'. German keeps the verb in second position regardless of what fills the first slot.",
+        "weitere_beispiele": [
+          "Erst nach vielen Jahren verstand er den Brief.",
+          "Trotz des Regens gingen die Kinder hinaus."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Das Fürchten lernen",
+      "uebersetzung": "to learn the meaning of fear",
+      "anmerkung": "Aus dem Grimm-Maerchen 'Von einem, der auszog, das Fuerchten zu lernen': Ein Junge zieht in die Welt, weil er nie Angst gespuert hat und sie endlich kennenlernen will. Heute sagt man 'jemanden das Fuerchten lehren', wenn man ihm einen gehoerigen Schrecken einjagt. Clasens Geisterhausgaeste suchen genau diese Lektion freiwillig auf."
+    }
+  },
+  {
     "id": "tiefe-2026-06-20",
     "date": "2026-06-20",
     "titel": "Der Wert der Stunde",
