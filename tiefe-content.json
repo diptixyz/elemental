@@ -1,5 +1,197 @@
 [
   {
+    "id": "tiefe-2026-06-25",
+    "date": "2026-06-25",
+    "titel": "Wir weben, wir weben",
+    "leitgedanke": "Heine verwandelt die Verzweiflung hungernder Weber in einen Rhythmus, der sich wie der Webstuhl selbst durch jede Strophe zieht und drei Maechte zugleich anklagt.",
+    "themen": [
+      "Arbeit",
+      "Gerechtigkeit",
+      "Aufruhr"
+    ],
+    "quelle_url": "https://de.wikisource.org/wiki/Die_schlesischen_Weber",
+    "autor": "Heinrich Heine",
+    "werk": "Die schlesischen Weber, 1844",
+    "autor_kontext": "Heinrich Heine (1797-1856) was a German poet and essayist, born to a Jewish family in Düsseldorf, who became one of the sharpest political voices of the pre-1848 Vormärz era. Famous for lyric poems that Schubert and Schumann set to music, he also wrote satire biting enough to get his work banned across the German states. He spent his last 25 years in exile in Paris, where he wrote this poem in 1844 after weavers in Silesia revolted against starvation wages. His final years were spent paralysed in what he called his \"Matratzengruft\" (mattress-grave), still writing with undimmed wit.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Im Juni 1844 erhoben sich die schlesischen Weber gegen Hungerloehne und Willkuer; das Militaer schoss den Aufstand nieder. Wenige Wochen spaeter schrieb Heine im Pariser Exil dieses Lied, in dem die Weber an ihrem Webstuhl sitzen und in das Tuch der Toten ihren Fluch weben."
+        },
+        {
+          "typ": "zitat",
+          "text": "Im [[düstern|finster, ohne Licht; hier auch die Stimmung der Hoffnungslosigkeit]] Auge keine Thräne,\nSie sitzen am Webstuhl und [[fletschen|die Zaehne drohend entbloessen, wie ein Tier vor dem Angriff]] die Zähne:\nDeutschland, wir weben Dein [[Leichentuch|das Tuch, in das ein Toter gehuellt wird; das Totengewand der alten Ordnung]],\nWir weben hinein den dreifachen Fluch –\nWir weben, wir weben!",
+          "quelle": "Heinrich Heine, Die schlesischen Weber, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Ein Fluch dem Gotte, zu dem wir gebeten\nIn Winterskälte und Hungersnöthen;\nWir haben vergebens gehofft und [[geharrt|von 'harren'; geduldig und lange ausharren, oft vergeblich]],\nEr hat uns [[geäfft|von 'aeffen'; jemanden zum Narren halten, hoehnisch nachahmen]] und gefoppt und genarrt –\nWir weben, wir weben!",
+          "quelle": "Heinrich Heine, Die schlesischen Weber, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Ein Fluch dem König, dem König der Reichen,\nDen unser Elend nicht konnte [[erweichen|ein hartes Herz mild stimmen, jemanden zum Mitleid bewegen]],\nDer den letzten Groschen von uns [[erpreßt|von 'erpressen'; mit Druck und Drohung abnoetigen]],\nUnd uns wie Hunde erschießen läßt –\nWir weben, wir weben!",
+          "quelle": "Heinrich Heine, Die schlesischen Weber, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Ein Fluch dem falschen Vaterlande,\nWo nur [[gedeihen|gut wachsen, sich entfalten; hier bitter ironisch fuer das Wuchern des Schlechten]] Schmach und Schande,\nWo jede Blume früh geknickt,\nWo [[Fäulniß|der Prozess des Verrottens; das Morsche und Verwesende]] und Moder den Wurm [[erquickt|von 'erquicken'; erfrischen, neu beleben; hier naehrt die Verwesung den Wurm]] –\nWir weben, wir weben!",
+          "quelle": "Heinrich Heine, Die schlesischen Weber, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "Das Schiffchen fliegt, der Webstuhl kracht,\nWir weben [[emsig|unermuedlich fleissig, rastlos taetig]] Tag und Nacht –\nAltdeutschland, wir weben Dein Leichentuch,\nWir weben hinein den dreifachen Fluch,\nWir weben, wir weben!",
+          "quelle": "Heinrich Heine, Die schlesischen Weber, 1844"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "In June 1844 the Silesian weavers rose up against starvation wages and arbitrary power; the military shot the uprising down. A few weeks later, in his Paris exile, Heine wrote this song, in which the weavers sit at their loom and weave their curse into the cloth of the dead."
+        },
+        {
+          "typ": "zitat",
+          "text": "In the gloomy eye no tear,\nThey sit at the loom and bare their teeth:\nGermany, we weave your shroud,\nWe weave the threefold curse into it –\nWe weave, we weave!",
+          "quelle": "Heinrich Heine, The Silesian Weavers, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "A curse on the God to whom we prayed\nIn winter's cold and times of hunger;\nWe hoped and waited in vain,\nHe mocked and fooled and made fools of us –\nWe weave, we weave!",
+          "quelle": "Heinrich Heine, The Silesian Weavers, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "A curse on the King, the King of the rich,\nWhom our misery could not soften,\nWho extorted the last penny from us,\nAnd has us shot down like dogs –\nWe weave, we weave!",
+          "quelle": "Heinrich Heine, The Silesian Weavers, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "A curse on the false Fatherland,\nWhere only disgrace and shame thrive,\nWhere every flower is snapped off early,\nWhere rot and mould revive the worm –\nWe weave, we weave!",
+          "quelle": "Heinrich Heine, The Silesian Weavers, 1844"
+        },
+        {
+          "typ": "zitat",
+          "text": "The shuttle flies, the loom cracks,\nWe weave diligently day and night –\nOld Germany, we weave your shroud,\nWe weave the threefold curse into it,\nWe weave, we weave!",
+          "quelle": "Heinrich Heine, The Silesian Weavers, 1844"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Das lateinische 'texere' heisst weben; 'Text' und 'Textil' entspringen demselben Wort. Heine nimmt das woertlich: An ihrem Webstuhl weben die Hungernden ihren Fluch in das Leichentuch, und das Gedicht selbst wird zum Gewebe aus Anklage. Der gleichmaessige Refrain ahmt den Takt des Webstuhls nach, sodass die Form die Arbeit hoerbar macht, die sie beschreibt.",
+        "en": "The Latin 'texere' means to weave; 'text' and 'textile' spring from the same word. Heine takes this literally: at their loom the starving weave their curse into the shroud, and the poem itself becomes a fabric of accusation. The steady refrain imitates the beat of the loom, so that the form makes audible the labour it describes."
+      },
+      {
+        "de": "Der Aufstand von 1844 wurde rasch zum Pruefstein der sozialen Frage. Heines Lied erschien in der Pariser Zeitung 'Vorwaerts!', fuer die auch Karl Marx schrieb, und Preussen verbot es als aufruehrerisch. Ein halbes Jahrhundert spaeter griff Gerhart Hauptmann denselben Stoff in seinem Drama 'Die Weber' auf und machte die Maschine, die den Menschen verschlingt, zur Buehnenfigur.",
+        "en": "The 1844 uprising quickly became a touchstone of the social question. Heine's song appeared in the Paris paper 'Vorwärts!', for which Karl Marx also wrote, and Prussia banned it as seditious. Half a century later Gerhart Hauptmann took up the same material in his drama 'Die Weber' and turned the machine that devours the human being into a figure on the stage."
+      },
+      {
+        "de": "Im Mythos weben die Schicksalsgoettinnen den Lebensfaden jedes Menschen, und Penelope verzoegert ihre Wahl, indem sie nachts wieder auftrennt, was sie tags webt. Heine kehrt das Bild um: Hier weben die Sterblichen das Totentuch fuer die Maechtigen und nehmen das Schicksal selbst in die Hand. Aus dem geduldigen Handwerk wird ein Akt des Gerichts.",
+        "en": "In myth the goddesses of fate weave the thread of each human life, and Penelope delays her choice by unravelling at night what she weaves by day. Heine inverts the image: here the mortals weave the death-cloth for the powerful and take fate into their own hands. Patient craft becomes an act of judgment."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "das Leichentuch",
+        "definition": "das Tuch, in das ein Toter gehuellt wird; das Totengewand.",
+        "beispiel": "Der alten Ordnung wird ihr Leichentuch gewebt.",
+        "etymologie": "Aus 'Leiche' (got. 'leik' = Koerper) und 'Tuch'; verwandt mit engl. 'lich' im Wort 'lychgate'."
+      },
+      {
+        "wort": "der Fluch",
+        "definition": "eine verwuenschende Verwerfung; das Gegenteil des Segens.",
+        "beispiel": "Die Weber weben einen dreifachen Fluch in das Tuch.",
+        "etymologie": "Zu 'fluchen', urspruenglich 'schlagen, stossen'; vgl. got. 'flokan' = klagen."
+      },
+      {
+        "wort": "fletschen",
+        "definition": "die Zaehne drohend entbloessen, wie ein angreifendes Tier.",
+        "beispiel": "Wuetend fletschte der Hund die Zaehne.",
+        "etymologie": "Lautmalerischer Herkunft; seit dem 16. Jahrhundert fuer das Zeigen der Zaehne belegt."
+      },
+      {
+        "wort": "harren",
+        "definition": "geduldig und ausdauernd warten, oft auf etwas, das ausbleibt.",
+        "beispiel": "Sie harrten der Hilfe, die nie kam.",
+        "etymologie": "Mittelhochdeutsch 'harren'; verwandt mit 'beharren' und 'verharren'."
+      },
+      {
+        "wort": "erweichen",
+        "definition": "weich machen; uebertragen jemanden zum Mitleid bewegen.",
+        "beispiel": "Kein Flehen konnte den Richter erweichen.",
+        "etymologie": "Vorsilbe 'er-' (Ergebnis) und 'weich'; vgl. 'erhellen', 'erwecken'."
+      },
+      {
+        "wort": "erpressen",
+        "definition": "durch Druck oder Drohung etwas erzwingen.",
+        "beispiel": "Der Koenig erpresste den letzten Groschen.",
+        "etymologie": "Aus 'er-' und 'pressen' (lat. 'pressare' = druecken)."
+      },
+      {
+        "wort": "gedeihen",
+        "definition": "gut wachsen, sich erfolgreich entwickeln.",
+        "beispiel": "Auf diesem Boden gedeiht nur Unkraut.",
+        "etymologie": "Mittelhochdeutsch 'gedihen'; verwandt mit 'dicht' und 'gediegen'."
+      },
+      {
+        "wort": "die Schmach",
+        "definition": "tiefe Demuetigung; schimpfliche Schande.",
+        "beispiel": "Er ertrug die Schmach der Niederlage.",
+        "etymologie": "Mittelhochdeutsch 'smacheit'; verwandt mit 'schmaehen'."
+      },
+      {
+        "wort": "die Fäulnis",
+        "definition": "der Vorgang des Verrottens; das Morsche und Verwesende.",
+        "beispiel": "Unter dem nassen Laub setzte die Faeulnis ein.",
+        "etymologie": "Zum Verb 'faulen'; die Endung '-nis' bildet abstrakte Vorgaenge."
+      },
+      {
+        "wort": "emsig",
+        "definition": "unermuedlich fleissig, rastlos taetig.",
+        "beispiel": "Emsig wie die Weber arbeitete sie bis tief in die Nacht.",
+        "etymologie": "Althochdeutsch 'emizzig' = bestaendig; heute nur noch in gehobener Sprache."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Reihung von Relativsaetzen mit wechselndem Kasus des Relativpronomens",
+        "beispiel": "dem König der Reichen, / Den unser Elend nicht konnte erweichen, / Der den letzten Groschen von uns erpreßt",
+        "erklaerung": "Auf das maskuline Bezugswort folgen zwei Relativsaetze. Das erste Pronomen 'Den' steht im Akkusativ, weil es Objekt zu 'erweichen' ist; das zweite 'Der' im Nominativ, weil es das Subjekt des folgenden Satzes ist. Das Genus bleibt gleich, der Kasus wechselt mit der Funktion im Nebensatz.",
+        "erklaerung_en": "The masculine antecedent is followed by two relative clauses. The first pronoun 'Den' is accusative, the object of 'erweichen'; the second 'Der' is nominative, the subject of the following clause. The gender stays the same while the case shifts with the function in each clause.",
+        "weitere_beispiele": [
+          "Das ist der Mann, den ich gestern traf und der mir half.",
+          "Sie suchte ein Buch, das vergriffen war und nach dem alle fragten."
+        ]
+      },
+      {
+        "struktur": "Poetische Verbstellung: Modalverb vor Infinitiv im Nebensatz",
+        "beispiel": "Den unser Elend nicht konnte erweichen",
+        "erklaerung": "Im Nebensatz steht das finite Verb normalerweise am Ende: 'den unser Elend nicht erweichen konnte'. Heine stellt das Modalverb 'konnte' vor den Infinitiv 'erweichen', um Reim und Versmass zu wahren. Diese Umstellung war in aelterer Dichtung gelaeufig und wirkt heute betont feierlich.",
+        "erklaerung_en": "In a subordinate clause the finite verb normally stands at the end: 'den unser Elend nicht erweichen konnte'. Heine places the modal verb 'konnte' before the infinitive 'erweichen' to preserve rhyme and metre. This inversion was common in older poetry and sounds emphatically solemn today.",
+        "weitere_beispiele": [
+          "Er wusste, dass er nicht durfte zoegern. (poetisch fuer: zoegern durfte)",
+          "Ein Wort, das niemand wollte sagen. (poetisch fuer: sagen wollte)"
+        ]
+      },
+      {
+        "struktur": "Archaisches Dativ-e (alte Dativendung des Substantivs)",
+        "beispiel": "Ein Fluch dem Gotte ... Ein Fluch dem falschen Vaterlande",
+        "erklaerung": "Maennliche und saechliche Substantive trugen im Dativ Singular frueher die Endung '-e': 'dem Gotte', 'dem Vaterlande', 'im Walde'. Heute ist diese Endung fast verschwunden und nur in festen Wendungen wie 'zu Hause' oder 'im Grunde' erhalten. Bei Heine gibt sie der Anklage einen feierlichen, fast biblischen Ton.",
+        "erklaerung_en": "Masculine and neuter nouns once carried the ending '-e' in the dative singular: 'dem Gotte', 'dem Vaterlande', 'im Walde'. Today this ending has almost vanished and survives only in fixed expressions like 'zu Hause' or 'im Grunde'. In Heine it gives the accusation a solemn, almost biblical tone.",
+        "weitere_beispiele": [
+          "Er sass im Schatten dem Baume gegenueber.",
+          "Dem Kinde war kalt. (gehoben fuer: dem Kind)"
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Da beißt die Maus keinen Faden ab.",
+      "uebersetzung": "There the mouse bites off no thread (= there is no changing it).",
+      "anmerkung": "Die Wendung bedeutet, dass an einer Sache nichts mehr zu aendern ist. Eine Deutung verweist auf alte Spinn- und Webebilder, in denen kein noch so kleines Tier den einmal gesponnenen Faden trennen kann. Im Webergedicht klingt dieselbe Unausweichlichkeit an: Das Tuch ist gewebt, der Fluch gesprochen."
+    }
+  },
+  {
     "id": "tiefe-2026-06-24",
     "date": "2026-06-24",
     "titel": "Einsam unter Vernetzten",
