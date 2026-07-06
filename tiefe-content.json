@@ -1,5 +1,199 @@
 [
   {
+    "id": "tiefe-2026-07-07",
+    "date": "2026-07-07",
+    "titel": "Wenn die Sprache zerfaellt",
+    "leitgedanke": "In einer Zeit des pausenlosen Redens und Postens erzaehlt Hofmannsthals Brief von einem Menschen, dem die Woerter im Mund zu Staub werden und der gerade dadurch die stummen Dinge zum ersten Mal wirklich sieht.",
+    "themen": [
+      "Sprache",
+      "Sprachkrise",
+      "Wahrnehmung"
+    ],
+    "quelle_url": "https://projekt-gutenberg.org/authors/hugo-von-hofmannsthal/books/ein-brief/chapter/1",
+    "autor": "Hugo von Hofmannsthal",
+    "werk": "Ein Brief (Der Brief des Lord Chandos an Francis Bacon), 1902",
+    "autor_kontext": "Hugo von Hofmannsthal (1874-1929) was an Austrian poet, playwright, and essayist, a central figure of Viennese literary modernism. A prodigy who published dazzling verse as a teenager, he wrote 'Ein Brief' at twenty-eight, staging his own break with the lyric virtuosity that had made him famous. He later turned to drama and opera, collaborating with the composer Richard Strauss on works such as 'Der Rosenkavalier'. He died of a stroke in 1929, two days after his son's suicide, and was buried in his Franciscan habit at his own request.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Im Sommer 1902 laesst Hofmannsthal einen erfundenen Lord Chandos an den Philosophen Francis Bacon schreiben. Chandos will erklaeren, warum er zu dichten aufgehoert hat. Was folgt, ist die Schilderung eines Menschen, dem die Sprache unter den Haenden zerfaellt."
+        },
+        {
+          "typ": "zitat",
+          "text": "Es ist mir völlig die [[Fähigkeit|Faehigkeit -- ability, capacity. Von 'faehig', tauglich, imstande.]] [[abhanden gekommen|abhandenkommen -- verloren gehen. 'abhanden' = weg von der Hand, mittelhochdeutschen Ursprungs.]], über irgend etwas [[zusammenhängend|zusammenhaengend -- kohaerent, im Zusammenhang; hier: logisch verknuepft.]] zu denken oder zu sprechen.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Zuerst wurde es mir allmählich unmöglich, ein höheres oder allgemeineres Thema zu besprechen und dabei jene Worte in den Mund zu nehmen, deren sich doch alle Menschen ohne Bedenken geläufig zu bedienen pflegen. Ich empfand ein unerklärliches [[Unbehagen|das Unbehagen -- Unwohlsein, leises Missfallen; von 'behagen', wohltun.]], die Worte »Geist«, »Seele« oder »Körper« nur auszusprechen. Ich fand es innerlich unmöglich, über die Angelegenheiten des Hofes, die Vorkommnisse im Parlament oder was Sie sonst wollen, ein Urtheil herauszubringen. Und dies nicht etwa aus Rücksichten irgendwelcher Art, denn Sie kennen meinen bis zur Leichtfertigkeit gehenden [[Freimut|der Freimut -- Freimuetigkeit, das offene Aussprechen der Meinung.]]: sondern die abstrakten Worte, deren sich doch die Zunge naturgemäß bedienen muß, um irgendwelches Urtheil an den Tag zu geben, zerfielen mir im Munde wie [[modrige|modrig -- moderig, faulig-feucht; von 'Moder', verrottendes Material.]] Pilze.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Es zerfiel mir alles in Teile, die Teile wieder in Teile und nichts mehr ließ sich mit einem Begriff umspannen. Die einzelnen Worte schwammen um mich; sie [[gerannen|gerinnen -- fest werden, stocken (wie Blut oder Milch); Praeteritum 'gerannen'.]] zu Augen die mich anstarrten und in die ich wieder hineinstarren muß: [[Wirbel|der Wirbel -- Strudel, Sog; auch Aufregung. Verwandt mit 'werben', ur-spruenglich sich drehen.]] sind sie, in die hinabzusehen mich schwindelt, die sich unaufhaltsam drehen und durch die hindurch man ins Leere kommt.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Ich kann nicht erwarten, daß Sie mich ohne Beispiel verstehen, und ich muß Sie um [[Nachsicht|die Nachsicht -- Milde, Duldsamkeit; woertlich 'nachsehen', etwas durchgehen lassen.]] für die Kläglichkeit meiner Beispiele bitten. Eine Gießkanne, eine auf dem Feld verlassene Egge, ein Hund in der Sonne, ein ärmlicher Kirchhof, ein Krüppel, ein kleines Bauernhaus, alles dies kann das [[Gefäß|das Gefaess -- Behaelter; hier bildlich der Traeger oder Empfaenger von etwas.]] meiner [[Offenbarung|die Offenbarung -- Enthuellung, Epiphanie; das ploetzliche Sichtbarwerden eines Sinns.]] werden. Jeder dieser Gegenstände und die tausend anderen ähnlichen, über die sonst ein Auge mit selbstverständlicher [[Gleichgültigkeit|die Gleichgueltigkeit -- Teilnahmslosigkeit; woertlich: alles gilt gleich viel.]] hinweggleitet, kann für mich plötzlich in irgendeinem Moment, den herbeizuführen auf keine Weise in meiner Gewalt steht, ein erhabenes und rührendes [[Gepräge|das Gepraege -- Praegung, Charakter; von einer Muenze 'gepraegt', ein aufgedruecktes Wesen.]] annehmen, das auszudrücken mir alle Worte zu arm scheinen.",
+          "quelle": "Hugo von Hofmannsthal, Ein Brief, 1902"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "In the summer of 1902, Hofmannsthal has an invented Lord Chandos write to the philosopher Francis Bacon. Chandos wants to explain why he has given up writing poetry. What follows is the account of a man in whose hands language falls apart."
+        },
+        {
+          "typ": "zitat",
+          "text": "I have completely lost the ability to think or speak coherently about anything at all.",
+          "quelle": "Hugo von Hofmannsthal, A Letter (The Letter of Lord Chandos), 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "At first it gradually became impossible for me to discuss a loftier or more general subject and in doing so to take into my mouth those words which all people are accustomed to use fluently without a second thought. I felt an inexplicable unease at merely uttering the words “spirit,” “soul,” or “body.” I found it inwardly impossible to bring out a judgement about the affairs of the court, the goings-on in Parliament, or whatever else you like. And this not out of considerations of any kind, for you know my frankness, which borders on recklessness: rather the abstract words which the tongue must naturally employ in order to bring any judgement to light crumbled in my mouth like mouldy mushrooms.",
+          "quelle": "Hugo von Hofmannsthal, A Letter, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "Everything fell apart for me into pieces, the pieces again into pieces, and nothing could any longer be encompassed by a single concept. The individual words swam around me; they congealed into eyes which stared at me and into which I in turn must stare: they are whirlpools, into which it makes me dizzy to look down, which turn ceaselessly and through which one arrives at emptiness.",
+          "quelle": "Hugo von Hofmannsthal, A Letter, 1902"
+        },
+        {
+          "typ": "zitat",
+          "text": "I cannot expect you to understand me without an example, and I must beg your indulgence for the wretchedness of my examples. A watering can, a harrow left standing in a field, a dog in the sun, a poor churchyard, a cripple, a small farmhouse, all of this can become the vessel of my revelation. Each of these objects, and the thousand others like them over which an eye otherwise glides with matter-of-course indifference, can suddenly, at some moment which it is in no way within my power to bring about, take on a sublime and moving character which all words seem to me too poor to express.",
+          "quelle": "Hugo von Hofmannsthal, A Letter, 1902"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Zwei Jahrzehnte vor Wittgensteins Satz, die Grenzen der Sprache seien die Grenzen der Welt, beschreibt Chandos genau diese Grenze von innen. Der Wiener Sprachphilosoph Fritz Mauthner hatte kurz zuvor seine 'Beitraege zu einer Kritik der Sprache' veroeffentlicht, in denen die abstrakten Begriffe als leere Huelsen erscheinen. Hofmannsthal verwandelt diesen Gedanken in eine koerperliche Erfahrung: das Wort zerfaellt im Mund.",
+        "en": "Two decades before Wittgenstein's claim that the limits of language are the limits of the world, Chandos describes exactly this limit from the inside. The Viennese philosopher of language Fritz Mauthner had shortly before published his 'Contributions to a Critique of Language', in which abstract concepts appear as empty shells. Hofmannsthal turns this thought into a bodily experience: the word crumbles in the mouth."
+      },
+      {
+        "de": "Die Giesskanne und die verlassene Egge, die ploetzlich leuchten, sind Verwandte von Rilkes Dinggedichten, die im selben Jahrzehnt entstehen. Beide Dichter suchen den Augenblick, in dem ein stummer Gegenstand mehr sagt als jeder Begriff. Was der Maler Chardin im achtzehnten Jahrhundert mit einem Wasserglas und ein paar Zwiebeln gelang, versucht Chandos mit Worten einzufangen und scheitert genau daran.",
+        "en": "The watering can and the abandoned harrow that suddenly shine are relatives of Rilke's thing-poems, which arise in the same decade. Both poets search for the moment in which a mute object says more than any concept. What the painter Chardin achieved in the eighteenth century with a glass of water and a few onions, Chandos tries to capture in words, and fails at precisely that."
+      },
+      {
+        "de": "Heute produzieren wir mehr Text als je zuvor und trauen ihm zugleich immer weniger. Chandos' Verstummen wirkt darum seltsam aktuell: Es benennt die Erschoepfung an einer Sprache, die alles erklaeren soll und dabei die Dinge selbst verfehlt. Seine Rettung findet er im Blick, der auf einem Hund in der Sonne ruht, ohne ihn sofort in Worte fassen zu wollen.",
+        "en": "Today we produce more text than ever before and at the same time trust it less and less. Chandos's falling silent therefore feels strangely current: it names the exhaustion with a language that is meant to explain everything and in doing so misses the things themselves. His rescue lies in the gaze that rests on a dog in the sun without wanting to put it into words at once."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Fähigkeit",
+        "definition": "ability, capacity -- what one is able to do. Bei Chandos ist es die verlorene Faehigkeit zu denken und zu sprechen.",
+        "beispiel": "Ihm war die Faehigkeit abhandengekommen, einfache Saetze zu bilden.",
+        "etymologie": "Von 'faehig' (tauglich, geeignet), verwandt mit 'fangen' im Sinne von aufnehmen koennen."
+      },
+      {
+        "wort": "abhandenkommen",
+        "definition": "to get lost, go missing -- etwas entgleitet einem, ohne dass man weiss, wohin.",
+        "beispiel": "Auf der Reise ist mir mein Notizbuch abhandengekommen.",
+        "etymologie": "'abhanden' aus mittelhochdeutsch 'ab handen', also 'weg von den Haenden'."
+      },
+      {
+        "wort": "das Unbehagen",
+        "definition": "unease, discomfort -- ein leises, schwer zu benennendes Missfallen.",
+        "beispiel": "Beim Betreten des Raumes ergriff ihn ein dumpfes Unbehagen.",
+        "etymologie": "Verneinung von 'Behagen' (Wohlgefuehl), zu 'behagen', jemandem zusagen."
+      },
+      {
+        "wort": "der Freimut",
+        "definition": "candor, frankness -- der Mut, offen und ungeschminkt zu sprechen.",
+        "beispiel": "Mit entwaffnendem Freimut gab sie ihren Irrtum zu.",
+        "etymologie": "Zusammensetzung aus 'frei' und 'Mut', Lehnpraegung nach lateinisch 'candor'."
+      },
+      {
+        "wort": "modrig",
+        "definition": "musty, mouldy -- feucht und faulig riechend, wie verrottendes Holz.",
+        "beispiel": "Im alten Keller hing ein modriger Geruch.",
+        "etymologie": "Zu 'Moder' (Faeulnis, verrottende Substanz), verwandt mit 'Moor'."
+      },
+      {
+        "wort": "gerinnen",
+        "definition": "to congeal, curdle -- fluessig war es, nun wird es fest und stockt.",
+        "beispiel": "Die Milch war ueber Nacht geronnen.",
+        "etymologie": "Althochdeutsch 'rinnan' (fliessen) mit Vorsilbe 'ge-', also 'zusammenfliessen und stocken'."
+      },
+      {
+        "wort": "der Wirbel",
+        "definition": "whirl, vortex -- ein drehender Sog; auch uebertragen fuer Aufregung oder Trubel.",
+        "beispiel": "Das Boot geriet in einen gefaehrlichen Wirbel.",
+        "etymologie": "Zu 'werben' in der alten Bedeutung 'sich drehen', vergleiche 'herumwirbeln'."
+      },
+      {
+        "wort": "die Nachsicht",
+        "definition": "leniency, forbearance -- die Bereitschaft, einen Fehler milde durchgehen zu lassen.",
+        "beispiel": "Er bat um Nachsicht fuer seine holprige Aussprache.",
+        "etymologie": "Zu 'nachsehen' im Sinne von 'jemandem etwas durchgehen lassen'."
+      },
+      {
+        "wort": "das Gefäß",
+        "definition": "vessel, container -- hier bildlich: der Traeger, in dem sich etwas offenbart.",
+        "beispiel": "Das schlichte Gedicht wurde zum Gefaess einer grossen Trauer.",
+        "etymologie": "Zu 'fassen' (ergreifen, aufnehmen); ein Gefaess ist, was etwas fasst."
+      },
+      {
+        "wort": "die Offenbarung",
+        "definition": "revelation, epiphany -- das ploetzliche Sichtbarwerden eines verborgenen Sinns.",
+        "beispiel": "Der Anblick des Meeres war fuer das Kind eine Offenbarung.",
+        "etymologie": "Zu 'offenbaren' (offen darlegen), Lehnuebersetzung des kirchlichen 'revelatio'."
+      },
+      {
+        "wort": "das Gepräge",
+        "definition": "stamp, character -- die unverwechselbare Praegung, die etwas kennzeichnet.",
+        "beispiel": "Die Altstadt hat ein mittelalterliches Gepraege bewahrt.",
+        "etymologie": "Zu 'praegen', urspruenglich das Einschlagen eines Bildes in eine Muenze."
+      },
+      {
+        "wort": "hinweggleiten",
+        "definition": "to glide over -- ueber etwas hinwegsehen, ohne es wirklich wahrzunehmen.",
+        "beispiel": "Der Blick glitt gleichgueltig ueber die vertrauten Dinge hinweg.",
+        "etymologie": "Aus 'hinweg' (fort, darueber) und 'gleiten', sanft und ohne Halt bewegen."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Relativsatz mit satzwertigem Infinitiv (Relativpronomen als Objekt eines Infinitivs)",
+        "beispiel": "in irgendeinem Moment, den herbeizuführen auf keine Weise in meiner Gewalt steht",
+        "erklaerung": "Das Relativpronomen 'den' bezieht sich auf 'Moment' und ist zugleich das Objekt des Infinitivs 'herbeizufuehren'; das finite Verb 'steht' hat sein eigenes Subjekt. Aufgeloest: einen Moment, dessen Herbeifuehrung nicht in meiner Gewalt steht. Der satzwertige Infinitiv verdichtet einen ganzen Nebensatz zu einer knappen Wendung.",
+        "erklaerung_en": "The relative pronoun 'den' refers back to 'Moment' and at the same time serves as the object of the infinitive 'herbeizuführen' (to bring about); the finite verb 'steht' has its own subject. Unpacked: a moment the bringing-about of which is in no way within my power. The infinitive compresses a whole clause into a tight phrase.",
+        "weitere_beispiele": [
+          "Es gibt Aufgaben, die zu loesen niemandem gelingt.",
+          "Ein Wunsch, den zu erfuellen ihm die Mittel fehlten, blieb offen."
+        ]
+      },
+      {
+        "struktur": "Verb mit Genitivobjekt: 'sich einer Sache bedienen'",
+        "beispiel": "die abstrakten Worte, deren sich doch die Zunge naturgemäß bedienen muß",
+        "erklaerung": "Das Verb 'sich bedienen' (gebrauchen, benutzen) regiert ein Genitivobjekt. Darum steht das Relativpronomen im Genitiv: 'deren'. Diese Rektion wirkt heute gehoben und alt, bleibt aber grammatisch praezise; die alltaegliche Alternative waere 'die Worte, die die Zunge benutzt'.",
+        "erklaerung_en": "The verb 'sich bedienen' (to make use of) governs a genitive object, so the relative pronoun appears in the genitive: 'deren'. This case-government sounds elevated and archaic today but stays grammatically exact; the everyday alternative would be 'the words the tongue uses'.",
+        "weitere_beispiele": [
+          "Er bediente sich einer List, um zu entkommen.",
+          "Solcher Mittel bedient sich nur, wer verzweifelt ist."
+        ]
+      },
+      {
+        "struktur": "Vorangestellter Infinitiv als logisches Subjekt ('das auszudrücken')",
+        "beispiel": "ein erhabenes und rührendes Gepräge annehmen, das auszudrücken mir alle Worte zu arm scheinen",
+        "erklaerung": "Der Infinitiv 'auszudruecken' hat mit 'das' (= das Gepraege) ein vorangestelltes Objekt. Die Fuegung 'das auszudruecken' bildet das logische Subjekt zu 'scheinen': Es zu sagen, dazu scheinen alle Worte zu arm. Die Voranstellung rueckt das Unsagbare betont an den Satzanfang.",
+        "erklaerung_en": "The infinitive 'auszudrücken' (to express) takes 'das' (= the imprint) as a preposed object. The phrase 'das auszudrücken' serves as the logical subject of 'scheinen': to express it, all words seem too poor. The fronting foregrounds the inexpressible.",
+        "weitere_beispiele": [
+          "Das zu begreifen faellt mir schwer.",
+          "Ihn zu ueberzeugen schien von Anfang an aussichtslos."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Reden ist Silber, Schweigen ist Gold.",
+      "uebersetzung": "Speaking is silver, silence is gold.",
+      "anmerkung": "Das Sprichwort adelt das Schweigen ueber das Reden. Bei Hofmannsthal bekommt es eine bittere Wendung: Chandos verstummt, weil ihm die Sprache abhandenkommt, und sein Gold ist ein erzwungenes."
+    }
+  },
+  {
     "id": "tiefe-2026-07-06",
     "date": "2026-07-06",
     "titel": "Das kurze Fenster der Solidaritaet",
