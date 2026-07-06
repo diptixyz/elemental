@@ -1,5 +1,187 @@
 [
   {
+    "id": "tiefe-2026-07-06",
+    "date": "2026-07-06",
+    "titel": "Das kurze Fenster der Solidaritaet",
+    "leitgedanke": "Vertrauen in den Staat waechst in der ersten Stunde einer Krise fast von selbst und zerfaellt, sobald die Bedrohung bleibt und die Loesung ausbleibt.",
+    "themen": [
+      "Vertrauen",
+      "Demokratie",
+      "Krise"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/gesellschaftlicher-zusammenhalt-2025/571525/politisches-vertrauen-in-krisenzeiten/",
+    "autor": "Gundula Zoch, Steffen Wamsler",
+    "werk": "Politisches Vertrauen in Krisenzeiten (APuZ 42/2025)",
+    "autor_kontext": "Gundula Zoch is a junior professor for the sociology of social inequality at the Carl von Ossietzky University of Oldenburg; Steffen Wamsler is a political scientist and researcher at the Leibniz Institute for Educational Trajectories (LIfBi) in Bamberg. Both belong to a generation of German social scientists whose field was reshaped by the Covid-19 pandemic, which turned public trust from an abstraction into a daily headline. Drawing on survey data, this essay explains why a frightened public first closes ranks behind its government and later turns on it. Their focus stays on inequality and on who enters each new crisis already doubting.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Zoch und Wamsler untersuchen, wie sich das Vertrauen der Buergerinnen und Buerger in den Staat waehrend einer Krise verschiebt -- warum es zunaechst steigt und dann oft tiefer faellt als zuvor."
+        },
+        {
+          "typ": "zitat",
+          "text": "Krisen eröffnen zumeist ein Fenster der Solidarisierung: Sobald äußere Bedrohungen nationale oder gruppenspezifische Sicherheit und [[Handlungsfähigkeit|capacity to act, agency. The power to still do something when it counts.]] infrage stellen, versammeln sich Bürgerinnen und Bürger [[reflexhaft|reflexively, without deliberation. As if the reaction skipped the step of thinking.]] hinter der eigenen Regierung – der klassische Rally-round-the-flag-Effekt. Patriotische Gesten, verkürzte Nachrichtendiskurse und das [[diffuse|(von diffus) vague, without clear contour. A need one cannot quite locate.]] Bedürfnis, „jemand“ möge das Steuer übernehmen, lassen selbst skeptische [[Milieus|social milieus, environments. The circles whose habits and views shape a person.]] vorübergehend milde urteilen. Dieses Phänomen ist in der internationalen Forschung bereits aus Kriegszeiten, aber auch im Kontext von Terroranschlägen, Naturkatastrophen oder Gefahren für die öffentliche Gesundheit bekannt. Letzteres konnte im Zuge der Covid-19-Pandemie in vielen Ländern der Welt nachgewiesen werden.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Politisches Vertrauen in Krisenzeiten, APuZ 42/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Allerdings ist dieser Rally-Effekt oft [[kurzlebig|short-lived, fleeting. It fades almost as soon as it appears.]] und lässt mit zunehmender Krisendauer meist schnell nach. So formiert sich beispielsweise häufig politischer Protest gegen das Krisenmanagement einer Regierung, wenn deren Bewertung durch die Bevölkerung aufgrund einer nicht hinreichend bearbeiteten Bedrohung zunehmend kritisch ausfällt. Insbesondere im Zuge meist langfristiger Finanz- und Wirtschaftskrisen kommt es dann auch zu einer [[Erosion|erosion. A slow wearing away, here of trust rather than of rock.]] von politischem Vertrauen unter das Vorkrisenniveau, mit langfristigen Folgen.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Politisches Vertrauen in Krisenzeiten, APuZ 42/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Die Dynamik von politischem Vertrauen in Krisenzeiten hängt neben den genannten Evaluationen auch von emotionalen Faktoren ab. So ist der Rally-Effekt bei Personen, die mit Angst auf Bedrohungen reagieren, stärker, da für diese Menschen Sicherheit ein zentraler Wert ist. Wut hingegen führt dazu, dass die Schuld für einen [[Missstand|grievance, deplorable state of affairs. A wrong that calls for correction.]] bei der Regierung gesucht wird, weshalb Vertrauen im Krisenverlauf schneller sinkt.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Politisches Vertrauen in Krisenzeiten, APuZ 42/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Zu diesen [[affektiven|(von affektiv) affective, emotional. Belonging to feeling rather than to cool judgment.]] Dynamiken treten strukturelle Filter hinzu: wahrgenommene Kompetenz, das Fairnessurteil über staatliches Handeln und vor allem die sozialen Erfahrungswelten entlang von Bildung, Einkommen und sozialer Herkunft. Wer wiederholt an bürokratischen Hürden scheitert oder sich von „denen da oben“ oder „den Medien“ ignoriert fühlt, startet mit geringeren Vertrauenswerten in jede neue Krise. Im Zusammenspiel von Emotionen und langfristigen Ungleichheiten entscheidet sich häufig, ob eine Krise als [[Bewährungsprobe|acid test, ordeal that proves one's worth. A trial that shows whether something holds.]] oder als weiterer Angriff auf das politische Vertrauen in Erinnerung bleibt.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Politisches Vertrauen in Krisenzeiten, APuZ 42/2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Zoch and Wamsler examine how citizens' trust in the state shifts during a crisis: why it first rises and then often falls lower than before."
+        },
+        {
+          "typ": "zitat",
+          "text": "Crises usually open a window of solidarity: as soon as external threats call into question national or group-specific security and capacity to act, citizens rally reflexively behind their own government – the classic rally-round-the-flag effect. Patriotic gestures, foreshortened news discourses and the diffuse need for „someone“ to take the wheel make even skeptical milieus judge mildly for a while. This phenomenon is already known in international research from times of war, but also in the context of terrorist attacks, natural disasters or dangers to public health. The latter could be demonstrated in the course of the Covid-19 pandemic in many countries around the world.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Political Trust in Times of Crisis, APuZ 42/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "However, this rally effect is often short-lived and usually fades quickly as the crisis wears on. Thus, for example, political protest against a government's crisis management often forms when the population's assessment of it turns increasingly critical because of a threat that has not been sufficiently dealt with. Especially in the course of mostly long-term financial and economic crises, an erosion of political trust below the pre-crisis level then occurs as well, with long-term consequences.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Political Trust in Times of Crisis, APuZ 42/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "The dynamics of political trust in times of crisis depend, besides the evaluations already mentioned, also on emotional factors. Thus the rally effect is stronger among people who react to threats with fear, since for these people security is a central value. Anger, by contrast, leads to the blame for a grievance being sought with the government, which is why trust sinks more quickly over the course of the crisis.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Political Trust in Times of Crisis, APuZ 42/2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "To these affective dynamics are added structural filters: perceived competence, the fairness judgment about state action and, above all, the social worlds of experience along the lines of education, income and social origin. Whoever repeatedly fails at bureaucratic hurdles or feels ignored by „those up there“ or „the media“ starts each new crisis with lower levels of trust. In the interplay of emotions and long-term inequalities it is often decided whether a crisis is remembered as a test to be passed or as another attack on political trust.",
+          "quelle": "Gundula Zoch, Steffen Wamsler, Political Trust in Times of Crisis, APuZ 42/2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Die reflexhafte Sammlung hinter der Autoritaet unter Bedrohung erinnert an Thomas Hobbes: In seinem Leviathan treibt die Furcht vor dem gewaltsamen Tod die Menschen dazu, ihre Macht einem Souveraen zu uebergeben. Zoch und Wamsler fuegen eine zeitliche Bedingung hinzu. Haelt die Gefahr an und versagt der Staat, loest dieselbe Furcht das Vertrauen wieder auf, das sie zuvor geschaffen hatte.",
+        "en": "The reflexive gathering behind authority under threat recalls Thomas Hobbes: in his Leviathan, the fear of violent death drives people to hand their power to a sovereign. Zoch and Wamsler add a temporal condition. If the danger persists and the state fails, the same fear dissolves the very trust it had created."
+      },
+      {
+        "de": "Der Protest gegen ein misslungenes Krisenmanagement laesst sich mit Albert Hirschmans Unterscheidung von Abwanderung und Widerspruch lesen. Wer dem Staat noch Loyalitaet entgegenbringt, waehlt eher den Widerspruch als den Rueckzug. Erodiert das Vertrauen unter das Vorkrisenniveau, kippt Widerspruch in Abwanderung: in Wahlenthaltung, in die Wendung zu Alternativen, in ein Misstrauen, das keine neue Krise mehr besaenftigt.",
+        "en": "The protest against failed crisis management can be read through Albert Hirschman's distinction between exit and voice. Whoever still feels loyalty to the state tends to choose voice over withdrawal. Once trust erodes below the pre-crisis level, voice tips into exit: into abstention, into the turn toward alternatives, into a distrust that no new crisis can soothe."
+      },
+      {
+        "de": "Dass Angst und Wut das Vertrauen in entgegengesetzte Richtungen lenken, kannte schon Aristoteles. In seiner Rhetorik ordnet er die Leidenschaften danach, wie sie das Urteil des Publikums formen: Furcht macht lenkbar, Zorn sucht einen Schuldigen. Die empirische Vertrauensforschung bestaetigt diese alte Beobachtung mit Umfragedaten und zeigt, wie politisch folgenreich die Wahl zwischen beiden Gefuehlen bleibt.",
+        "en": "That fear and anger steer trust in opposite directions was already known to Aristotle. In his Rhetoric he orders the passions by how they shape the audience's judgment: fear makes one governable, wrath looks for someone to blame. Empirical trust research confirms this old observation with survey data and shows how politically consequential the choice between the two feelings remains."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "reflexhaft",
+        "definition": "reflexive, without deliberation -- as if the reaction skipped the step of thinking.",
+        "beispiel": "Bei Gefahr greifen viele reflexhaft nach einer starken Fuehrung.",
+        "etymologie": "Von lateinisch reflexus, zurueckgebogen; das Reflexhafte ist die zurueckgeworfene, unwillkuerliche Antwort."
+      },
+      {
+        "wort": "diffus",
+        "definition": "diffuse, vague, without clear contour -- a feeling one cannot quite locate.",
+        "beispiel": "Ein diffuses Unbehagen lag ueber der ganzen Debatte.",
+        "etymologie": "Von lateinisch diffundere, auseinanderfliessen; das Diffuse zerfliesst und hat keine feste Grenze."
+      },
+      {
+        "wort": "das Milieu",
+        "definition": "milieu, social environment -- the circle whose habits and views shape a person.",
+        "beispiel": "In diesem Milieu galt Misstrauen gegen den Staat als selbstverstaendlich.",
+        "etymologie": "Aus dem Franzoesischen mi (Mitte) und lieu (Ort): der Ort in der Mitte, das Umfeld."
+      },
+      {
+        "wort": "kurzlebig",
+        "definition": "short-lived, fleeting -- something that fades almost as soon as it appears.",
+        "beispiel": "Die Begeisterung war kurzlebig und verflog nach wenigen Wochen.",
+        "etymologie": "Zusammensetzung aus kurz und leben; woertlich: nur kurz lebend."
+      },
+      {
+        "wort": "die Erosion",
+        "definition": "erosion -- a slow wearing away, here of trust rather than of rock.",
+        "beispiel": "Die schleichende Erosion des Vertrauens bemerkte niemand sofort.",
+        "etymologie": "Von lateinisch erodere, abnagen; urspruenglich geologisch fuer den Abtrag von Gestein."
+      },
+      {
+        "wort": "der Missstand",
+        "definition": "grievance, deplorable state of affairs -- a wrong that calls for correction.",
+        "beispiel": "Die Buerger machten die Regierung fuer jeden Missstand verantwortlich.",
+        "etymologie": "Aus miss- (verfehlt, schlecht) und Stand (Zustand): ein schlechter Zustand."
+      },
+      {
+        "wort": "affektiv",
+        "definition": "affective, emotional -- belonging to feeling rather than to cool judgment.",
+        "beispiel": "Politische Urteile sind oft affektiv gefaerbt, nicht rein rational.",
+        "etymologie": "Von lateinisch afficere, einwirken; der Affekt ist die Gemuetsbewegung, die einen ergreift."
+      },
+      {
+        "wort": "hinreichend",
+        "definition": "sufficient, adequate -- enough to meet what a situation demands.",
+        "beispiel": "Die Massnahmen waren nicht hinreichend, um die Krise zu loesen.",
+        "etymologie": "Von hinreichen, ausreichen; woertlich: so weit reichend, dass es genuegt."
+      },
+      {
+        "wort": "die Bewaehrungsprobe",
+        "definition": "acid test, ordeal that proves one's worth -- a trial that shows whether something holds.",
+        "beispiel": "Jede Krise ist eine Bewaehrungsprobe fuer das Vertrauen in die Institutionen.",
+        "etymologie": "Aus sich bewaehren (sich als tauglich erweisen) und Probe; die Probe, in der man sich bewaehrt."
+      },
+      {
+        "wort": "die Handlungsfaehigkeit",
+        "definition": "capacity to act, agency -- the power to still do something when it counts.",
+        "beispiel": "In der Panik schien die Handlungsfaehigkeit des Staates bedroht.",
+        "etymologie": "Aus handeln, faehig und -keit; die Faehigkeit, wirksam zu handeln."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Erweitertes Partizipialattribut",
+        "beispiel": "einer nicht hinreichend bearbeiteten Bedrohung",
+        "erklaerung": "Zwischen Artikel und Nomen steht hier ein ganzes Satzglied: das Partizip bearbeiteten wird durch nicht hinreichend erweitert. Diese Konstruktion presst einen Nebensatz (eine Bedrohung, die nicht hinreichend bearbeitet wurde) in eine knappe Nominalphrase und ist ein Markenzeichen des wissenschaftlichen Deutsch.",
+        "erklaerung_en": "Between the article and the noun sits a whole clause's worth of information: the participle 'bearbeiteten' is expanded by 'nicht hinreichend'. This construction compresses a relative clause (a threat that was not sufficiently dealt with) into a tight noun phrase, a hallmark of academic German.",
+        "weitere_beispiele": [
+          "die von der Regierung lange ignorierten Probleme",
+          "ein kaum noch zu kontrollierender Vertrauensverlust"
+        ]
+      },
+      {
+        "struktur": "Konjunktiv I des Wunsches",
+        "beispiel": "das diffuse Bedürfnis, „jemand“ möge das Steuer übernehmen",
+        "erklaerung": "Die Form moege ist Konjunktiv I von moegen und drueckt hier einen Wunsch aus. In der indirekten Wiedergabe eines diffusen Verlangens signalisiert der Konjunktiv I, dass es sich nicht um eine Tatsache, sondern um ein Begehren handelt. Ausserhalb fester Wendungen wirkt dieser Gebrauch heute gehoben.",
+        "erklaerung_en": "The form 'moege' is Konjunktiv I of 'moegen' and here expresses a wish. In rendering a diffuse longing indirectly, the Konjunktiv I signals that this is not a fact but a desire. Outside fixed phrases this usage sounds elevated today.",
+        "weitere_beispiele": [
+          "Moege der Staat endlich handeln.",
+          "Er hegte den Wunsch, man moege ihn in Ruhe lassen."
+        ]
+      },
+      {
+        "struktur": "Nominalstil mit Praepositionalattributen",
+        "beispiel": "eine Erosion von politischem Vertrauen unter das Vorkrisenniveau",
+        "erklaerung": "Statt eines Verbs (das Vertrauen erodiert) waehlt der Text ein Nomen (eine Erosion) und haengt die Ergaenzungen als Praepositionalattribute an: von politischem Vertrauen, unter das Vorkrisenniveau. Dieser Nominalstil verdichtet den Vorgang zu einem Gegenstand und ist typisch fuer analytische Prosa.",
+        "erklaerung_en": "Instead of a verb (trust erodes), the text chooses a noun (an erosion) and attaches the complements as prepositional attributes: 'von politischem Vertrauen', 'unter das Vorkrisenniveau'. This nominal style condenses a process into an object and is typical of analytical prose.",
+        "weitere_beispiele": [
+          "der Rueckgang des Vertrauens in die Institutionen",
+          "eine Verschiebung der Meinung zugunsten der Opposition"
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "Vertrauen ist gut, Kontrolle ist besser.",
+      "uebersetzung": "Trust is good, control is better.",
+      "anmerkung": "Ein gefluegeltes Wort, das oft Lenin zugeschrieben wird, obwohl ein Beleg fehlt. Im Deutschen steht es fuer die Skepsis, dass blosses Vertrauen genuege; die Vertrauensforschung von Zoch und Wamsler zeigt, wie schnell aus dem ersten Teil des Satzes der zweite wird."
+    }
+  },
+  {
     "id": "tiefe-2026-06-25",
     "date": "2026-06-25",
     "titel": "Wir weben, wir weben",
