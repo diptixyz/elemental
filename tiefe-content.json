@@ -1,5 +1,177 @@
 [
   {
+    "id": "tiefe-2026-07-08",
+    "date": "2026-07-08",
+    "titel": "Wozu noch Wachstum?",
+    "leitgedanke": "Kaum eine Forderung gilt als so selbstverstaendlich und wird so selten begruendet wie die nach immer neuem Wachstum.",
+    "themen": [
+      "Wirtschaft",
+      "Wachstum",
+      "Gesellschaft"
+    ],
+    "quelle_url": "https://www.bpb.de/shop/zeitschriften/apuz/wachstum-2025/572531/warum-moderne-gesellschaften-wachstum-brauchen/",
+    "autor": "Julia Braun",
+    "werk": "Warum moderne Gesellschaften Wachstum brauchen (APuZ: Wachstum, 2025)",
+    "autor_kontext": "Julia Braun is a research associate at the Walter Eucken Institute in Freiburg and a doctoral candidate at the University of Freiburg. The institute is the intellectual home of ordoliberalism, the German school of economic thought that shaped the country's post-war 'social market economy'. Writing in 2025, Braun enters a debate that has sharpened as Germany faces a third year without growth and degrowth ideas gain ground. Her essay defends economic growth on social grounds, arguing that it pays for the welfare state many of its critics want to protect.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Julia Braun, Oekonomin am Walter-Eucken-Institut in Freiburg, stellt eine Frage, die in Deutschland selten offen ausgesprochen wird: Warum braucht eine Gesellschaft ueberhaupt Wachstum? Sie nimmt den Einwand der Postwachstums-Bewegung ernst und begruendet, welche Funktionen das Wachstum in einer reichen Volkswirtschaft heute erfuellt."
+        },
+        {
+          "typ": "zitat",
+          "text": "Immer häufiger ist von Deutschlands [[Wachstumsschwäche|weak growth, a faltering of economic expansion. The economy still grows, but only feebly.]] die Rede. Das Wachstum des [[Bruttoinlandsprodukts|(Genitive of Bruttoinlandsprodukt) gross domestic product, GDP; the total value an economy produces in a year.]] (BIP) zeigt für die Jahre 2023 und 2024 gar ein [[Abgleiten|a sliding off, a slipping away. Motion without a decision.]] in die Rezession. Auch im Jahr 2025 findet Deutschland voraussichtlich nicht aus der [[Stagnation|standstill; neither growth nor decline, a held breath. From Latin stagnum, a still pool.]] und gilt damit erneut als der „kranke Mann Europas“. Es wäre das dritte Jahr in Folge ohne Wachstum. Bei genauerer Betrachtung wird jedoch ersichtlich, dass Deutschland bereits 2018 – also deutlich vor der Covid-19-Pandemie – von seinem [[Wachstumskurs|growth trajectory, the path of expansion. Kurs = course, heading.]] abgekommen ist.",
+          "quelle": "Julia Braun, Warum moderne Gesellschaften Wachstum brauchen, APuZ: Wachstum, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Doch warum ist diese Stagnation, oder gar Rezession, problematisch? Schließlich argumentieren [[Befürworter|proponents, advocates; those who speak in favour of a cause.]] von Postwachstum und Degrowth, dass wir uns ohnehin von der [[Wachstumsfixierung|fixation on growth, the compulsion to keep expanding.]] verabschieden sollten. Die zentrale Frage lautet daher: Weshalb ist Wirtschaftswachstum für unsere Gesellschaft überhaupt notwendig?",
+          "quelle": "Julia Braun, Warum moderne Gesellschaften Wachstum brauchen, APuZ: Wachstum, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Die Antwort ist ebenso einfach wie [[vielschichtig|many-layered, complex; made of several strata to read one by one.]]. Wie die nachfolgenden Ausführungen zeigen, ist Wachstum wichtig, um den Lebensstandard zu erhöhen und grundlegende [[Bedürfnisse|needs; grundlegende Beduerfnisse are the basic requirements of a life.]] der Menschen zu befriedigen. In hochentwickelten Volkswirtschaften wie Deutschland erfüllt Wachstum heute vor allem drei zusätzliche Funktionen: Es wirkt erstens als Stabilisator von Wirtschaft und Gesellschaft, bildet zweitens die Basis für die Finanzierung des [[Sozialstaats|(Genitive of Sozialstaat) welfare state; the apparatus of pensions, health care and social insurance.]] und notwendige Investitionen und ist drittens die zentrale [[Voraussetzung|precondition, prerequisite; what must be in place before anything follows.]] für Innovation und technischen Fortschritt.",
+          "quelle": "Julia Braun, Warum moderne Gesellschaften Wachstum brauchen, APuZ: Wachstum, 2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Julia Braun, an economist at the Walter Eucken Institute in Freiburg, asks a question rarely voiced openly in Germany: why does a society need growth at all? She takes the objection of the post-growth movement seriously and sets out which functions growth fulfils in a wealthy economy today."
+        },
+        {
+          "typ": "zitat",
+          "text": "There is more and more talk of Germany's weak growth. The growth of gross domestic product (GDP) even shows, for the years 2023 and 2024, a slide into recession. In 2025 as well, Germany will presumably not find its way out of stagnation and is thus once again regarded as the \"sick man of Europe\". It would be the third year in a row without growth. On closer examination, however, it becomes apparent that Germany had already departed from its growth path in 2018 – that is, well before the Covid-19 pandemic.",
+          "quelle": "Julia Braun, Why Modern Societies Need Growth, APuZ: Growth, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "But why is this stagnation, or even recession, a problem? After all, proponents of post-growth and degrowth argue that we ought to bid farewell to the fixation on growth anyway. The central question is therefore: why is economic growth necessary for our society at all?",
+          "quelle": "Julia Braun, Why Modern Societies Need Growth, APuZ: Growth, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "The answer is as simple as it is many-layered. As the following remarks will show, growth matters in order to raise the standard of living and to satisfy people's basic needs. In highly developed economies such as Germany, growth today fulfils above all three additional functions: it acts, first, as a stabiliser of the economy and society; it forms, second, the basis for financing the welfare state and necessary investments; and it is, third, the central precondition for innovation and technical progress.",
+          "quelle": "Julia Braun, Why Modern Societies Need Growth, APuZ: Growth, 2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Schon John Stuart Mill beschrieb 1848 einen 'stationaeren Zustand', in dem eine Wirtschaft aufhoert zu wachsen und die Menschen sich der Kunst des Lebens zuwenden. Zweihundert Jahre spaeter kehrt dieser Gedanke in der Degrowth-Bewegung wieder. Braun erinnert daran, wie eng das Wachstum am Sozialstaat haengt: Renten, Kliniken und Schulen werden aus dem finanziert, was eine Volkswirtschaft zusaetzlich erwirtschaftet.",
+        "en": "As early as 1848 John Stuart Mill described a 'stationary state' in which an economy ceases to grow and people turn to the art of living. Two hundred years later the idea returns in the degrowth movement. Braun reminds us how tightly growth is bound to the welfare state: pensions, clinics and schools are financed out of what an economy produces on top."
+      },
+      {
+        "de": "In der Biologie beschreibt grenzenloses Wachstum einen Tumor. Genau hier setzt die oekologische Kritik an: Der Bericht des Club of Rome von 1972, 'Die Grenzen des Wachstums', rechnete vor, dass eine endliche Erde kein unendliches BIP tragen kann. Brauns Verteidigung des Wachstums und diese Warnung markieren die Pole, zwischen denen sich jede Klimapolitik heute bewegt.",
+        "en": "In biology, boundless growth describes a tumour. This is exactly where the ecological critique begins: the Club of Rome's 1972 report, 'The Limits to Growth', calculated that a finite Earth cannot carry an infinite GDP. Braun's defence of growth and this warning mark the poles between which every climate policy moves today."
+      },
+      {
+        "de": "Die Wendung vom 'kranken Mann Europas' stammt urspruenglich aus der Diplomatie des 19. Jahrhunderts und meinte das zerfallende Osmanische Reich. Dass eine Volkswirtschaft heute krank oder gesund heisst, verraet, wie tief medizinische Bilder unser Denken ueber Oekonomie praegen. Wer eine Rezession als Krankheit beschreibt, legt zugleich nahe, dass es eine Therapie und einen Normalzustand der Gesundheit gibt.",
+        "en": "The phrase 'the sick man of Europe' originally comes from nineteenth-century diplomacy and referred to the crumbling Ottoman Empire. That an economy today is called sick or healthy reveals how deeply medical images shape our thinking about the economy. Whoever describes a recession as an illness also implies that there is a therapy and a normal state of health."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Wachstumsschwäche",
+        "definition": "weak growth, a faltering of economic expansion. The economy still grows, but only feebly.",
+        "beispiel": "Von Deutschlands Wachstumsschwaeche ist immer haeufiger die Rede.",
+        "etymologie": "Wachstum (growth, from wachsen) + Schwaeche (weakness, from schwach)."
+      },
+      {
+        "wort": "das Bruttoinlandsprodukt",
+        "definition": "gross domestic product, GDP; the total value an economy produces in a year.",
+        "beispiel": "Das Bruttoinlandsprodukt schrumpfte zwei Jahre in Folge.",
+        "etymologie": "brutto (gross, from Italian) + Inland (domestic territory) + Produkt."
+      },
+      {
+        "wort": "das Abgleiten",
+        "definition": "a sliding off, a slipping away -- motion without a decision.",
+        "beispiel": "Das Abgleiten in die Rezession vollzog sich schleichend.",
+        "etymologie": "Nominalised infinitive of abgleiten: ab- (away) + gleiten (to glide)."
+      },
+      {
+        "wort": "die Stagnation",
+        "definition": "stagnation, a standstill; neither growth nor decline, a held breath.",
+        "beispiel": "Die Wirtschaft verharrt seit Jahren in der Stagnation.",
+        "etymologie": "From Latin stagnum, a still, standing pool of water."
+      },
+      {
+        "wort": "der Befürworter",
+        "definition": "proponent, advocate; one who speaks in favour of a cause.",
+        "beispiel": "Die Befuerworter des Degrowth lehnen die Wachstumsfixierung ab.",
+        "etymologie": "From befuerworten, to endorse; be- + Fuerwort, literally 'to put in a word for'."
+      },
+      {
+        "wort": "die Wachstumsfixierung",
+        "definition": "fixation on growth, the compulsion to keep expanding at all costs.",
+        "beispiel": "Kritiker werfen der Politik eine blinde Wachstumsfixierung vor.",
+        "etymologie": "Wachstum + Fixierung, from Latin figere, to fasten or fix in place."
+      },
+      {
+        "wort": "vielschichtig",
+        "definition": "many-layered, complex; made of several strata to be read one by one.",
+        "beispiel": "Die Antwort ist ebenso einfach wie vielschichtig.",
+        "etymologie": "viel (many) + Schicht (layer) + -ig; a Schicht is a geological or social stratum."
+      },
+      {
+        "wort": "das Bedürfnis",
+        "definition": "need, want; grundlegende Beduerfnisse are the basic requirements of a life.",
+        "beispiel": "Wachstum soll grundlegende Beduerfnisse der Menschen befriedigen.",
+        "etymologie": "From beduerfen, to be in need of; related to darben, to suffer want."
+      },
+      {
+        "wort": "der Sozialstaat",
+        "definition": "welfare state; the system of pensions, health care and social insurance a state provides.",
+        "beispiel": "Der Sozialstaat wird aus dem Wachstum der Volkswirtschaft finanziert.",
+        "etymologie": "sozial (social) + Staat (state); a 20th-century compound central to German self-understanding."
+      },
+      {
+        "wort": "die Voraussetzung",
+        "definition": "precondition, prerequisite -- what must be in place before anything can follow.",
+        "beispiel": "Bildung ist die Voraussetzung fuer technischen Fortschritt.",
+        "etymologie": "voraus (in advance) + setzen (to set, place); literally 'a setting-before'."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Konjunktiv II (Irrealis der Gegenwart)",
+        "beispiel": "Es wäre das dritte Jahr in Folge ohne Wachstum.",
+        "erklaerung": "Der Konjunktiv II 'waere' drueckt hier eine hypothetische, noch nicht sicher eingetretene Moeglichkeit aus. Braun schreibt ueber 2025, das noch nicht abgeschlossen ist; 'es waere' laesst offen, ob der Fall wirklich eintritt.",
+        "erklaerung_en": "The Konjunktiv II 'wäre' expresses a hypothetical possibility that has not yet definitely occurred. Braun is writing about 2025, which is not yet over; 'it would be' leaves open whether the case actually comes to pass.",
+        "weitere_beispiele": [
+          "Ohne Reformen waere der Sozialstaat bald nicht mehr finanzierbar.",
+          "Es waere ein Fehler, die Kritik einfach abzutun."
+        ]
+      },
+      {
+        "struktur": "Korrelat 'ebenso ... wie' (doppelter Vergleich)",
+        "beispiel": "Die Antwort ist ebenso einfach wie vielschichtig.",
+        "erklaerung": "Die Konstruktion 'ebenso ... wie' verbindet zwei Eigenschaften und stellt sie gleichrangig nebeneinander. Sie sagt: beide Aussagen gelten im gleichen Mass. So entsteht statt eines schlichten 'und' eine praegnante Balance zwischen zwei Polen.",
+        "erklaerung_en": "The construction 'ebenso ... wie' links two qualities and sets them side by side as equally valid. It says: both statements hold to the same degree. In place of a plain 'and', a compact balance between two poles emerges.",
+        "weitere_beispiele": [
+          "Der Vorschlag ist ebenso mutig wie umstritten.",
+          "Ihre Argumentation war ebenso klar wie unbequem."
+        ]
+      },
+      {
+        "struktur": "Gradpartikel 'gar' (Steigerung)",
+        "beispiel": "Doch warum ist diese Stagnation, oder gar Rezession, problematisch?",
+        "erklaerung": "Die Partikel 'gar' steigert hier die Aussage: sie fuehrt vom milderen Fall (Stagnation) zum schaerferen (Rezession) und signalisiert, dass sogar dieser extremere Fall gemeint sein kann. 'Oder gar' heisst so viel wie 'oder sogar'.",
+        "erklaerung_en": "The particle 'gar' intensifies the statement here: it moves from the milder case (stagnation) to the sharper one (recession) and signals that even this more extreme case may be meant. 'Oder gar' means roughly 'or even'.",
+        "weitere_beispiele": [
+          "Der Plan ist gewagt, gar riskant.",
+          "Manche halten das fuer schwierig, gar aussichtslos."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "der kranke Mann Europas",
+      "uebersetzung": "the sick man of Europe",
+      "anmerkung": "Urspruenglich bezeichnete die Wendung im 19. Jahrhundert das schwaechelnde Osmanische Reich. Heute wird sie auf jedes Land angewandt, dessen Wirtschaft laengere Zeit lahmt; in den vergangenen Jahren wiederholt auf Deutschland. Die Metapher macht aus einer Konjunkturlage eine Diagnose."
+    }
+  },
+  {
     "id": "tiefe-2026-07-07",
     "date": "2026-07-07",
     "titel": "Wenn die Sprache zerfaellt",
