@@ -1,5 +1,177 @@
 [
   {
+    "id": "tiefe-2026-07-09",
+    "date": "2026-07-09",
+    "titel": "Wem gehoert Groenland?",
+    "leitgedanke": "Zwischen fremden Begehrlichkeiten und schmelzendem Eis stellt sich die aelteste politische Frage neu: Wem gehoert ein Land, das seit viereinhalb Jahrtausenden bewohnt ist, und wer darf fuer es sprechen?",
+    "themen": [
+      "Geopolitik",
+      "Kolonialismus",
+      "Klima"
+    ],
+    "quelle_url": "https://www.bpb.de/system/files/dokument_pdf/APuZ_2025-38_online_Groenland_0.pdf",
+    "autor": "Luise Römer",
+    "werk": "Editorial, APuZ 38/2025: Grönland",
+    "autor_kontext": "Luise Römer is an editor at the Bundeszentrale für politische Bildung (Federal Agency for Civic Education), the German public institution that has published the journal 'Aus Politik und Zeitgeschichte' since 1953. This piece is her editorial to the September 2025 issue on Greenland: the short opening text in which an APuZ editor sets out why a given subject deserves attention now. It appeared as Donald Trump's renewed talk of acquiring the island had pushed Greenland back onto front pages. The editorial reflects the journal's remit, to make a contested political question legible to a general reader without smoothing away its difficulty.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Ein Editorial ist der kuerzeste Text einer Zeitschrift und oft der ehrlichste: In wenigen Saetzen sagt die Redaktion, warum ein Thema gerade jetzt zaehlt. Luise Roemer eroeffnet so die Groenland-Ausgabe der bpb-Zeitschrift 'Aus Politik und Zeitgeschichte' vom September 2025. In drei Absaetzen fuehrt sie von Trumps Kaufangebot ueber vier Jahrhunderte Kolonialgeschichte bis zum schmelzenden Eis."
+        },
+        {
+          "typ": "zitat",
+          "text": "„Grönland gehört den Grönländern.“ So [[unmissverständlich|unmistakable, unequivocal; so clear that no second reading is possible]] lehnte der damalige grönländische Ministerpräsident Múte B. Egede im Winter 2025 den Plan von US-Präsident Donald Trump ab, die größte Insel der Welt zu kaufen. Die für Militär und Handel strategisch wichtige Lage sowie wertvolle, noch [[ungehobene|unraised, not yet extracted; said of resources still in the ground]] Rohstoffvorkommen machen Grönland nicht nur für die USA, sondern auch für China und Russland interessant. In Grönland selbst strebt [[indes|meanwhile, however; a formal connector, the older sibling of 'indessen']] eine Mehrheit der Bevölkerung nach Unabhängigkeit: Bis heute gehört die Insel gemeinsam mit Dänemark und den Färöern zur „[[Reichsgemeinschaft|commonwealth of the realm; the German rendering of the Danish 'Rigsfaellesskab']]“ des Königreichs Dänemark.",
+          "quelle": "Luise Römer, Editorial, APuZ 38/2025: Grönland, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Die Spannungen zwischen [[Begehrlichkeiten|covetous desires, acquisitive claims; the wanting of what belongs to another]] von außen und den mitunter bis heute übersehenen Perspektiven der Grönländerinnen und Grönländer reichen weit zurück: Nach seiner Ankunft 1721 gründete der Pfarrer Hans Egede eine lutherische Mission auf der Insel, dänische Handelsplätze folgten. Im frühen 20. Jahrhundert stritten sich Dänemark und Norwegen um die [[Vorherrschaft|supremacy, predominance; literally 'rule-before', the position of the one who governs others]], bis Grönland 1933 vom Ständigen Internationalen Gerichtshof Dänemark zugesprochen wurde – die Stimmen der schon seit rund 4500 Jahren auf der Insel lebenden Inuit wurden nicht berücksichtigt. Die in Dänemark lange als mildtätig [[verklärte|transfigured, glorified; bathed in a nobler light than it deserved]] Kolonialherrschaft führte unter anderem zu Zwangsumsiedelungen und zur kulturellen [[Entwurzelung|uprooting; 'Wurzel' is root, the tearing of a people from the ground of its culture]] vieler Grönländerinnen und Grönländer. 1979 konnte das Land mit der Hjemmestyre (Heimverwaltung) einen Schritt Richtung Unabhängigkeit gehen, mehr Autonomierechte folgten 2009 mit der Selvstyre (Selbstverwaltung).",
+          "quelle": "Luise Römer, Editorial, APuZ 38/2025: Grönland, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Nicht nur Fragen um die politische [[Zugehörigkeit|belonging, affiliation; which state a territory is counted part of]] rücken Grönland zunehmend in den Blick der Weltöffentlichkeit: Nirgends schmilzt das Eis schneller als in der Arktis, der Grönländische [[Eisschild|ice sheet; 'Schild' is shield, the vast dome of ice covering the land]] ist der größte einzelne Verursacher des steigenden Meeresspiegels. Was dramatische Folgen für Küstenstriche weltweit hat, eröffnet zugleich kürzere Wege für die Schifffahrt und neue Zugänge zu Rohstoffvorkommen. Doch auch die Lebensgewohnheiten der grönländischen Bevölkerung verändern sich durch den Klimawandel. Es wäre ein Schritt hin zu einer internationalen Politik [[auf Augenhöhe|at eye level, as equals; meeting the other without looking down]], die Stimmen der Grönländerinnen und Grönländer nicht nur zu hören, sondern auch ernst zu nehmen.",
+          "quelle": "Luise Römer, Editorial, APuZ 38/2025: Grönland, 2025"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "An editorial is a magazine's shortest text and often its most honest: in a few sentences the editors say why a subject matters right now. This is how Luise Römer opens the Greenland issue of the bpb journal 'Aus Politik und Zeitgeschichte' from September 2025. In three paragraphs she moves from Trump's offer to buy the island, across four centuries of colonial history, to the melting ice."
+        },
+        {
+          "typ": "zitat",
+          "text": "'Greenland belongs to the Greenlanders.' This is how unequivocally the then Greenlandic prime minister Múte B. Egede rejected, in the winter of 2025, US President Donald Trump's plan to buy the largest island in the world. Its location, strategically important for military and trade, along with valuable, as-yet-unextracted raw material deposits, make Greenland of interest not only to the USA but also to China and Russia. In Greenland itself, meanwhile, a majority of the population strives for independence: to this day the island belongs, together with Denmark and the Faroes, to the 'Commonwealth of the Realm' of the Kingdom of Denmark.",
+          "quelle": "Luise Römer, Editorial, APuZ 38/2025: Greenland, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "The tensions between covetous desires from outside and the perspectives of the Greenlanders, at times overlooked to this day, reach far back: after his arrival in 1721, the pastor Hans Egede founded a Lutheran mission on the island, and Danish trading posts followed. In the early 20th century Denmark and Norway quarreled over supremacy, until in 1933 Greenland was awarded to Denmark by the Permanent Court of International Justice – the voices of the Inuit, who had already lived on the island for around 4,500 years, were not taken into account. The colonial rule, long transfigured in Denmark as charitable, led among other things to forced resettlements and to the cultural uprooting of many Greenlanders. In 1979 the country was able to take a step toward independence with the Hjemmestyre (Home Rule); more rights of autonomy followed in 2009 with the Selvstyre (Self-Rule).",
+          "quelle": "Luise Römer, Editorial, APuZ 38/2025: Greenland, 2025"
+        },
+        {
+          "typ": "zitat",
+          "text": "Not only questions of political belonging are bringing Greenland increasingly into the view of the world public: nowhere does the ice melt faster than in the Arctic, and the Greenland ice sheet is the single largest cause of the rising sea level. What has dramatic consequences for coastlines worldwide at the same time opens shorter routes for shipping and new access to raw material deposits. Yet the ways of life of the Greenlandic population are also changing through climate change. It would be a step toward an international politics on equal footing to not only hear the voices of the Greenlanders, but also to take them seriously.",
+          "quelle": "Luise Römer, Editorial, APuZ 38/2025: Greenland, 2025"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Der Schluss verlangt, die Stimmen der Groenlaenderinnen und Groenlaender ernst zu nehmen. Der Frankfurter Philosoph Axel Honneth nennt das Anerkennung: Menschen brauchen die Erfahrung, als Handelnde wahrgenommen zu werden, damit Rechte ueberhaupt etwas bedeuten. Kolonialgeschichte liest sich von hier aus als lange Verweigerung solcher Anerkennung, ein Verhandeln ueber Menschen ohne Gespraech mit ihnen.",
+        "en": "The closing line demands that the voices of Greenlanders be taken seriously. The Frankfurt philosopher Axel Honneth calls this recognition (Anerkennung): people need the experience of being perceived as agents for rights to mean anything at all. Read from here, colonial history looks like a long refusal of such recognition, a negotiating over people with no conversation with them."
+      },
+      {
+        "de": "Der groenlaendische Eisschild ist auch ein Archiv. In seinen Bohrkernen lagern Luftblasen, die die Atmosphaere vergangener Jahrtausende einschliessen; Klimaforscher lesen sie wie Jahresringe. Waehrend die Politik um Rohstoffe unter dem Eis streitet, verschwindet mit dem Schmelzen zugleich ein Gedaechtnis der Erde. Was Zugang eroeffnet, loescht an anderer Stelle eine Aufzeichnung, die sich nicht wiederherstellen laesst.",
+        "en": "The Greenland ice sheet is also an archive. Air bubbles trapped in its drill cores enclose the atmosphere of past millennia; climate researchers read them like tree rings. While politics argues over the raw materials beneath the ice, the melting erases a memory of the Earth. What opens access elsewhere deletes a record that cannot be restored."
+      },
+      {
+        "de": "Der Name traegt die Ironie schon in sich: 'Groenland', gruenes Land, nannte Erik der Rote im 10. Jahrhundert eine vereiste Kueste, um Siedler anzulocken. Heute nennt die Insel sich selbst Kalaallit Nunaat, 'Land der Menschen'. Zwischen beiden Namen liegt die ganze Frage des Editorials: ob ein Ort von aussen beschrieben oder von innen benannt wird.",
+        "en": "The name already carries the irony: 'Greenland', green land, was what Erik the Red called an ice-bound coast in the 10th century to lure settlers. Today the island calls itself Kalaallit Nunaat, 'Land of the People'. Between the two names lies the whole question of the editorial: whether a place is described from outside or named from within."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "die Begehrlichkeit",
+        "definition": "covetous desire, acquisitive claim -- the wanting of something that belongs to another, mostly used in the plural",
+        "beispiel": "Kleine Laender wecken oft die Begehrlichkeiten grosser Nachbarn.",
+        "etymologie": "Zu 'begehren' (heftig verlangen), verwandt mit 'Gier'; das Suffix -lichkeit macht aus der Haltung ein Substantiv."
+      },
+      {
+        "wort": "unmissverständlich",
+        "definition": "unmistakable, unequivocal -- so clear that no second reading is possible",
+        "beispiel": "Sie lehnte den Vorschlag unmissverstaendlich ab.",
+        "etymologie": "Verneinung von 'missverstehen'; woertlich 'nicht misszuverstehen'."
+      },
+      {
+        "wort": "die Vorherrschaft",
+        "definition": "supremacy, predominance -- the position of the one who rules over others",
+        "beispiel": "Zwei Maechte stritten lange um die Vorherrschaft in der Region.",
+        "etymologie": "'vor' plus 'Herrschaft'; die Herrschaft, die vor allen anderen steht."
+      },
+      {
+        "wort": "die Entwurzelung",
+        "definition": "uprooting -- the tearing of a person or people from the ground of home and culture",
+        "beispiel": "Die Vertreibung fuehrte zur Entwurzelung ganzer Familien.",
+        "etymologie": "Von 'Wurzel'; das Praefix ent- bezeichnet das Loesen, hier das Herausreissen aus dem Boden."
+      },
+      {
+        "wort": "verklären",
+        "definition": "to transfigure, to glorify -- to bathe something in a softer, nobler light than it deserves",
+        "beispiel": "Die Erinnerung neigt dazu, die Vergangenheit zu verklaeren.",
+        "etymologie": "Zu 'klar'; urspruenglich religioes fuer das Leuchten des Verwandelten, heute meist beschoenigend gemeint."
+      },
+      {
+        "wort": "indes",
+        "definition": "meanwhile, however -- a formal connector marking a turn or a simultaneous contrast",
+        "beispiel": "Die einen feierten; die anderen sahen indes nur den Verlust.",
+        "etymologie": "Aus mittelhochdeutsch 'in des' (in dem, waehrenddessen); Kurzform von 'indessen'."
+      },
+      {
+        "wort": "die Zugehörigkeit",
+        "definition": "belonging, affiliation -- the state of being counted part of a group or a state",
+        "beispiel": "Die Frage der staatlichen Zugehoerigkeit blieb lange offen.",
+        "etymologie": "Von 'zugehoeren' (dazugehoeren); das Gehoeren zu etwas Groesserem."
+      },
+      {
+        "wort": "ungehoben",
+        "definition": "unraised, not yet extracted -- said of treasure or resources still lying in the ground",
+        "beispiel": "Unter dem Eis liegen ungehobene Rohstoffe.",
+        "etymologie": "Verneintes Partizip von 'heben'; einen Schatz 'heben' heisst, ihn ans Licht holen."
+      },
+      {
+        "wort": "die Reichsgemeinschaft",
+        "definition": "commonwealth of the realm -- the German rendering of the Danish 'Rigsfaellesskab', binding Denmark, Greenland and the Faroes",
+        "beispiel": "Groenland gehoert zur Reichsgemeinschaft des Koenigreichs Daenemark.",
+        "etymologie": "'Reich' plus 'Gemeinschaft'; eine Gemeinschaft unter einem gemeinsamen Staatsdach."
+      },
+      {
+        "wort": "auf Augenhöhe",
+        "definition": "at eye level, as equals -- meeting another person without looking down on them",
+        "beispiel": "Verhandlungen auf Augenhoehe setzen gegenseitigen Respekt voraus.",
+        "etymologie": "'Auge' plus 'Hoehe'; das Bild zweier Menschen, deren Blicke sich auf gleicher Ebene treffen."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Vorgangspassiv im Praeteritum mit Agensangabe",
+        "beispiel": "bis Grönland 1933 vom Ständigen Internationalen Gerichtshof Dänemark zugesprochen wurde",
+        "erklaerung": "Das Vorgangspassiv bildet man mit 'werden' plus Partizip II, hier im Praeteritum ('wurde ... zugesprochen'). Es rueckt das Geschehen in den Vordergrund und laesst den Handelnden zuruecktreten. Wird der Urheber doch genannt, steht er mit 'von' (Person, Institution) oder 'durch' (Mittel): 'vom Gerichtshof zugesprochen'.",
+        "erklaerung_en": "The process passive (Vorgangspassiv) is formed with 'werden' plus the past participle, here in the simple past ('wurde ... zugesprochen', was awarded). It foregrounds the event and lets the actor recede. When the agent is still named, it takes 'von' (a person or institution) or 'durch' (a means), as in 'vom Gerichtshof zugesprochen'.",
+        "weitere_beispiele": [
+          "Die Stimmen der Inuit wurden nicht beruecksichtigt.",
+          "Das alte Statut wurde 2009 durch ein neues Autonomiegesetz ersetzt."
+        ]
+      },
+      {
+        "struktur": "Determinativkompositum mit Fugen-s",
+        "beispiel": "Doch auch die Lebensgewohnheiten der grönländischen Bevölkerung verändern sich durch den Klimawandel.",
+        "erklaerung": "Deutsch bildet Begriffe durch Zusammensetzung: Das letzte Glied bestimmt Wortart und Geschlecht, die vorderen Glieder praezisieren. 'Lebensgewohnheiten' sind Gewohnheiten des Lebens, 'Klimawandel' der Wandel des Klimas. Oft verbindet ein Fugen-s die Glieder ('Leben-s-gewohnheiten', 'Meere-s-spiegel'), ein Rest alter Genitivformen.",
+        "erklaerung_en": "German builds terms by compounding: the final element fixes the part of speech and gender, while the earlier elements narrow the meaning. 'Lebensgewohnheiten' are habits of life; 'Klimawandel' is the change of the climate. A linking 's' (Fugen-s) often joins the parts ('Leben-s-gewohnheiten', 'Meere-s-spiegel'), a remnant of old genitive forms.",
+        "weitere_beispiele": [
+          "das Rohstoffvorkommen (das Vorkommen an Rohstoffen)",
+          "die Reichsgemeinschaft (die Gemeinschaft eines Reiches)"
+        ]
+      },
+      {
+        "struktur": "Verallgemeinernder Relativsatz mit 'was' als Subjektsatz",
+        "beispiel": "Was dramatische Folgen für Küstenstriche weltweit hat, eröffnet zugleich kürzere Wege für die Schifffahrt und neue Zugänge zu Rohstoffvorkommen.",
+        "erklaerung": "Das Relativpronomen 'was' bezieht sich hier nicht auf ein einzelnes Nomen, sondern auf einen ganzen Sachverhalt. Der 'was'-Satz steht als Subjekt vor dem Hauptverb: 'Was ... hat, eroeffnet ...'. So laesst sich ein komplexer Zusammenhang benennen, ohne ihn vorher zu einem Substantiv zu buendeln.",
+        "erklaerung_en": "Here the relative pronoun 'was' refers not to a single noun but to a whole state of affairs. The 'was' clause serves as the subject standing before the main verb: 'Was ... hat, eröffnet ...' (What has ..., opens ...). This lets a complex situation be named without first packing it into a noun.",
+        "weitere_beispiele": [
+          "Was den einen nuetzt, schadet oft den anderen.",
+          "Was hier geschieht, betrifft Kuesten in aller Welt."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "über jemandes Kopf hinweg entscheiden",
+      "uebersetzung": "to decide over someone's head -- to make a decision affecting someone without consulting them",
+      "anmerkung": "Die Wendung trifft den Kern des Textes: Jahrhundertelang wurde ueber Groenland entschieden, ohne die Menschen dort zu fragen. Man gebraucht sie im Alltag wie in der Politik, etwa wenn eine Leitung ohne die Betroffenen bestimmt."
+    }
+  },
+  {
     "id": "tiefe-2026-07-08",
     "date": "2026-07-08",
     "titel": "Wozu noch Wachstum?",
