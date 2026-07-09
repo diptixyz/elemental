@@ -1,5 +1,177 @@
 [
   {
+    "id": "tiefe-2026-07-10",
+    "date": "2026-07-10",
+    "titel": "Ein Tanz um eine betaeubte Mitte",
+    "leitgedanke": "Rilke laesst einen gefangenen Panther zum Bild dafuer werden, wie staendige Wiederholung den Blick ermuedet und die Welt hinter den Staeben verschwinden laesst.",
+    "themen": [
+      "Wahrnehmung",
+      "Gefangenschaft",
+      "Lyrik"
+    ],
+    "quelle_url": "https://www.gutenberg.org/files/33863/33863-h/33863-h.htm",
+    "autor": "Rainer Maria Rilke",
+    "werk": "Der Panther (Neue Gedichte), 1903",
+    "autor_kontext": "Rainer Maria Rilke (1875-1926), born in Prague, is one of the most significant German-language lyric poets. He wrote 'Der Panther' around 1902-03 in Paris, where he worked as secretary to the sculptor Auguste Rodin, who taught him to observe objects with an almost physical patience -- the seed of Rilke's 'Dinggedicht' (thing-poem). He is said to have spent hours before the cages at the Jardin des Plantes. He died of leukemia in Switzerland in 1926.",
+    "haupttext": {
+      "de": [
+        {
+          "typ": "absatz",
+          "text": "Rilke schrieb dieses Gedicht in Paris, wo er den Bildhauer Auguste Rodin beobachtete und lernte, Dinge so lange und genau anzusehen, bis sie zu sprechen begannen. Der Panther im Jardin des Plantes wurde so zu einem seiner beruehmtesten Dinggedichte."
+        },
+        {
+          "typ": "zitat",
+          "text": "Sein Blick ist vom [[Vorübergehn|das Voruebergehen -- hier substantivierter Infinitiv; das staendige Vorbeiziehen der Gitterstaebe am Blick des Tieres]] der [[Stäbe|die Staebe -- die Gitterstangen des Kaefigs; Einzahl der Stab]]\nso müde geworden, daß er nichts mehr hält.\nIhm ist, als ob es tausend Stäbe gäbe\nund hinter tausend Stäben keine Welt.",
+          "quelle": "Rainer Maria Rilke, Der Panther (Neue Gedichte), 1903"
+        },
+        {
+          "typ": "zitat",
+          "text": "Der weiche Gang [[geschmeidig|geschmeidig -- biegsam, gelenkig, weich und ohne Steifheit in der Bewegung]] starker Schritte,\nder sich im allerkleinsten Kreise dreht,\nist wie ein Tanz von Kraft um eine Mitte,\nin der [[betäubt|betaeubt -- empfindungslos gemacht, wie unter Narkose; hier: gelaehmt, wie ausgeschaltet]] ein großer [[Wille|der Wille -- die Willenskraft, das Wollen; schwaches Nomen, Genitiv des Willens]] steht.",
+          "quelle": "Rainer Maria Rilke, Der Panther (Neue Gedichte), 1903"
+        },
+        {
+          "typ": "zitat",
+          "text": "Nur manchmal schiebt der Vorhang der [[Pupille|die Pupille -- die runde Sehoeffnung im Auge, durch die das Licht faellt]]\nsich [[lautlos|lautlos -- voellig ohne Geraeusch, ganz still]] auf—. Dann geht ein Bild hinein,\ngeht durch der [[Glieder|die Glieder -- die Koerperteile, Arme und Beine; Einzahl das Glied]] [[angespannte|angespannt -- unter Spannung stehend, gestrafft; koerperlich wie seelisch]] Stille—\nund hört im Herzen auf zu sein.",
+          "quelle": "Rainer Maria Rilke, Der Panther (Neue Gedichte), 1903"
+        }
+      ],
+      "en": [
+        {
+          "typ": "absatz",
+          "text": "Rilke wrote this poem in Paris, where he observed the sculptor Auguste Rodin and learned to look at things so long and so closely that they began to speak. The panther in the Jardin des Plantes thus became one of his most famous thing-poems (Dinggedichte)."
+        },
+        {
+          "typ": "zitat",
+          "text": "His gaze, from the passing by of the bars,\nhas grown so weary that it holds nothing more.\nTo him it is as though there were a thousand bars\nand behind a thousand bars no world.",
+          "quelle": "Rainer Maria Rilke, The Panther (New Poems), 1903"
+        },
+        {
+          "typ": "zitat",
+          "text": "The soft walk of supple, powerful strides,\nwhich turns in the very smallest circle,\nis like a dance of strength around a center\nin which, benumbed, a great will stands.",
+          "quelle": "Rainer Maria Rilke, The Panther (New Poems), 1903"
+        },
+        {
+          "typ": "zitat",
+          "text": "Only sometimes the curtain of the pupil\nparts soundlessly--. Then an image enters,\ngoes through the tensed stillness of the limbs--\nand ceases to be within the heart.",
+          "quelle": "Rainer Maria Rilke, The Panther (New Poems), 1903"
+        }
+      ]
+    },
+    "verbindungen": [
+      {
+        "de": "Rilke arbeitete in Paris als Sekretaer des Bildhauers Auguste Rodin, dessen Blick auf das Material ihn praegte. Aus dieser Zeit stammt das sogenannte Dinggedicht: Der Dichter tritt zurueck und laesst den Gegenstand selbst sprechen. Der Panther bleibt zuerst ein genau gesehenes Tier, an dem sich zeigt, wie Sehen und Erschoepfung zusammenhaengen.",
+        "en": "In Paris Rilke worked as secretary to the sculptor Auguste Rodin, whose way of looking at material shaped him. From this period comes the so-called thing-poem: the poet steps back and lets the object speak for itself. The panther remains first of all a precisely observed animal, in which one sees how perception and exhaustion are connected."
+      },
+      {
+        "de": "Was die Neurobiologie Habituation nennt, steht schon in der ersten Zeile: Ein Reiz, der sich unaufhoerlich wiederholt, hoert auf, wahrgenommen zu werden. Der Blick haelt nichts mehr. In der letzten Strophe kehrt sich das um -- ein einzelnes Bild dringt durch die Pupille ein, wandert durch den Koerper und erlischt im Herzen, bevor es Wirkung entfalten kann.",
+        "en": "What neurobiology calls habituation is already there in the first line: a stimulus that repeats itself endlessly stops being perceived. The gaze holds nothing more. In the final stanza this reverses -- a single image pushes in through the pupil, travels through the body, and dies away in the heart before it can take effect."
+      },
+      {
+        "de": "Die Mitte, in der betaeubt ein grosser Wille steht, erinnert an Schopenhauers Weltbild, in dem ein blinder Wille alles Lebendige antreibt. Bei Rilke bleibt dieser Wille erhalten, doch er ist betaeubt und in den kleinsten Kreis gesperrt. Dem Tier fehlt der Raum, in dem seine Kraft sich noch richten koennte.",
+        "en": "The center in which a great will stands benumbed recalls Schopenhauer's worldview, in which a blind will drives everything living. In Rilke the will is preserved, yet it is numbed and locked into the smallest circle. What the animal lacks is the space in which its strength could still direct itself."
+      }
+    ],
+    "wortschatz": [
+      {
+        "wort": "das Vorübergehen",
+        "definition": "the passing by -- substantivierter Infinitiv; das Vorbeiziehen von etwas an einem Betrachter",
+        "beispiel": "Vom Voruebergehen der Jahre bleibt oft nur ein leises Gefuehl.",
+        "etymologie": "Aus 'vorueber' (vorbei) und 'gehen'; die Substantivierung macht aus dem Vorgang ein Ding, das man betrachten kann."
+      },
+      {
+        "wort": "der Stab",
+        "definition": "rod, bar, staff -- hier die Gitterstange; auch Wanderstab oder Taktstock",
+        "beispiel": "Die Staebe des Kaefigs warfen lange Schatten auf den Boden.",
+        "etymologie": "Germanisch 'stab-', verwandt mit 'stabil'; urspruenglich etwas, das Halt und Stuetze gibt."
+      },
+      {
+        "wort": "geschmeidig",
+        "definition": "supple, lithe -- biegsam und weich in der Bewegung, ohne jede Steifheit",
+        "beispiel": "Mit geschmeidigen Bewegungen glitt die Katze durch den schmalen Spalt.",
+        "etymologie": "Von mittelhochdeutsch 'gesmidec', verwandt mit 'Schmied' und dem Metall, das sich unter dem Hammer formen laesst."
+      },
+      {
+        "wort": "betäubt",
+        "definition": "numbed, stunned -- empfindungslos gemacht, wie unter Narkose",
+        "beispiel": "Nach dem Laerm war er minutenlang wie betaeubt.",
+        "etymologie": "Zu 'taub' (ohne Gehoer, ohne Empfindung); 'betaeuben' hiess urspruenglich taub machen."
+      },
+      {
+        "wort": "der Wille",
+        "definition": "the will -- das bewusste Wollen, die Willenskraft; schwaches Nomen mit Genitiv 'des Willens'",
+        "beispiel": "Sein Wille war stark genug, um bis zum Ende durchzuhalten.",
+        "etymologie": "Germanisch 'wiljon-', verwandt mit lateinisch 'velle' (wollen)."
+      },
+      {
+        "wort": "die Pupille",
+        "definition": "the pupil of the eye -- die runde Oeffnung, durch die Licht ins Auge faellt",
+        "beispiel": "Im Dunkeln weiten sich die Pupillen ganz von selbst.",
+        "etymologie": "Von lateinisch 'pupilla' (Pueppchen), nach dem winzigen Spiegelbild, das man in fremden Augen sieht."
+      },
+      {
+        "wort": "lautlos",
+        "definition": "soundless, noiseless -- ganz ohne jedes Geraeusch",
+        "beispiel": "Die schwere Tuer oeffnete sich voellig lautlos.",
+        "etymologie": "Aus 'Laut' und der Endung '-los' (ohne); ein sehr haeufiges Wortbildungsmuster im Deutschen."
+      },
+      {
+        "wort": "das Glied",
+        "definition": "limb, member -- ein beweglicher Koerperteil wie Arm oder Bein; auch das Kettenglied",
+        "beispiel": "Nach dem langen Sitzen waren ihm alle Glieder steif.",
+        "etymologie": "Germanisch 'lithu-'; vom Koerperteil uebertragen auf jedes einzelne Teil einer Kette oder Reihe."
+      },
+      {
+        "wort": "angespannt",
+        "definition": "tense, taut, strained -- unter Spannung stehend, koerperlich wie seelisch",
+        "beispiel": "Vor der Pruefung war die Stimmung im Raum sehr angespannt.",
+        "etymologie": "Partizip von 'anspannen' (straff ziehen), urspruenglich vom Vorspannen der Zugtiere vor den Wagen."
+      },
+      {
+        "wort": "die Mitte",
+        "definition": "the center, middle -- der Punkt in gleichem Abstand zu allen Seiten; auch das innere Zentrum eines Menschen",
+        "beispiel": "In der Unruhe suchte er seine Mitte, seine innere Ruhe.",
+        "etymologie": "Germanisch 'midja-', verwandt mit lateinisch 'medius' (der mittlere)."
+      }
+    ],
+    "grammatik": [
+      {
+        "struktur": "Substantivierter Infinitiv mit Genitivattribut",
+        "beispiel": "vom Vorübergehn der Stäbe",
+        "erklaerung": "Der Infinitiv 'voruebergehen' wird durch den Artikel zum Substantiv ('das Voruebergehen') und traegt hier ein Genitivattribut ('der Staebe'). So verdichtet Rilke einen Vorgang zu einem Ding, das der Blick betrachten kann.",
+        "erklaerung_en": "The infinitive 'vorübergehen' (to pass by) becomes a noun through the article ('das Vorübergehen') and here takes a genitive attribute ('der Stäbe'). In this way Rilke condenses a process into a thing that the gaze can contemplate.",
+        "weitere_beispiele": [
+          "das Rauschen des Meeres",
+          "beim Kommen und Gehen der Gaeste"
+        ]
+      },
+      {
+        "struktur": "Irrealer Vergleichssatz mit 'als ob' (Konjunktiv II)",
+        "beispiel": "Ihm ist, als ob es tausend Stäbe gäbe",
+        "erklaerung": "Nach 'als ob' steht der Konjunktiv II, weil ein Vergleich mit etwas Nichtwirklichem gezogen wird. 'gaebe' ist der Konjunktiv II von 'geben'. Die Formulierung schildert den subjektiven Eindruck des Panthers und laesst offen, wie viele Staebe es wirklich sind.",
+        "erklaerung_en": "After 'als ob' the Konjunktiv II is used, because a comparison is drawn with something unreal. 'gäbe' is the Konjunktiv II of 'geben'. The phrasing renders the panther's subjective impression and leaves open how many bars there actually are.",
+        "weitere_beispiele": [
+          "Er tat, als ob er nichts gehoert haette.",
+          "Es klang, als ob jemand im Nebenzimmer weinte."
+        ]
+      },
+      {
+        "struktur": "Unpersoenliche Konstruktion mit Dativ: 'jemandem ist, als ...'",
+        "beispiel": "Ihm ist, als ob es tausend Stäbe gäbe",
+        "erklaerung": "'Ihm ist ...' ist eine unpersoenliche Wendung ohne echtes Subjekt; die Person steht im Dativ und erlebt einen inneren Zustand. Die Konstruktion drueckt ein Empfinden aus, aehnlich wie 'mir ist kalt' oder 'ihr ist schwindlig'.",
+        "erklaerung_en": "'Ihm ist ...' is an impersonal expression without a real subject; the person appears in the dative and undergoes an inner state. The construction expresses a sensation, similar to 'mir ist kalt' (I am cold) or 'ihr ist schwindlig' (she feels dizzy).",
+        "weitere_beispiele": [
+          "Mir ist, als haette ich das schon einmal erlebt.",
+          "Ihm war ploetzlich ganz leicht ums Herz."
+        ]
+      }
+    ],
+    "redewendung": {
+      "text": "sich im Kreis drehen",
+      "uebersetzung": "to go round in circles / to get nowhere",
+      "anmerkung": "Sagt man, wenn Bemuehungen ohne Fortschritt bleiben und immer wieder zum Ausgangspunkt zurueckfuehren. Rilkes Panther, der sich 'im allerkleinsten Kreise dreht', gibt der Redensart ein koerperliches Bild."
+    }
+  },
+  {
     "id": "tiefe-2026-07-09",
     "date": "2026-07-09",
     "titel": "Wem gehoert Groenland?",
